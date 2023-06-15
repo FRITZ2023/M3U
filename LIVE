@@ -53,7 +53,16 @@ http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#
+#EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 6 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 group-title="Bics Extra", TICAVISION CR
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png", UCV
@@ -107,6 +116,8 @@ https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?Playlist
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-2021 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
 hls://https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1,DIRECTV LIGA
 http://190.83.60.34:1414/play/a06a
 #EXTINF:-1,Directv Sports Fight
@@ -140,6 +151,8 @@ hls://https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
+#EXTINF:-1 group-title="Bics", ATV+ PE
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (614p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
