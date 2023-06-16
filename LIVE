@@ -53,14 +53,7 @@ http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 2 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 4 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 6 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
-#EXTINF:-1 group-title="Bics Extra", CANAL 11 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
@@ -116,6 +109,10 @@ https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?Playlist
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-2021 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
 hls://https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37809
+#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1096 | Azteca 7 || MÉXICO
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37787
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1,DIRECTV LIGA
