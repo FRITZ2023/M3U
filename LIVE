@@ -317,6 +317,17 @@ http://190.92.7.19:8000/play/a01u/index.m3u8
 #EXTINF:-1,ESPN 4
 http://190.92.7.19:8000/play/a033/index.m3u8
 #EXTINF:-1,ESPN 4 HD
+#EXTINF:-1,ESPN HD
+http://190.83.60.34:1414/play/a036
+#EXTINF:-1,ESPN 2 HD
+http://190.83.60.34:1414/play/a02c
+#EXTINF:-1,ESPN 3 HD
+http://190.83.60.34:1414/play/a026
+#EXTINF:-1,ESPN 4 HD
+http://190.83.60.34:1414/play/a02w
+#EXTINF:-1,ESPN EXTRA HD
+http://190.83.60.34:1414/play/a03n
+
 #EXTINF:-1,FOX Sports 2
 http://190.92.7.19:8000/play/a01v/index.m3u8
 #EXTINF:-1,Fox Sport 3
