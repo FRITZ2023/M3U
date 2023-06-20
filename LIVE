@@ -30,7 +30,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UCITV/40-hls/live-media.m3u8?
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=897287723&_cdn_timestamp=1687317928&_cdn_token=fdf5bd83b0102c9a412e2787f2bf65f8cb934db4
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=897289539&_cdn_timestamp=1687317960&_cdn_token=4d108916d06a6e41fdf525d431d04b01036b964d
-
+#EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
+https://livestream.perucast.com/hls/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 240 | El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Turbo
@@ -56,11 +57,6 @@ http://181.78.8.90:16123/play/ch32
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png", TV Peru Noticias | PE
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
-
-
-
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
 
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -69,24 +65,15 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
-
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed TV HD
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema | CR
-
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="",TeleSUR Costa Rica (720p) [Not 24/7]
-http://k3.usastreams.com/telesur/telesur/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
@@ -195,54 +182,40 @@ http://190.61.102.67:31589/play/a08m/index.m3u8
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 249 | DSports
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37843
-#EXTINF:-1,DIRECTV LIGA
-http://190.83.60.34:1414/play/a06a
-#EXTINF:-1,Directv Sports Fight
-http://190.83.60.34:1414/play/a069
-#EXTINF:-1,Directv Sports Plus
-http://190.83.60.34:1414/play/a06b
-#EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable 
-hls://https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+#EXTINF:-1,ESPN
+http://190.92.7.19:8000/play/a02k/index.m3u8
+#EXTINF:-1,ESPN +
+http://190.92.7.19:8000/play/a01l/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.92.7.19:8000/play/a02l/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.92.7.19:8000/play/a01u/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.92.7.19:8000/play/a033/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://190.83.60.34:1414/play/a036
+#EXTINF:-1,ESPN 2 HD
+http://190.83.60.34:1414/play/a02c
+#EXTINF:-1,ESPN 3 HD
+http://190.83.60.34:1414/play/a026
+#EXTINF:-1,ESPN 4 HD
+http://190.83.60.34:1414/play/a02w
+#EXTINF:-1,ESPN EXTRA HD
+http://190.83.60.34:1414/play/a03n
+#EXTINF:-1,FOX Sports 2
+http://190.92.7.19:8000/play/a01v/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://190.92.7.19:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
-https://servilive.com:3449/live/mlecaroslive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="SPAIN",Cgtn Espanol HD
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RadioConecta2/picture?width=320&height=320" group-title="Local",Conecta2TV (Lima) (720p) [Not 24/7]
-
-hls://https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="General",Latina (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/nazarenastv/picture?width=320&height=320" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=
-hls://https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics", ATV+ PE
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (614p)
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú (450p) [Not 24/7]
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="News",TV Perú Noticias (614p) [Not 24/7]
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV [Not 24/7]
-https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
-
 
 #EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV (1080p)
 https://live.seo.tv.bo/live/1SEO.m3u8
@@ -295,43 +268,8 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremoChannel.do" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="General",Xtremo Channel (720p)
 https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
-#EXTINF:-1,Claro Musica
-http://190.92.7.19:8000/play/a01y/index.m3u8
-#EXTINF:-1,Claro Sports 1 HD
-http://190.92.7.19:8000/play/a00o/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
-http://190.92.7.19:8000/play/a031/index.m3u8
-#EXTINF:-1,Claro Sports 2 HD
-http://190.92.7.19:8000/play/a00p/index.m3u8
-#EXTINF:-1,Claro Sports 2 SD
-http://190.92.7.19:8000/play/a01t/index.m3u8
 
-#EXTINF:-1,ESPN
-http://190.92.7.19:8000/play/a02k/index.m3u8
-#EXTINF:-1,ESPN +
-http://190.92.7.19:8000/play/a01l/index.m3u8
-#EXTINF:-1,ESPN 2
-http://190.92.7.19:8000/play/a02l/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.92.7.19:8000/play/a01u/index.m3u8
-#EXTINF:-1,ESPN 4
-http://190.92.7.19:8000/play/a033/index.m3u8
 
-#EXTINF:-1,ESPN HD
-http://190.83.60.34:1414/play/a036
-#EXTINF:-1,ESPN 2 HD
-http://190.83.60.34:1414/play/a02c
-#EXTINF:-1,ESPN 3 HD
-http://190.83.60.34:1414/play/a026
-#EXTINF:-1,ESPN 4 HD
-http://190.83.60.34:1414/play/a02w
-#EXTINF:-1,ESPN EXTRA HD
-http://190.83.60.34:1414/play/a03n
-
-#EXTINF:-1,FOX Sports 2
-http://190.92.7.19:8000/play/a01v/index.m3u8
-#EXTINF:-1,Fox Sport 3
-http://190.92.7.19:8000/play/a01c/index.m3u8
 
 #EXTINF:-1,Exa TV
 http://190.92.7.19:8000/play/a02m/index.m3u8
