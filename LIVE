@@ -28,8 +28,7 @@ http://45.228.234.162:24000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 65 | Univisión Latinoamérica
 http://181.189.243.254:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=891958283&_cdn_timestamp=1687137110&_cdn_token=73eeba4e56c9520134e1219e7f25e2112acc9a7c
-
+http://186.101.207.117:7654/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION", 199 | CNN en Español
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://lh3.googleusercontent.com/-36ZvtH-DlwY/YH3RC_yNV7I/AAAAAAABBuw/BZyMcxu0rB8npsk2JFP2hUBz75i_zO0cgCK8BGAsYHg/s512/2021-04-19.png", HispanTV | IR
@@ -50,12 +49,10 @@ https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA", 220 | Sun Channel
 http://181.189.243.254:8000/play/a0r9/index.m3u8
-#EXTINF:-1,El Gourmet
-http://190.92.7.19:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA", 221 | El Gourmet Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=891999195&_cdn_timestamp=1687137936&_cdn_token=a0b60e7201d79d45f521c49b59beb9ee0e5adcc3
-#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA", 222 | Food Network
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=892000499&_cdn_timestamp=1687137960&_cdn_token=302ed7d2b1fc9dfe71887628a1dc5962a73bfd13
+http://190.92.7.19:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA", 222 | Food Networ
+http://190.83.60.34:1414/play/a04i
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", 223 | Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | A La Cocina TV" tvg-name="PE | A La Cocina TV" tvg-logo="https://alacocinatv.com/wp-content/uploads/2023/02/cropped-ALACOCINA_LOGO_CAPAS-1-1-1-263x55.png" group-title="GASTRONOMÍA", 224 | A La Cocina TV
@@ -119,8 +116,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR | CL
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 225 | Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1" tvg-name="PE | Liga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="DEPORTES", 226 | Liga 1
@@ -193,8 +189,7 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.3 (1080p)
 https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
-#EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
-http://177.234.230.226:8010/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal (360p)
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
@@ -227,11 +222,9 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremoChannel.do" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="General",Xtremo Channel (720p)
-https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
 
-
-
+#EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
+http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1,Exa TV
 http://190.92.7.19:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
@@ -244,12 +237,12 @@ http://190.92.7.19:8000/play/a01o/index.m3u8
 http://190.92.7.19:8000/play/a00l/index.m3u8
 #EXTINF:-1,Golden
 http://190.92.7.19:8000/play/a021/index.m3u8
-#EXTINF:-1,Golden Premiere 2 HD
-http://190.92.7.19:8000/play/a00h/index.m3u8
 #EXTINF:-1,Golden Premiere HD
 http://190.92.7.19:8000/play/a00g/index.m3u8
-#EXTINF:-1,H2
+#EXTINF:-1,History 2
 http://190.92.7.19:8000/play/a01q/index.m3u8
+#EXTINF:-1,History HD
+http://190.92.7.19:8000/play/a01k/index.m3u8a00t/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://190.92.7.19:8000/play/a00v/index.m3u8
 #EXTINF:-1,HBO HD
@@ -259,15 +252,11 @@ http://190.92.7.19:8000/play/a00u/index.m3u8
 #EXTINF:-1,HBO XTREME
 http://190.92.7.19:8000/play/a00w/index.m3u8
 #EXTINF:-1,HBO2 HD
-http://190.92.7.19:8000/play/a00t/index.m3u8
+http://190.92.7.19:8000/play/
 #EXTINF:-1,HCH- HON
 http://190.92.7.19:8000/play/a00y/index.m3u8
 #EXTINF:-1,HTV
 http://190.92.7.19:8000/play/a020/index.m3u8
-#EXTINF:-1,History Channel
-http://190.92.7.19:8000/play/a02i/index.m3u8
-#EXTINF:-1,History HD
-http://190.92.7.19:8000/play/a01k/index.m3u8
 #EXTINF:-1,Hola!TV
 http://190.92.7.19:8000/play/a008/index.m3u8
 #EXTINF:-1,Home Garden Latino
