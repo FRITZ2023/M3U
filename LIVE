@@ -179,6 +179,20 @@ http://190.83.60.34:1414/play/a04f
 http://190.83.60.34:1414/play/a04m
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 253 | Movistar Deportes
 http://190.83.60.34:1414/play/a05s
+#EXTINF:-1 tvg-id="MX | TVC Deportes" tvg-name="MX | TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", 257 | TVC Deportes
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16602
+#EXTINF:-1 tvg-id="ES | Liga de Campeones por M+" tvg-name="ES | Liga de Campeones por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/250px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", 258 | Liga de Campeones por M+
+https://v3.playerlatino.live/stream/m3u8/890
+#EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", 259 | Eurosport 1
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494
+#EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", 259.2 | Eurosport 2
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90495
+#EXTINF:-1 tvg-id="ES | Gol Play" tvg-name="ES | Gol Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png" group-title="DEPORTES", 260 | Gol Play
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/6596
+#EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 261 | EX TV
+https://stream.plixitv.live/ex/ex/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", 262 | EdX TV
+https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Sky Sports" tvg-name="MX | Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/320px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 254 | Sky Sports
 http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
