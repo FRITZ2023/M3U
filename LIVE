@@ -40,11 +40,9 @@ https://livestream.perucast.com/hls/stream_low/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 382 | Best Cable Televisión || Lima
+https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 
-#EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 240 | El Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Turbo
-http://45.228.234.162:24000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", 59 | RCN Novelas
 http://181.189.243.254:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 60 | Pasiones
@@ -67,6 +65,8 @@ http://186.101.207.117:7654/play/a0cl/index.m3u8
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://lh3.googleusercontent.com/-36ZvtH-DlwY/YH3RC_yNV7I/AAAAAAABBuw/BZyMcxu0rB8npsk2JFP2hUBz75i_zO0cgCK8BGAsYHg/s512/2021-04-19.png", HispanTV | IR
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 188 | France 24
+https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
