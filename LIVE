@@ -45,7 +45,8 @@ http://88.19.180.185:8100/play/a00e
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
 https://livestream.perucast.com/hls/stream_low/index.m3u8
-
+#EXTINF:-1,10014 Huayno TV
+http://45.189.117.202:48000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 263 | Best Cable Music
@@ -200,6 +201,12 @@ http://190.83.60.34:1414/play/a03n
 http://190.92.7.19:8000/play/a01v/index.m3u8
 #EXTINF:-1,Fox Sport 3
 http://190.92.7.19:8000/play/a01c/index.m3u8
+#EXTINF:-1,HD FOX Sports 1
+http://45.169.163.169:8000/play/a00t
+#EXTINF:-1,HD FOX Sports 2
+http://45.169.163.169:8000/play/a00u
+#EXTINF:-1,HD FOX Sports 3
+http://45.169.163.169:8000/play/a00v
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
