@@ -33,8 +33,14 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UCITV/40-hls/live-media.m3u8?
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=918015571&_cdn_timestamp=1687992305&_cdn_token=7dc93898b75840f787f838bfa4b834ef90030b8e
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Televisión
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=918016203&_cdn_timestamp=1687992326&_cdn_token=215260e5805683f460f33c895be0e27677223a8e
-#EXTINF:-1 tvg-id="PE | RPP" tvg-name="PE | RPP" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_rpp.png" group-title="EMISORAS NACIONALES", 1188 | RPP Noticias 89.7 FM y 730 AM || Lima; Perú
-https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=4NDYUaPpnVuhGpp5fRf38VQ4BRR4mR2s&sid=m8fz1OGDNzCZPgwYKZdnEhElt12ge1Cu&uid=CEzVQN8HJbZQ6cZwAuHUf0AqbUXRLLl3&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1632805297432&ot=RpUEvE1z32AIl_guW2DLUQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Fradios.com.pe%2F
+#EXTINF:-1,CANAL 8
+http://88.19.180.185:8100/play/a01h
+#EXTINF:-1,PopularTV
+http://88.19.180.185:8100/play/a00a
+#EXTINF:-1,GOL PLAY
+http://88.19.180.185:8100/play/a015
+#EXTINF:-1,Realmadrid TV HD
+http://88.19.180.185:8100/play/a00e
 #EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" tvg-logo="https://pbs.twimg.com/media/FanGV4zXwAEhBWO?format=png&name=small" group-title="REGIONALES", 379 | Fuego TV || Lima
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
