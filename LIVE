@@ -104,7 +104,6 @@ http://181.189.243.254:8000/play/a0v0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
 http://186.101.207.117:7654/play/a0cl/index.m3u8
 
-
 #EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet | CL
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 219 | On Tour Channel
@@ -154,12 +153,10 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92233
 
 #EXTINF:-1,BEIN 1 🇵🇭
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
-
 #EXTINF:-1,BEIN 2 🇵🇭
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
 #EXTINF:-1, BEIN 1 🇬🇧
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
-
 
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
