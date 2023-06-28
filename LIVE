@@ -152,6 +152,15 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92234
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 227 | Liga 1 Max
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92233
 
+#EXTINF:-1,BEIN 1 🇵🇭
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
+
+#EXTINF:-1,BEIN 2 🇵🇭
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
+#EXTINF:-1, BEIN 1 🇬🇧
+http://edge02.odtv.az/o4/beinsport/playlist.m3u8
+
+
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
