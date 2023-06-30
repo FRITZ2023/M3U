@@ -151,10 +151,26 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 225 | Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
-#EXTINF:-1 tvg-id="PE | Liga 1" tvg-name="PE | Liga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="DEPORTES", 226 | Liga 1
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92234
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 227 | Liga 1 Max
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92233
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92233.m3u8
+#EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 228 | Golf Channel
+http://181.189.243.254:8000/play/a0qg/index.m3u8
+#EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", 229 | Fox Sports Premium
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 230 | Fox Sports 2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=932261491&_cdn_timestamp=1688435358&_cdn_token=a044d00a7b5e7f1637211019f14ffbdf972961d4
+#EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", 231 | Fox Sports 3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=932261827&_cdn_timestamp=1688435364&_cdn_token=3e86f3ff583f20ae24bebd0eb2cbf47c3043b49e
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 232 | ESPN
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=932262891&_cdn_timestamp=1688435378&_cdn_token=0d0321b1e375543b3c057375a1f436b8b7864488
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 233 | ESPN 2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=932264035&_cdn_timestamp=1688435390&_cdn_token=61c4b175fe056b8d4780aeb57dd3774e58767f7b
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 234 | ESPN 3
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=932267667&_cdn_timestamp=1688435439&_cdn_token=00488f8da4c6899cb7a96b88482ba9a3b5057469
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 235 | ESPN 4
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=932269059&_cdn_timestamp=1688435451&_cdn_token=352c3ffbc3a6c7dbdf4587a018f7f45771602d0f
+#EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES", 236 | ESPN Extra
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=925029907&_cdn_timestamp=1688214449&_cdn_token=049d8266e1062a1d7624e691bd786a708c05899e
 
 #EXTINF:-1,BEIN 1 🇵🇭
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282772
@@ -163,12 +179,7 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/282773
 #EXTINF:-1, BEIN 1 🇬🇧
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37809
-#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1096 | Azteca 7 || MÉXICO
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37787
+
 
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 251 | GolTV
 http://190.83.60.34:1414/play/a04f
