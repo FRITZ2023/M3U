@@ -155,6 +155,21 @@ https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/92233.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 228 | Golf Channel
 http://181.189.243.254:8000/play/a0qg/index.m3u8
+#EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 251 | GolTV
+http://190.83.60.34:1414/play/a04f
+#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 252 | Gol Perú
+http://190.83.60.34:1414/play/a04m
+#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 253 | Movistar Deportes
+http://190.83.60.34:1414/play/a05s
+#EXTINF:-1 tvg-id="ES | Liga de Campeones por M+" tvg-name="ES | Liga de Campeones por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/250px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", 258 | Liga de Campeones por M+
+https://v3.playerlatino.live/stream/m3u8/890
+
+#EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 249 | DSports
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
+#EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 249.2 | DSports 2
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
+#EXTINF:-1 tvg-id="AR | DSports+" tvg-name="AR | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", 249.3 | DSports+
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES", 229 | Fox Sports Premium
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", 230 | Fox Sports 2
@@ -179,28 +194,6 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 251 | GolTV
-http://190.83.60.34:1414/play/a04f
-#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 252 | Gol Perú
-http://190.83.60.34:1414/play/a04m
-#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 253 | Movistar Deportes
-http://190.83.60.34:1414/play/a05s
-#EXTINF:-1 tvg-id="ES | Liga de Campeones por M+" tvg-name="ES | Liga de Campeones por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/250px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="DEPORTES", 258 | Liga de Campeones por M+
-https://v3.playerlatino.live/stream/m3u8/890
-
-#EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 249 | DSports
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
-#EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 249.2 | DSports 2
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
-#EXTINF:-1 tvg-id="AR | DSports+" tvg-name="AR | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", 249.3 | DSports+
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
-
-#EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92073
-#EXTINF:-1 tvg-id="AR | DSports Motor" tvg-name="AR | DSports Motor" tvg-logo="https://www.totalmedios.com/img/noticias/2023/06/6481c3f81fdc4__838x390.jpg" group-title="DEPORTES", 249.5 | DSports Motor
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/116982
-
 #EXTINF:-1,ESPN
 http://190.92.7.19:8000/play/a02k/index.m3u8
 #EXTINF:-1,ESPN +
@@ -212,17 +205,6 @@ http://190.92.7.19:8000/play/a01u/index.m3u8
 #EXTINF:-1,ESPN 4
 http://190.92.7.19:8000/play/a033/index.m3u8
 
-
-#EXTINF:-1,FOX Sports 2
-http://190.92.7.19:8000/play/a01v/index.m3u8
-#EXTINF:-1,Fox Sport 3
-http://190.92.7.19:8000/play/a01c/index.m3u8
-#EXTINF:-1,HD FOX Sports 1
-http://45.169.163.169:8000/play/a00t
-#EXTINF:-1,HD FOX Sports 2
-http://45.169.163.169:8000/play/a00u
-#EXTINF:-1,HD FOX Sports 3
-http://45.169.163.169:8000/play/a00v
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports
