@@ -58,10 +58,16 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
+http://181.119.66.30:8000/play/49/index.m3u8
 #EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
 https://livestream.perucast.com/hls/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="PE | Atlantis TV" tvg-name="PE | Atlantis TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ATLANTIS_AYACUCHO.jpeg" group-title="REGIONALES", 438 | Atlantis TV || Ayacucho
+https://ott1.hdlatam.tv/live_abr/Atlantis/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Tele 2000" tvg-name="PE | Tele 2000" tvg-logo="https://pbs.twimg.com/profile_images/961951866903986177/JHvXzvxd_400x400.jpg" group-title="REGIONALES", 439 | Tele 2000 || Huanta
+https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1,10014 Huayno TV
 http://45.189.117.202:48000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sin TV" tvg-name="PE | Sin TV" tvg-logo="https://sintvperu.com/wp-content/uploads/2022/08/cropped-2.png" group-title="REGIONALES", 396 | Sin TV || Lima
