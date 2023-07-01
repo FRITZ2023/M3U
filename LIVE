@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,DHE
+#EXTINF:-1,DHE HD
 http://190.43.92.43:8989/play/a0xk/index.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=932094619&_cdn_timestamp=1688433201&_cdn_token=be2079bad510160b4b56c68b75717051819fc5a7
@@ -374,4 +374,4 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 218 | Discovery Home & Health
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Turbo
-http://190.60.37.127:8001/play/a04u/index.m3u8
+http://190.43.92.43:8989/play/a0z8/index.m3u8
