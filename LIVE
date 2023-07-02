@@ -198,6 +198,7 @@ http://190.92.7.19:8000/play/a01l/index.m3u8
 #EXTINF:-1,ESPN 2
 http://190.92.7.19:8000/play/a02l/index.m3u8
 #EXTINF:-1,ESPN 3
+http://190.92.7.19:8000/play/a01u/index.m3u8
 #EXTINF:-1, BEIN 1 🇬🇧
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
