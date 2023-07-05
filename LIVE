@@ -394,10 +394,6 @@ http://190.92.7.19:8000/play/a00l/index.m3u8
 http://190.92.7.19:8000/play/a021/index.m3u8
 #EXTINF:-1,Golden Premiere HD
 http://190.92.7.19:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", 324 | History 2
-http://190.92.7.19:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION", 323 | History HD
-http://190.92.7.19:8000/play/a01k/index.m3u8a00t/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://190.92.7.19:8000/play/a00v/index.m3u8
 #EXTINF:-1,HBO HD
