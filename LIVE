@@ -184,8 +184,6 @@ http://190.83.60.34:1414/play/a05s
 https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1,MX |* FOX HD  STAR+
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87062
 #EXTINF:-1,MX| TUDN FHD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87179
 #EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 255 | TUDN
@@ -420,6 +418,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Turbo
 http://190.43.92.43:8989/play/a0z8/index.m3u8
+#EXTINF:-1,MX |* FOX HD  STAR+
+http://playhispano.org:8080/marcos/UBNCfKt2W0/87062
 #EXTINF:-1,DISCOVERY CIVILIZATION HD
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87019
 #EXTINF:-1,CANAL DE LAS ESTRELLAS HD CDMX
