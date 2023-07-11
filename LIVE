@@ -424,8 +424,7 @@ http://190.92.7.19:8000/play/a008/index.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=902884363&_cdn_timestamp=1687494472&_cdn_token=8f4c7b59ffb96fd42060e59e6f9cba2af3b664f7
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA", 218 | Discovery Home & Health
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?
-#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Turbo
-http://190.43.92.43:8989/play/a0z8/index.m3u8
+
 #EXTINF:-1,MX |* FOX HD  STAR+
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87062
 #EXTINF:-1,DISCOVERY CIVILIZATION HD
