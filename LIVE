@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,DISCOVERYTURBO
-http://50.7.237.7:8081/DISCOVERYTURBO/index.m3u8
+http://45.183.220.35:8001/play/a033/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
 http://45.5.119.155:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
