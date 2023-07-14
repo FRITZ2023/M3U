@@ -417,8 +417,8 @@ http://190.92.7.19:8000/play/a02m/index.m3u8
 http://45.183.220.35:8001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 98 | Warner Channel
 http://45.183.220.35:8001/play/a02t/index.m3u8
-#EXTINF:-1,DISCOVERYKIDS
-http://50.7.237.7:8081/DISCOVERYKIDS/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://45.183.220.35:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION", 316 | Discovery Channel HD
 http://45.183.220.35:8001/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Science
