@@ -211,7 +211,8 @@ http://190.83.60.34:1414/play/a05s
 https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1,MX| TUDN FHD
+
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN MX LQ" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN FHD 
 http://playhispano.org:8080/marcos/UBNCfKt2W0/87179
 #EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 255 | TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
@@ -260,19 +261,19 @@ http://190.92.7.19:8000/play/a01u/index.m3u8
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1,bein SPORTS 1 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 1 HD
 http://81.49.224.77:8080/bein1/mpegts
-#EXTINF:-1,bein SPORTS 2 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 2 HD
 http://81.49.224.77:8080/bein2/mpegts
-#EXTINF:-1,bein SPORTS 3 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 3 HD
 http://81.49.224.77:8080/bein3/mpegts
-#EXTINF:-1,bein SPORTS 4 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 4 HD
 http://81.49.224.77:8080/bein4/mpegts
-#EXTINF:-1,bein SPORTS 5 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 5 HD
 http://81.49.224.77:8080/bein5/mpegts
-#EXTINF:-1,bein SPORTS 6 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 6 HD
 http://81.49.224.77:8080/bein6/mpegts
-#EXTINF:-1,bein SPORTS 7 HD
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 7 HD
 http://81.49.224.77:8080/bein7/mpegts
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
@@ -406,9 +407,10 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 91 | Studio Universal
 http://45.183.220.35:8001/play/a03f/index.m3u8
-#EXTINF:-1,032 Universal
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="http://l3d.us:25461/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="TV | 2 Megas",2MB | Universal Channel 
 http://45.183.220.35:8001/play/a03a/index.m3u8
-#EXTINF:-1,033 Golden
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="http://l3d.us:25461/images/d0ff88cf64fc4523df72698439c00309.png" group-title="TV | 2 Megas",2MB | Golden 
 http://45.183.220.35:8001/play/a023/index.m3u8
 
 #EXTINF:-1,Exa TV
@@ -423,7 +425,7 @@ http://45.183.220.35:8001/play/a03w/index.m3u8
 http://45.183.220.35:8001/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Science
 http://45.183.220.35:8001/play/a03s/index.m3u8
-#EXTINF:-1,047 Discovery ID
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",C | Discovery Investigation HD
 http://45.183.220.35:8001/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Turbo
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=963771395&_cdn_timestamp=1689397765&_cdn_token=76af20a1b56fec4a6ff764b829ee7a4e224e2b3e
@@ -449,13 +451,13 @@ http://45.183.220.35:8001/play/a00g/index.m3u8
 http://190.92.7.19:8000/play/a01o/index.m3u8
 #EXTINF:-1,Film & Arts
 http://190.92.7.19:8000/play/a00l/index.m3u8
-#EXTINF:-1,006 SONY
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="2MB | Sony" tvg-logo="http://l3d.us:25461/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | 2 Megas",2MB | Sony 
 http://45.183.220.35:8001/play/a02f/index.m3u8
 #EXTINF:-1,006 SONY HD
 http://45.183.220.35:8001/play/a02u/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT HD" tvg-logo="http://l3d.us:25461/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TV | 2 Megas",2MB | TNT HD 
 http://45.183.220.35:8001/play/a06j/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="2MB | TNT Series" tvg-logo="http://l3d.us:25461/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TV | 2 Megas",2MB | TNT Series HD
 http://45.183.220.35:8001/play/a09c/index.m3u8
 #EXTINF:-1,Golden Premiere HD
 http://190.92.7.19:8000/play/a00g/index.m3u8
