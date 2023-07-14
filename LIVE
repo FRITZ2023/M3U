@@ -441,11 +441,22 @@ http://45.183.220.35:8001/play/a00m/index.m3u8
 http://204.199.113.33:15017/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION", 324 | History HD
 http://45.183.220.35:8001/play/a00y/index.m3u8
+#EXTINF:-1,029 TCM
+http://45.183.220.35:8001/play/a024/index.m3u8
+#EXTINF:-1,046 Tru TV
+http://45.183.220.35:8001/play/a00g/index.m3u8
 #EXTINF:-1,FX
 http://190.92.7.19:8000/play/a01o/index.m3u8
 #EXTINF:-1,Film & Arts
 http://190.92.7.19:8000/play/a00l/index.m3u8
-
+#EXTINF:-1,006 SONY
+http://45.183.220.35:8001/play/a02f/index.m3u8
+#EXTINF:-1,006 SONY HD
+http://45.183.220.35:8001/play/a02u/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.183.220.35:8001/play/a06j/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://45.183.220.35:8001/play/a09c/index.m3u8
 #EXTINF:-1,Golden Premiere HD
 http://190.92.7.19:8000/play/a00g/index.m3u8
 #EXTINF:-1,HBO Family HD
