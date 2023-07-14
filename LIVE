@@ -239,7 +239,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=963758587&_cdn_timestamp=1689397102&_cdn_token=34aea51b24c786c9aaf5645b401ba198ee84f191
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 232 | ESPN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=963759035&_cdn_timestamp=1689397125&_cdn_token=f3178528e0656a9c6f01ec796f84db306fa65efc
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D | ESPN HD
 http://190.83.60.34:1414/play/a036
 #EXTINF:-1,ESPN 2 HD
 http://190.83.60.34:1414/play/a02c
