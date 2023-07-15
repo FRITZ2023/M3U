@@ -450,9 +450,9 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.
 http://45.183.220.35:8001/play/a024/index.m3u8
 #EXTINF:-1,046 Tru TV
 http://45.183.220.35:8001/play/a00g/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | FX
 http://190.92.7.19:8000/play/a01o/index.m3u8
-#EXTINF:-1,Film & Arts
+#EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="MISCELANEO", 209 | Film & Arts
 http://190.92.7.19:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 77 | SONY
 http://45.183.220.35:8001/play/a02f/index.m3u8
