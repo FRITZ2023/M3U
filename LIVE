@@ -416,8 +416,7 @@ http://45.183.220.35:8001/play/a023/index.m3u8
 http://181.189.243.254:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 121 | Golden Premier 2
 http://181.189.243.254:8000/play/a0od/index.m3u8
-
-#EXTINF:-1,Exa TV
+#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
 http://190.92.7.19:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
 http://45.183.220.35:8001/play/a03l/index.m3u8
