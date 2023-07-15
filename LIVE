@@ -9,7 +9,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=963688587&_cdn_timestamp=1689394436&_cdn_token=61bfe0dadfc003d184dbd3acb36b3a6c2c09767a
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=968323235&_cdn_timestamp=1689572415&_cdn_token=23d17ed893b03afb4aac01b3199548d599b15d87
-#EXTINF:-1,PLUSTV
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Plus TV
 http://45.71.252.29:8000/play/a00u/index.m3u8
 #EXTINF:-1,PerU MAgico
 http://45.71.252.29:8000/play/a00v/index.m3u8
