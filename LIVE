@@ -410,7 +410,12 @@ http://177.234.230.226:8010/play/a00e/index.m3u8
 http://45.183.220.35:8001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="http://l3d.us:25461/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="TV | 2 Megas",2MB | Universal Channel 
 http://45.183.220.35:8001/play/a03a/index.m3u8
-
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
+http://45.228.234.77:3340/play/goldenedge/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premier
+http://181.189.243.254:8000/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 121 | Golden Premier 2
+http://181.189.243.254:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="http://l3d.us:25461/images/d0ff88cf64fc4523df72698439c00309.png" group-title="TV | 2 Megas",2MB | Golden 
 http://45.183.220.35:8001/play/a023/index.m3u8
 
@@ -420,7 +425,7 @@ http://190.92.7.19:8000/play/a02m/index.m3u8
 http://45.183.220.35:8001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 98 | Warner Channel
 http://45.183.220.35:8001/play/a02t/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES", 149 | Discovery Kids HD
 http://45.183.220.35:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION", 316 | Discovery Channel HD
 http://45.183.220.35:8001/play/a09d/index.m3u8
