@@ -413,8 +413,6 @@ http://45.183.220.35:8001/play/a03a/index.m3u8
 http://45.183.220.35:8001/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
 http://190.92.7.19:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
-http://190.92.7.19:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
 http://45.183.220.35:8001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 98 | Warner Channel
@@ -469,8 +467,6 @@ http://190.92.7.19:8000/play/
 http://190.92.7.19:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 113 | HBO Family HD
 http://190.92.7.19:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 114 | HBO Xtreme
-http://190.92.7.19:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 114 | HBO Xtreme
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 115 | HBO Pop
