@@ -412,10 +412,8 @@ http://45.183.220.35:8001/play/a03f/index.m3u8
 http://45.183.220.35:8001/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
 http://45.183.220.35:8001/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premier
-http://181.189.243.254:8000/play/a0oc/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Premier 2" tvg-name="MX | Golden Premier 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="PELICULAS Y SERIES", 121 | Golden Premier 2
-http://181.189.243.254:8000/play/a0od/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://190.92.7.19:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
 http://190.92.7.19:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
@@ -464,8 +462,6 @@ http://45.183.220.35:8001/play/a02u/index.m3u8
 http://45.183.220.35:8001/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 117 | TNT Series 
 http://45.183.220.35:8001/play/a09c/index.m3u8
-#EXTINF:-1,Golden Premiere HD
-http://190.92.7.19:8000/play/a00g/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://190.92.7.19:8000/play/a00v/index.m3u8
 #EXTINF:-1,HBO HD
