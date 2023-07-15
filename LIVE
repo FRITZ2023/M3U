@@ -555,7 +555,6 @@ https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-
 #EXTINF:-1,HCH- HON
 http://190.92.7.19:8000/play/a00y/index.m3u8
 #EXTINF:-1,HTV
@@ -563,4 +562,22 @@ http://190.92.7.19:8000/play/a020/index.m3u8
 #EXTINF:-1,Hola!TV
 http://190.92.7.19:8000/play/a008/index.m3u8
 
-
+#EXTINF:-1 group-title="PELÍCULAS",007 GOLDEN EYE 1
+http://archive.org/download/mio53_yopmail_1/1.mp4
+#EXTINF:-1 group-title="PELÍCULAS",007 TOMORROW NEVER DIES 2
+http://archive.org/download/mio53_yopmail_2/2.mp4
+#EXTINF:-1 group-title="PELÍCULAS",007 EL MUNDO NO BASTA (1999)
+http://archive.org/download/mio53_yopmail_3/3.mp4
+#EXTINF:-1 group-title="PELÍCULAS",007 SKYFALL 5
+http://archive.org/download/mio53_yopmail_5/5.mp4
+#EXTINF:-1 group-title="PELÍCULAS",007 THE DEAD ARE ALIVE 6
+http://archive.org/download/mio53_yopmail_6/6.mp4
+#EXTINF:-1 group-title="PELÍCULAS",007 CASINO ROYALE 7
+http://archive.org/download/mio53_yopmail_7/7.mp4
+#EXTINF:-1 group-title="PELÍCULAS",007 QUANTUM OF SOLANCE 8
+#EXTINF:-1 group-title="PELÍCULAS",7 SEMILLAS
+http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
+#EXTINF:-1 group-title="PELÍCULAS",ZAPATERO A TUS ZAPATOS
+http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
+#EXTINF:-1 group-title="PELÍCULAS",SHAZAM
+http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
