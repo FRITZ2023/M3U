@@ -454,9 +454,9 @@ http://45.183.220.35:8001/play/a00g/index.m3u8
 http://190.92.7.19:8000/play/a01o/index.m3u8
 #EXTINF:-1,Film & Arts
 http://190.92.7.19:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="2MB | Sony" tvg-logo="http://l3d.us:25461/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | 2 Megas",2MB | Sony 
+#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 77 | SONY
 http://45.183.220.35:8001/play/a02f/index.m3u8
-#EXTINF:-1,006 SONY HD
+#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 77 | SONY HD
 http://45.183.220.35:8001/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 116 | TNT HD 
 http://45.183.220.35:8001/play/a06j/index.m3u8
