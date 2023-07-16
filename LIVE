@@ -82,6 +82,7 @@ http://79.23.71.142:8000/play/a00g
 #EXTINF:-1,Rai Premium
 http://79.23.71.142:8000/play/a00j
 #EXTINF:-1,Turrialba Digital TV CR
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9SpOzX4TVKdcpKXQJtTi-b4uGq0a0JHgaLdNTVAYfg&s" group-title="ARGENTINA", Turrialba Digital TV | CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="CR | RETRO TV PALMARES CR" tvg-name="CR | RETRO TV PALMARES CR" tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w=w240-h480" group-title="COSTA RICA", 828 | RETRO TV PALMARES || COSTA RICA
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
