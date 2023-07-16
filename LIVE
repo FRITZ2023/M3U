@@ -119,7 +119,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 http://177.234.230.226:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
 https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Señal Perú TV" tvg-name="PE | Señal Perú TV" tvg-logo="https://señalperutv.pe/wp-content/uploads/2022/08/mg_2.gif" group-title="REGIONALES", 393 | Señal Perú TV || Surquillo; Lima
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1m3OtWNQd_VXXlfcr9KcxR5GIYfJxvqWTPPvCnopdmEJ-nqxq61wkv91ALSiRYFcXZw&usqp=CAU" group-title="Peliculas",Señal Perú TV || Surquillo; Lima
 https://livestream.perucast.com/hls/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
