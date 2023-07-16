@@ -79,7 +79,7 @@ http://79.23.71.142:8000/play/a010
 http://79.23.71.142:8000/play/a011
 #EXTINF:-1,Rai Movie HD
 http://79.23.71.142:8000/play/a00g
-#EXTINF:-1,Rai Premium
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
 http://79.23.71.142:8000/play/a00j
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
