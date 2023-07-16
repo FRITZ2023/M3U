@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Arena Sport 1 HD
+http://185.216.167.18:5555/play/a02y
+#EXTINF:-1,AutoMotorSport HD
+http://185.216.167.18:5555/play/a03k
+#EXTINF:-1,DTX HD (PP)
+http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", 318 | Discovery Turbo
 http://45.181.122.169:8000/play/a026
+#EXTINF:-1,DISCOVERY TURBO HD 99
+http://179.51.168.13:4000/play/a05u
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
 http://45.5.119.155:8000/play/a0gy/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
@@ -520,7 +528,10 @@ http://190.92.7.19:8000/play/a00v/index.m3u8
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 115 | HBO Pop
 http://190.83.60.34:1414/play/a01j
-
+MUSIC 4EVER
+rtmp://93.189.60.202//970
+#EXTINF:-1,iConcert
+http://185.216.167.18:5555/play/a03j
 #EXTINF:-1 tvg-id="USA | Nick Music" tvg-name="USA | Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/220px-NickMusic.svg.png" group-title="MUSICA Y REALITIES", 265 | Nick Music
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_session=963766275&_cdn_timestamp=1689397507&_cdn_token=025c31b20a002588fb775772539d49baf1329223
 #EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA Y REALITIES", 266 | MTV
