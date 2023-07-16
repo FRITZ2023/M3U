@@ -5,7 +5,7 @@ http://185.216.167.18:5555/play/a02y
 http://185.216.167.18:5555/play/a03k
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2k0bxOQPpSPIUlybFKaq39aJJL4BObHXrDroFm9eLDRiGq7r6Y54332zzzb9PCHKA3gs&usqp=CAU" group-title="Peliculas",DTX HD (PP)
 http://185.6.22.6:8000/play/a02z
-#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/186/48/png-transparent-discovery-hd-discovery-turbo-television-discovery-channel-dtx-discovery-turbo-television-text-logo-thumbnail.png" group-title="Peliculas",DISCOVERY TURBO HD 99
+#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
 http://179.51.168.13:4000/play/a05u
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
 http://45.5.119.155:8000/play/a0gy/index.m3u8
