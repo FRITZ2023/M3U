@@ -77,7 +77,7 @@ http://79.23.71.142:8000/play/a02g
 http://79.23.71.142:8000/play/a010
 #EXTINF:-1,Rai 5
 http://79.23.71.142:8000/play/a011
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/512px-Rai_Movie_HD_-_Logo_2017.svg.png?20190808170909" group-title="Peliculas",Rai Movie HD
+#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903582b1074d_RaiMovieHD.png.9db53646802fca636625a816ad5df220.png" group-title="Peliculas",Rai Movie HD
 http://79.23.71.142:8000/play/a00g
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
 http://79.23.71.142:8000/play/a00j
