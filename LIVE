@@ -7,6 +7,16 @@ http://185.216.167.18:5555/play/a03k
 http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
 http://179.51.168.13:4000/play/a05u
+#EXTINF:-1,5042 Travelxp HD
+http://190.90.252.200:16001/play/a02e/index.m3u8
+#EXTINF:-1,13-Sinart
+http://190.83.116.230:9010/play/a0bd/index.m3u8
+#EXTINF:-1,Señal Colombia HD
+http://190.43.92.176:9898/play/a0od/index.m3u8
+#EXTINF:-1,TV+ HD
+http://190.43.92.176:9898/play/a0nu/index.m3u8
+#EXTINF:-1,TVN HD
+http://190.43.92.176:9898/play/a0mt/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
 http://45.5.119.155:8000/play/a0gy/index.m3u8
 #EXTINF:-1,Clover HD
@@ -75,7 +85,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" tvg-logo="https://pbs.twimg.com/media/FanGV4zXwAEhBWO?format=png&name=small" group-title="REGIONALES", 379 | Fuego TV || Lima
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=968544699&_cdn_timestamp=1689597301&_cdn_token=fd4a1e0c0690d7a9236d6990a9726df0a09c696c
+https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital TV" tvg-name="PE | Onda Digital TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ONDA_DIGITAL_TV_Lima.png" group-title="REGIONALES", 397 | Onda Digital TV || Lima
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 381 | Best Cable Televisión || Lima
