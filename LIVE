@@ -106,15 +106,15 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://190.242.104.58:9092/play/e091
-#EXTINF:-1,Rai 1 HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDxpMtYrdzSR_qgLzN7CL_ODHau9cLwj8BCjsB_Vbei76qIXxVZQMYu9-bcvAG6b-qxc&usqp=CAU" group-title="Peliculas",Rai 1 HD
 http://79.23.71.142:8000/play/a00c
-#EXTINF:-1,Rai 2 HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 2 HD
 http://79.23.71.142:8000/play/a00d
-#EXTINF:-1,Rai 3 HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 3 HD
 http://79.23.71.142:8000/play/a02g
-#EXTINF:-1,Rai 4
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 4
 http://79.23.71.142:8000/play/a010
-#EXTINF:-1,Rai 5
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 5
 http://79.23.71.142:8000/play/a011
 #EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903582b1074d_RaiMovieHD.png.9db53646802fca636625a816ad5df220.png" group-title="Peliculas",Rai Movie HD
 http://79.23.71.142:8000/play/a00g
