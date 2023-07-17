@@ -7,9 +7,9 @@ http://185.216.167.18:5555/play/a03k
 http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
 http://179.51.168.13:4000/play/a05u
-#EXTINF:-1,5042 Travelxp HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://190.90.252.200:16001/play/a02e/index.m3u8
-#EXTINF:-1,13-Sinart
+#EXTINF:-1, tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Sinart-Canal-Trece-Costa-Rica-en-VIVO-Online-en-Directo.png?resize=696%2C392&ssl=1" group-title="Peliculas",13-Sinart
 http://190.83.116.230:9010/play/a0bd/index.m3u8
 #EXTINF:-1,Señal Colombia HD
 http://190.43.92.176:9898/play/a0od/index.m3u8
