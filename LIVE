@@ -110,11 +110,11 @@ http://190.242.104.58:9092/play/e091
 http://79.23.71.142:8000/play/a00c
 #EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/515/794/png-clipart-rai-2-television-rai-4-logo-others-television-text-thumbnail.png" group-title="Peliculas",Rai 2 HD
 http://79.23.71.142:8000/play/a00d
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 3 HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcGXHlHTmzvgk0YfPKAt86auhtcWWD30jSjrkDrIjGqqSlGlinW1hY2WSqre9HC3we2g&usqp=CAU" group-title="Peliculas",Rai 3 HD
 http://79.23.71.142:8000/play/a02g
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 4
+#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/378/803/png-clipart-rai-4-television-rai-1-logo-smarphone-television-angle-thumbnail.png" group-title="Peliculas",Rai 4
 http://79.23.71.142:8000/play/a010
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 5
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXP8GcXYHqV3sh254mjy9q7kdRlf4CNccoSdgrGO-zYSaBIXfPOaGWNvDlipj2wnhLkk8&usqp=CAU" group-title="Peliculas",Rai 5
 http://79.23.71.142:8000/play/a011
 #EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903582b1074d_RaiMovieHD.png.9db53646802fca636625a816ad5df220.png" group-title="Peliculas",Rai Movie HD
 http://79.23.71.142:8000/play/a00g
