@@ -133,6 +133,18 @@ https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5
 http://177.234.230.226:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
 https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
+#EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA", 220 | Sun Channel
+http://181.189.243.254:8000/play/a0r9/index.m3u8
+#EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA", 221 | El Gourmet Televisión
+http://190.92.7.19:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA", 222 | Food Network HD
+http://190.83.60.34:1414/play/a04i
+#EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", 223 | Mundo & Sabor
+https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+#EXTINF:-1,24 Kitchen
+http://45.92.69.96:2052/play/a0fx
+#EXTINF:-1 tvg-id="PE | A La Cocina TV" tvg-name="PE | A La Cocina TV" tvg-logo="https://alacocinatv.com/wp-content/uploads/2023/02/cropped-ALACOCINA_LOGO_CAPAS-1-1-1-263x55.png" group-title="GASTRONOMÍA", 224 | A La Cocina TV
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/40378
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1m3OtWNQd_VXXlfcr9KcxR5GIYfJxvqWTPPvCnopdmEJ-nqxq61wkv91ALSiRYFcXZw&usqp=CAU" group-title="Peliculas",Señal Perú TV || Surquillo; Lima
 https://livestream.perucast.com/hls/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
@@ -188,19 +200,7 @@ http://186.101.207.117:7654/play/a0cl/index.m3u8
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 219 | On Tour Channel
 https://marine2.miplay.cl/ontour/playlist.m3u8
-#EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA", 220 | Sun Channel
-http://181.189.243.254:8000/play/a0r9/index.m3u8
-#EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA", 221 | El Gourmet Televisión
-http://190.92.7.19:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA", 222 | Food Network HD
-http://190.83.60.34:1414/play/a04i
-#EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", 223 | Mundo & Sabor
-https://marine2.miplay.cl/mundoysabor/playlist.m3u8
-#EXTINF:-1,24 Kitchen
-http://45.92.69.96:2052/play/a0fx
 
-#EXTINF:-1 tvg-id="PE | A La Cocina TV" tvg-name="PE | A La Cocina TV" tvg-logo="https://alacocinatv.com/wp-content/uploads/2023/02/cropped-ALACOCINA_LOGO_CAPAS-1-1-1-263x55.png" group-title="GASTRONOMÍA", 224 | A La Cocina TV
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/40378
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
