@@ -108,7 +108,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 http://190.242.104.58:9092/play/e091
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDxpMtYrdzSR_qgLzN7CL_ODHau9cLwj8BCjsB_Vbei76qIXxVZQMYu9-bcvAG6b-qxc&usqp=CAU" group-title="Peliculas",Rai 1 HD
 http://79.23.71.142:8000/play/a00c
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 2 HD
+#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/515/794/png-clipart-rai-2-television-rai-4-logo-others-television-text-thumbnail.png" group-title="Peliculas",Rai 2 HD
 http://79.23.71.142:8000/play/a00d
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",Rai 3 HD
 http://79.23.71.142:8000/play/a02g
