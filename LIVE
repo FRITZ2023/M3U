@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Arena Sport 1 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena_sport_sk_1.png" group-title="Peliculas",Arena Sport 1 HD
 http://185.216.167.18:5555/play/a02y
 #EXTINF:-1, tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FAuto_motor_sport_channel_logo.png%2F800px-Auto_motor_sport_channel_logo.png&tbnid=R6t-VG7oryn5PM&vet=12ahUKEwjSnOn15ZSAAxUzFbkGHWRWALQQMygAegUIARC9AQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAuto_motor_sport_channel_logo.png&docid=dpwgNJWZ9Lk2iM&w=800&h=238&q=Auto%20Motor%20Sport%20HD%20logo%20png&client=opera&ved=2ahUKEwjSnOn15ZSAAxUzFbkGHWRWALQQMygAegUIARC9AQ" group-title="Peliculas",AutoMotorSport HD
 http://185.216.167.18:5555/play/a03k
