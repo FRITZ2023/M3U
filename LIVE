@@ -149,6 +149,8 @@ http://190.92.7.19:8000/play/a01r/index.m3u8
 http://190.83.60.34:1414/play/a04i
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA", 223 | Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GamaTV
+http://45.179.140.242:8000/play/a0jq
 #EXTINF:-1,24 Kitchen
 http://45.92.69.96:2052/play/a0fx
 #EXTINF:-1 tvg-id="PE | A La Cocina TV" tvg-name="PE | A La Cocina TV" tvg-logo="https://alacocinatv.com/wp-content/uploads/2023/02/cropped-ALACOCINA_LOGO_CAPAS-1-1-1-263x55.png" group-title="GASTRONOMÍA", 224 | A La Cocina TV
