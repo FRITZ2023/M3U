@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1,TV3
 http://88.216.83.245/tv3/index.m3u8
-#EXTINF:-1,LIUKS
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2TVlogo.png/220px-2TVlogo.png" group-title="Peliculas",LIUKS 2TV
 http://88.216.83.245/liuks/index.m3u8
-#EXTINF:-1,TV6
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/T/tv6-logo-113C4659B3-seeklogo.com.png" group-title="Peliculas",TV6
 http://88.216.83.245/tv6/index.m3u8
-#EXTINF:-1,TV8
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/T/tv8-logo-31F56BB769-seeklogo.com.png" group-title="Peliculas",TV8
 http://88.216.83.245/tv8/index.m3u8
-#EXTINF:-1,RTG
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtgint_black.png?VN78YZfSo1ppAZif46XHJvAz8k71PPmS&itok=EWWHQVxg" group-title="Peliculas",RTG
 http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1, tvg-logo="https://banner2.cleanpng.com/20180531/epq/kisspng-bandsports-high-definition-television-sky-latin-am-band-5b10772ca9a202.5709007015278057406948.jpg" group-title="Peliculas",BAND SPORTS
 http://187.95.95.243/Band-Sports/index.m3u8
