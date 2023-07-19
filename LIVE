@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/T/tv6-logo-113C4659B3-seeklogo.com.png" group-title="Peliculas",TV3 Estonian Latvian Lithuanian
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/150px-TV3_Group_Logo.svg.png" group-title="Peliculas",TV3 Estonian Latvian Lithuanian
 http://88.216.83.245/tv3/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2TVlogo.png/220px-2TVlogo.png" group-title="Peliculas",LIUKS 2TV
 http://88.216.83.245/liuks/index.m3u8
