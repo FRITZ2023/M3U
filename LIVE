@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,TV3
+http://88.216.83.245/tv3/index.m3u8
+#EXTINF:-1,LIUKS
+http://88.216.83.245/liuks/index.m3u8
+#EXTINF:-1,TV6
+http://88.216.83.245/tv6/index.m3u8
+#EXTINF:-1,TV8
+http://88.216.83.245/tv8/index.m3u8
+#EXTINF:-1,RTG
+http://88.216.83.245/rtg/index.m3u8
 #EXTINF:-1, tvg-logo="https://banner2.cleanpng.com/20180531/epq/kisspng-bandsports-high-definition-television-sky-latin-am-band-5b10772ca9a202.5709007015278057406948.jpg" group-title="Peliculas",BAND SPORTS
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Discovery_Turbo_Xtra_HD_Logo.png/800px-Discovery_Turbo_Xtra_HD_Logo.png?20140511180400" group-title="Peliculas",DTX HD (PP)
 http://185.6.22.6:8000/play/a02z
