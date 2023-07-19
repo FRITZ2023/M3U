@@ -81,7 +81,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_c
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=976386531&_cdn_timestamp=1689907953&_cdn_token=6a19d30f012c840b4f5e8ba7de214e1e99d4b871
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=976490347&_cdn_timestamp=1689910106&_cdn_token=3389cb06ebd68e6354ee7e67a992b45786ff411b
-#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES", En prueba | Nativa Televisión
+#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES",Nativa Televisión
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" tvg-logo="https://pbs.twimg.com/media/FanGV4zXwAEhBWO?format=png&name=small" group-title="REGIONALES", 379 | Fuego TV || Lima
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
