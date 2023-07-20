@@ -23,6 +23,30 @@ http://45.5.119.155:8000/play/a0gy/index.m3u8
 http://190.43.92.176:9898/play/a0t1/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
 http://177.53.153.21:8001/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="DEPORTES 2",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTES 2",Abu Dhabi Sports 1 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTES 2",Abu Dhabi Sports 2 
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2 
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: HD",Combate HD+
+http://51.222.87.103:8880/287994016241/287994016241/16703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="DEPORTES 2",KBP Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png" group-title="DEPORTES 2",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0.jpeg" group-title="DEPORTES 2", MAROC SPORTS
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="DEPORTES 2", Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK ARG
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTES",ATG Tv
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Peliculas",TUDN FHD
 http://190.83.116.230:9010/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1096 | Azteca 7 || MÉXICO
@@ -131,6 +155,8 @@ http://79.23.71.142:8000/play/a011
 http://79.23.71.142:8000/play/a00g
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
 http://79.23.71.142:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="CR | RETRO TV PALMARES CR" tvg-name="CR | RETRO TV PALMARES CR" tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w=w240-h480" group-title="COSTA RICA", 828 | RETRO TV PALMARES || COSTA RICA
