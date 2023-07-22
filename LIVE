@@ -1,4 +1,41 @@
 #EXTM3U
+#EXTINF:-1,124 - LIGA 1 MAX HD
+http://201.218.137.232:4123/play/a017/index.m3u8
+#EXTINF:-1,103 - GolTV HD
+http://201.218.137.232:4123/play/a04z/index.m3u8
+#EXTINF:-1,104 - Gol Peru HD
+http://201.218.137.232:4123/play/a050/index.m3u8
+#EXTINF:-1,105 - Movistar Deportes HD
+http://201.218.137.232:4123/play/a051/index.m3u8
+#EXTINF:-1,106 - ESPN HD
+http://201.218.137.232:4123/play/a052/index.m3u8
+#EXTINF:-1,107 - ESPN 2 HD
+http://201.218.137.232:4123/play/a053/index.m3u8
+#EXTINF:-1,108 - ESPN 3 HD
+http://201.218.137.232:4123/play/a054/index.m3u8
+#EXTINF:-1,109 - ESPN 4 HD
+http://201.218.137.232:4123/play/a055/index.m3u8
+#EXTINF:-1,110 - ESPN EXTRA HD
+http://201.218.137.232:4123/play/a056/index.m3u8
+#EXTINF:-1,111 - Fox Sports HD
+http://201.218.137.232:4123/play/a057/index.m3u8
+#EXTINF:-1,112 - Fox Sports 2 HD
+http://201.218.137.232:4123/play/a058/index.m3u8
+#EXTINF:-1,113 - Fox Sports 3 HD
+http://201.218.137.232:4123/play/a059/index.m3u8
+#EXTINF:-1,114 - DSports HD
+http://201.218.137.232:4123/play/a05a/index.m3u8
+#EXTINF:-1,115 - DSports 2 HD
+http://201.218.137.232:4123/play/a05b/index.m3u8
+#EXTINF:-1,116 - DSports + HD
+http://201.218.137.232:4123/play/a05c/index.m3u8
+#EXTINF:-1,117 - TNT Sports HD
+#EXTINF:-1,BEIN BOX OFFICE 1
+http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
+#EXTINF:-1,BEIN BOX OFFICE 2
+http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
+#EXTINF:-1,FRANCE INFO
+http://149.7.102.223:8080/FRANCEINFO/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2TVlogo.png/220px-2TVlogo.png" group-title="Peliculas",LIUKS 2TV
@@ -98,14 +135,14 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 252 | Gol Perú HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 253 | Movistar Deportes
-http://190.83.60.34:1414/play/a05s
-#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Televisión
+#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 253 | Movistar Deportes HD
+http://201.218.137.232:4123/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
 http://190.43.92.176:9898/play/a0oo/index.m3u8
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América Televisión
-http://190.43.92.176:9898/play/a0on/index.m3u8
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Televisión
-http://190.43.92.176:9898/play/a0vv/index.m3u8
+#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
+http://201.218.137.232:4123/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
+http://201.218.137.232:4123/play/a01x/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
 http://190.43.92.176:9898/play/a0tn/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico
@@ -117,7 +154,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=986615707&_cdn_timestamp=1690260225&_cdn_token=fec4b155fcb4cda664571f0a7c91bd737b43e27c
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
-http://177.53.153.21:8001/play/a01c/index.m3u8
+http://200.106.124.195:9898/play/a0te/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=986616955&_cdn_timestamp=1690260269&_cdn_token=c764cde06c8f26199d30f8d1c4976e78e1e3b3c3
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
