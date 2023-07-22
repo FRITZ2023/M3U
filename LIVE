@@ -82,6 +82,16 @@ http://190.83.60.34:1414/play/a036
 http://190.83.60.34:1414/play/a02c
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", DIRECTV Liga 1 Max
 http://177.53.153.21:8001/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 252 | DSports
+http://201.218.137.232:4123/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 252.2 | DSports 2
+http://201.218.137.232:4123/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES", 252.3 | DSports +
+http://201.218.137.232:4123/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 255 | TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 249.2 | DSports 2
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
 #EXTINF:-1 tvg-id="AR | DSports+" tvg-name="AR | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", 249.3 | DSports+
