@@ -720,22 +720,23 @@ http://190.92.7.19:8000/play/a020/index.m3u8
 #EXTINF:-1,Hola!TV
 http://190.92.7.19:8000/play/a008/index.m3u8
 
-#EXTINF:-1 group-title="PELÍCULAS",007 GOLDEN EYE 1
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf_xBpyhG7IRBqMY8mljZ9UFShV9h9Y-cqg&usqp=CAU" group-title="PELÍCULAS",007 GOLDEN EYE 1
 http://archive.org/download/mio53_yopmail_1/1.mp4
-#EXTINF:-1 group-title="PELÍCULAS",007 TOMORROW NEVER DIES 2
+#EXTINF:-1, tvg-logo="https://diaryofamoviemaniac.files.wordpress.com/2017/08/a13.jpg" group-title="PELÍCULAS",007 TOMORROW NEVER DIES 2
 http://archive.org/download/mio53_yopmail_2/2.mp4
-#EXTINF:-1 group-title="PELÍCULAS",007 EL MUNDO NO BASTA (1999)
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/original/7WWg1NiW0RpODJbmJ7J4Cd3RcIJ.jpg" group-title="PELÍCULAS",007 EL MUNDO NO BASTA (1999)
 http://archive.org/download/mio53_yopmail_3/3.mp4
-#EXTINF:-1 group-title="PELÍCULAS",007 SKYFALL 5
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwCSWZfq3692CYlOWQQqieMg0UmE86xzbpA&usqp=CAU" group-title="PELÍCULAS",007 SKYFALL 5
 http://archive.org/download/mio53_yopmail_5/5.mp4
-#EXTINF:-1 group-title="PELÍCULAS",007 THE DEAD ARE ALIVE 6
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQ_ULlCUCjOPHZ6PD4cOM1OB6jnHYM8IBFyIAQ1l_i_jIfJtWcOHODLog4lFtnz1spoc&usqp=CAU" group-title="PELÍCULAS",007 THE DEAD ARE ALIVE 6
 http://archive.org/download/mio53_yopmail_6/6.mp4
-#EXTINF:-1 group-title="PELÍCULAS",007 CASINO ROYALE 7
+#EXTINF:-1, tvg-logo="https://www.007.com/wp-content/uploads/2018/11/casino007_WEBSITE_IMAGE_SIZE_LANDSCAPE.png" group-title="PELÍCULAS",007 CASINO ROYALE 7
 http://archive.org/download/mio53_yopmail_7/7.mp4
-#EXTINF:-1 group-title="PELÍCULAS",007 QUANTUM OF SOLANCE 8
-#EXTINF:-1 group-title="PELÍCULAS",7 SEMILLAS
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4904UF4YlrLN2nW4kdYxa-6Zs61NVLzaPqAOoAX-p&s" group-title="PELÍCULAS",007 QUANTUM OF SOLANCE 8
+http://archive.org/download/mio53_yopmail_8/8.mp4
+#EXTINF:-1, tvg-logo="https://pics.filmaffinity.com/Siete_semillas-250223374-mmed.jpg" group-title="PELÍCULAS",7 SEMILLAS
 http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
-#EXTINF:-1 group-title="PELÍCULAS",ZAPATERO A TUS ZAPATOS
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e658abc428a58405061814dd6703ea3873574c1e199aac4bfda1092c4dfdef7c._RI_TTW_.jpg" group-title="PELÍCULAS",ZAPATERO A TUS ZAPATOS
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
-#EXTINF:-1 group-title="PELÍCULAS",SHAZAM
+#EXTINF:-1, tvg-logo="https://images.justwatch.com/poster/304667074/s718/shazam-2.%7Bformat%7D" group-title="PELÍCULAS",SHAZAM
 http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
