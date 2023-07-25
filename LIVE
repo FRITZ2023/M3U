@@ -38,6 +38,8 @@ http://201.218.137.232:4123/play/a00c/index.m3u8
 http://201.218.137.232:4123/play/a00j/index.m3u8
 #EXTINF:-1,117.3 - El Canal del Futbol HD
 http://201.218.137.232:4123/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Bics", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1,117.4 - Tigo Sports HD
 http://201.218.137.232:4123/play/a00s/index.m3u8
 #EXTINF:-1,117.5 - Claro Sports 1 HD
