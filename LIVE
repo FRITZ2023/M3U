@@ -67,16 +67,7 @@ http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 http://149.7.102.223:8080/FRANCEINFO/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2TVlogo.png/220px-2TVlogo.png" group-title="Peliculas",LIUKS 2TV
-http://88.216.83.245/liuks/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/150px-TV3_Group_Logo.svg.png" group-title="Peliculas",TV3
-http://88.216.83.245/tv3/index.m3u8
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/T/tv6-logo-113C4659B3-seeklogo.com.png" group-title="Peliculas",TV6
-http://88.216.83.245/tv6/index.m3u8
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/T/tv8-logo-31F56BB769-seeklogo.com.png" group-title="Peliculas",TV8
-http://88.216.83.245/tv8/index.m3u8
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtgint_black.png?VN78YZfSo1ppAZif46XHJvAz8k71PPmS&itok=EWWHQVxg" group-title="Peliculas",RTG
-http://88.216.83.245/rtg/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://banner2.cleanpng.com/20180531/epq/kisspng-bandsports-high-definition-television-sky-latin-am-band-5b10772ca9a202.5709007015278057406948.jpg" group-title="Peliculas",BAND SPORTS
 http://187.95.95.243/Band-Sports/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Discovery_Turbo_Xtra_HD_Logo.png/800px-Discovery_Turbo_Xtra_HD_Logo.png?20140511180400" group-title="Peliculas",DTX HD (PP)
@@ -234,22 +225,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
-http://190.242.104.58:9092/play/e091
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDxpMtYrdzSR_qgLzN7CL_ODHau9cLwj8BCjsB_Vbei76qIXxVZQMYu9-bcvAG6b-qxc&usqp=CAU" group-title="Peliculas",Rai 1 HD
-http://79.23.71.142:8000/play/a00c
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/515/794/png-clipart-rai-2-television-rai-4-logo-others-television-text-thumbnail.png" group-title="Peliculas",Rai 2 HD
-http://79.23.71.142:8000/play/a00d
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcGXHlHTmzvgk0YfPKAt86auhtcWWD30jSjrkDrIjGqqSlGlinW1hY2WSqre9HC3we2g&usqp=CAU" group-title="Peliculas",Rai 3 HD
-http://79.23.71.142:8000/play/a02g
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/378/803/png-clipart-rai-4-television-rai-1-logo-smarphone-television-angle-thumbnail.png" group-title="Peliculas",Rai 4
-http://79.23.71.142:8000/play/a010
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXP8GcXYHqV3sh254mjy9q7kdRlf4CNccoSdgrGO-zYSaBIXfPOaGWNvDlipj2wnhLkk8&usqp=CAU" group-title="Peliculas",Rai 5
-http://79.23.71.142:8000/play/a011
-#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903582b1074d_RaiMovieHD.png.9db53646802fca636625a816ad5df220.png" group-title="Peliculas",Rai Movie HD
-http://79.23.71.142:8000/play/a00g
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
-http://79.23.71.142:8000/play/a00j
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
