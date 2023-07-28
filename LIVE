@@ -423,20 +423,7 @@ http://190.92.7.19:8000/play/a01u/index.m3u8
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 1 HD
-http://81.49.224.77:8080/bein1/mpegts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 2 HD
-http://81.49.224.77:8080/bein2/mpegts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 3 HD
-http://81.49.224.77:8080/bein3/mpegts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 4 HD
-http://81.49.224.77:8080/bein4/mpegts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 5 HD
-http://81.49.224.77:8080/bein5/mpegts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 6 HD
-http://81.49.224.77:8080/bein6/mpegts
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS 7 HD
-http://81.49.224.77:8080/bein7/mpegts
+
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports
