@@ -1,15 +1,4 @@
-#EXTM3U#EXTINF:-1,OXOTHNK (ANIMAL) RUSS
-http://87.246.54.84:4022/udp/239.66.100.4:5500
-#EXTINF:-1,PESCA RUSS
-http://87.246.54.84:4022/udp/239.66.100.5:5500
-#EXTINF:-1,ANKAR PBIGANKA HD PESCA RUSS
-http://87.246.54.84:4022/udp/239.66.100.6:5500
-#EXTINF:-1,AMKAR OXOTA HD DOG CAZA RUSS
-http://87.246.54.84:4022/udp/239.66.100.7:5500
-#EXTINF:-1,ABTO SPORT RUSS
-http://87.246.54.84:4022/udp/239.66.100.8:5500
-#EXTINF:-1,ABTO24  RUSS
-http://87.246.54.84:4022/udp/239.66.100.9:5500
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="DEPORTE",Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="MotorVision.eu" group-title="DEPORTE",Motorvision TV
@@ -248,9 +237,48 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDxpMtYrdzSR_qgLzN7CL_ODHau9cLwj8BCjsB_Vbei76qIXxVZQMYu9-bcvAG6b-qxc&usqp=CAU" group-title="Peliculas",Rai 1 HD
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14562
+#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/515/794/png-clipart-rai-2-television-rai-4-logo-others-television-text-thumbnail.png" group-title="Peliculas",Rai 2 HD
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14563
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcGXHlHTmzvgk0YfPKAt86auhtcWWD30jSjrkDrIjGqqSlGlinW1hY2WSqre9HC3we2g&usqp=CAU" group-title="Peliculas",Rai 3 HD
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14564
+#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/378/803/png-clipart-rai-4-television-rai-1-logo-smarphone-television-angle-thumbnail.png" group-title="Peliculas",Rai 4
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14565
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXP8GcXYHqV3sh254mjy9q7kdRlf4CNccoSdgrGO-zYSaBIXfPOaGWNvDlipj2wnhLkk8&usqp=CAU" group-title="Peliculas",Rai 5
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14566
+#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903582b1074d_RaiMovieHD.png.9db53646802fca636625a816ad5df220.png" group-title="Peliculas",Rai Movie HD
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14577
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14578
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Canale 5 HD+" tvg-logo="" group-title="IT : Italia",|IT| Canale 5 HD+
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14567
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Italia 1 HD+" tvg-logo="" group-title="IT : Italia",|IT| Italia 1 HD+
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14568
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Italia 2" tvg-logo="" group-title="IT : Italia",|IT| Italia 2
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14569
+#EXTINF:-1 tvg-id="" tvg-name="|IT| LA 7 HD+" tvg-logo="" group-title="IT : Italia",|IT| LA 7 HD+
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14570
+#EXTINF:-1 tvg-id="" tvg-name="|IT| LA 7d HD+" tvg-logo="" group-title="IT : Italia",|IT| LA 7d HD+
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14571
+#EXTINF:-1 tvg-id="" tvg-name="|IT| RSI LA 1 HD+" tvg-logo="" group-title="IT : Italia",|IT| RSI LA 1 HD+
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14573
+#EXTINF:-1 tvg-id="" tvg-name="|IT| RSI LA 2 HD+" tvg-logo="" group-title="IT : Italia",|IT| RSI LA 2 HD+
+http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,OXOTHNK (ANIMAL) RUSS
+http://87.246.54.84:4022/udp/239.66.100.4:5500
+#EXTINF:-1,PESCA RUSS
+http://87.246.54.84:4022/udp/239.66.100.5:5500
+#EXTINF:-1,ANKAR PBIGANKA HD PESCA RUSS
+http://87.246.54.84:4022/udp/239.66.100.6:5500
+#EXTINF:-1,AMKAR OXOTA HD DOG CAZA RUSS
+http://87.246.54.84:4022/udp/239.66.100.7:5500
+#EXTINF:-1,ABTO SPORT RUSS
+http://87.246.54.84:4022/udp/239.66.100.8:5500
+#EXTINF:-1,ABTO24  RUSS
+http://87.246.54.84:4022/udp/239.66.100.9:5500
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="CR | RETRO TV PALMARES CR" tvg-name="CR | RETRO TV PALMARES CR" tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w=w240-h480" group-title="COSTA RICA", 828 | RETRO TV PALMARES || COSTA RICA
