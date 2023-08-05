@@ -27,6 +27,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1,TUDN HD
+http://168.228.193.214:58005/play/a005
+#EXTINF:-1,AZTECA 7
+http://190.61.91.81:5000/play/a08q/index.m3u8
 #EXTINF:-1,124 - LIGA 1 MAX HD
 http://201.218.137.232:4123/play/a017/index.m3u8
 #EXTINF:-1,103 - GolTV HD
