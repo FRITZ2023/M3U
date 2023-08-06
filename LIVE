@@ -29,6 +29,8 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1,TUDN HD
 http://168.228.193.214:58005/play/a005
+#EXTINF:-1,Canal 5 HD
+http://190.61.91.81:5000/play/a093/index.m3u8
 #EXTINF:-1,AZTECA 7
 http://190.61.91.81:5000/play/a08q/index.m3u8
 #EXTINF:-1,124 - LIGA 1 MAX HD
