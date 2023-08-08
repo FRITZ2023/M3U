@@ -15,6 +15,58 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/759
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+
+http://45.5.119.155:8000/play/a0gy/index.m3#EXTINF:-1,MOVISTAR CINE Ñ SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/25615u8
+#EXTINF:-1,ODISEA UHD 4K
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26409
+#EXTINF:-1,ODISEA HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26410
+#EXTINF:-1,ODISEA SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26411
+#EXTINF:-1,CAZA Y PESCA HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26414
+#EXTINF:-1,CAZA Y PESCA HD 720P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26415
+#EXTINF:-1,CAZA Y PESCA SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26416
+#EXTINF:-1,CAZAVISIÓN HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26417
+#EXTINF:-1,IBERALIA TV HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26418
+#EXTINF:-1,IBERALIA TV SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26419
+#EXTINF:-1,IBERALIA 100% CAZA HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26420
+#EXTINF:-1,IBERALIA 100% PESCA HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26421
+#EXTINF:-1,NAUTICAL CHANNEL HD 720P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26422
+#EXTINF:-1,NAUTICAL CHANNEL SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26423
+#EXTINF:-1,BREAK HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26424
+#EXTINF:-1,BREAK SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26425
+#EXTINF:-1,BUENVIAJE HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26428
+#EXTINF:-1,BUENVIAJE HD 720P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26429
+#EXTINF:-1,BUENVIAJE SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26430
+#EXTINF:-1,CANAL COCINA UHD 4K
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26431
+#EXTINF:-1,CANAL COCINA HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26432
+#EXTINF:-1,CANAL COCINA SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26433
+#EXTINF:-1,CANAL DECASA UHD 4K
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26434
+#EXTINF:-1,CANAL DECASA HD 1080P
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26435
+#EXTINF:-1,CANAL DECASA SD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/26436
+
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Recetas
@@ -35,6 +87,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1,TUDN HD
 http://168.228.193.214:58005/play/a005
 #EXTINF:-1,Canal 5 HD
@@ -109,7 +163,6 @@ http://179.51.168.13:4000/play/a05u
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://190.90.252.200:16001/play/a02e/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
-http://45.5.119.155:8000/play/a0gy/index.m3u8
 #EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
 http://190.43.92.54:9898/play/a0t1/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium HD
@@ -286,6 +339,8 @@ http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14566
 http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14577
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
 http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14578
+#EXTINF:-1,IT: Canale 5 FHD
+http://2.alcapone1.com:8080/636356807BIBI/636356807/17017
 #EXTINF:-1 tvg-id="" tvg-name="|IT| Canale 5 HD+" tvg-logo="" group-title="IT : Italia",|IT| Canale 5 HD+
 http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14567
 #EXTINF:-1 tvg-id="" tvg-name="|IT| Italia 1 HD+" tvg-logo="" group-title="IT : Italia",|IT| Italia 1 HD+
@@ -454,12 +509,6 @@ https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN MX LQ" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN FHD 
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87179
-#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 255 | TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="USA | TUDN" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 255 | TUDN
-http://playhispano.org:8080/marcos/UBNCfKt2W0/87018
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1096 | Azteca 7 || MÉXICO
 http://187.189.125.28:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
