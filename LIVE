@@ -66,7 +66,8 @@ http://2.alcapone1.com:8080/636356807BIBI/636356807/26434
 http://2.alcapone1.com:8080/636356807BIBI/636356807/26435
 #EXTINF:-1,CANAL DECASA SD
 http://2.alcapone1.com:8080/636356807BIBI/636356807/26436
-
+#EXTINF:-1, tvg-logo="https://canalcocina.es/themes/theme2015-nuevo-menu/images/svg/huevo.svg" group-title="Cocina",CANAL COCINA
+http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/117200
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Recetas
