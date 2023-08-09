@@ -70,6 +70,12 @@ http://2.alcapone1.com:8080/636356807BIBI/636356807/26436
 http://201.222.44.219:4226/play/a04t/index.m3u8
 #EXTINF:-1, tvg-logo="https://canalcocina.es/themes/theme2015-nuevo-menu/images/svg/huevo.svg" group-title="Cocina",CANAL COCINA
 http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/117200
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DELCASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DELCASA HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3587
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3590
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Recetas
