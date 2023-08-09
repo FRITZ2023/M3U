@@ -300,6 +300,8 @@ http://51.222.110.182:8000/play/a00a
 http://201.218.137.232:4123/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES",Nativa Televisión
 https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1,SOL TV HD
+hls://http://177.53.153.21:8001/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" tvg-logo="https://pbs.twimg.com/media/FanGV4zXwAEhBWO?format=png&name=small" group-title="REGIONALES", 379 | Fuego TV || Lima
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
@@ -603,9 +605,9 @@ http://200.60.83.197:8000/play/a01i
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
 http://200.60.83.197:8000/play/a04l
 
-#EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", 259 | Eurosport 1
+#EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", FHD | Eurosport 1
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/447
-#EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", 259.2 | Eurosport 2
+#EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", FHD | Eurosport 2
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/448
 #EXTINF:-1 tvg-id="ES | Gol Play" tvg-name="ES | Gol Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png" group-title="DEPORTES", 260 | Gol Play
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/6596
