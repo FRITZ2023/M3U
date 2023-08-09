@@ -598,9 +598,9 @@ http://200.60.83.197:8000/play/a01i
 http://200.60.83.197:8000/play/a04l
 
 #EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", 259 | Eurosport 1
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/447
 #EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES", 259.2 | Eurosport 2
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90495
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/448
 #EXTINF:-1 tvg-id="ES | Gol Play" tvg-name="ES | Gol Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png" group-title="DEPORTES", 260 | Gol Play
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/6596
 #EXTINF:-1 tvg-id="PE | EX TV" tvg-name="PE | EX TV" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png&name=240x240" group-title="DEPORTES", 261 | EX TV
