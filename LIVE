@@ -66,6 +66,8 @@ http://2.alcapone1.com:8080/636356807BIBI/636356807/26434
 http://2.alcapone1.com:8080/636356807BIBI/636356807/26435
 #EXTINF:-1,CANAL DECASA SD
 http://2.alcapone1.com:8080/636356807BIBI/636356807/26436
+#EXTINF:-1,Canal 7 HD CR
+http://201.222.44.219:4226/play/a04t/index.m3u8
 #EXTINF:-1, tvg-logo="https://canalcocina.es/themes/theme2015-nuevo-menu/images/svg/huevo.svg" group-title="Cocina",CANAL COCINA
 http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/117200
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina
@@ -74,6 +76,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd24
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 #EXTINF:-1,tvg-logo="https://www.cotel.bo/wp-content/uploads/2022/04/a-digital-30-1.png" group-title="BOLIVIA", PALENQUE TV | HD
 http://200.110.50.68:58004/play/a01s/index.m3u8
+#EXTINF:-1,Azteca +
+http://201.190.40.47:58002/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E01
 http://tv.dominiotv.xyz:25461/series/YaninaGZ/65534826/349123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lost in Space S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dh8Gs0BRrGcF9KLE3XfJXjFe6m.jpg" group-title="NETFLIX",Lost in Space S01 E01
@@ -588,10 +592,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 245 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 246 | Win Sports
-http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/18613.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 246.2 | Win Sports+
-http://190.27.253.211:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES",Win Sports HD
+http://200.60.83.197:8000/play/a01i
+#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
+http://200.60.83.197:8000/play/a04l
 
 #EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES", 259 | Eurosport 1
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494
