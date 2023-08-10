@@ -20,7 +20,8 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/759
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-
+#EXTINF:-1,SUPERBIKES TEST
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/422
 #EXTINF:-1,ODISEA UHD 4K
 http://2.alcapone1.com:8080/636356807BIBI/636356807/26409
 #EXTINF:-1,ODISEA HD 1080P
@@ -194,15 +195,13 @@ http://181.78.8.90:16123/play/ch12a
 http://177.53.153.21:8001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/349
-#EXTINF:-1,EL TORO TV HD
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/6552
 #EXTINF:-1,MUNDOTORO SD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/346
-ONETORO SD
+#EXTINF:-1,ONETORO SD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/12113
-EL TORO TV HD
+#EXTINF:-1,EL TORO TV HD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/6552
-TOROS TV HD
+#EXTINF:-1,TOROS TV HD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/1070
 
 #EXTINF:-1,DBIKE FHD
