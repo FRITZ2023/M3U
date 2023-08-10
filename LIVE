@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1,STAR+1 HD 
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/3163
+#EXTINF:-1,STAR+2 HD 
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/3162
+#EXTINF:-1,STAR+3 HD 
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/3164
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
 EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
@@ -189,6 +194,34 @@ http://181.78.8.90:16123/play/ch12a
 http://177.53.153.21:8001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/349
+#EXTINF:-1,EL TORO TV HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/6552
+#EXTINF:-1,MUNDOTORO SD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/346
+ONETORO SD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/12113
+EL TORO TV HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/6552
+TOROS TV HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/1070
+
+#EXTINF:-1,DBIKE FHD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/365
+#EXTINF:-1,DIRECTV SPORT MOTOR HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/369
+#EXTINF:-1,FIGHT SPORTS MAX HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/368
+#EXTINF:-1,HORSE TV HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/361
+
+#EXTINF:-1,US CBS MIAMI
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/4596
+#EXTINF:-1,US UNIVISION DEPORTES TUDN
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/4596
+#EXTINF:-1,BEIN SPORTS US
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/4603
+#EXTINF:-1,BEING ESPAÑOL HD
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/4604
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
