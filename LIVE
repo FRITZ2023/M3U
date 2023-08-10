@@ -16,8 +16,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 
-http://45.5.119.155:8000/play/a0gy/index.m3#EXTINF:-1,MOVISTAR CINE Ñ SD
-http://2.alcapone1.com:8080/636356807BIBI/636356807/25615u8
 #EXTINF:-1,ODISEA UHD 4K
 http://2.alcapone1.com:8080/636356807BIBI/636356807/26409
 #EXTINF:-1,ODISEA HD 1080P
@@ -174,8 +172,9 @@ http://179.51.168.13:4000/play/a05u
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://190.90.252.200:16001/play/a02e/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
+http://45.228.232.205:16000/play/a04i/index.m3u8
 #EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
-http://190.43.92.54:9898/play/a0t1/index.m3u8
+http://200.58.170.69:58001/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium HD
 http://177.234.230.226:8010/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES",Cine Hispano HD
@@ -189,6 +188,8 @@ http://181.78.8.90:16123/play/ch12a
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
 http://177.53.153.21:8001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
+http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/349
+
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
 
