@@ -31,8 +31,6 @@ http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/361
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3587
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3590
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
-http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Recetas
@@ -145,6 +143,8 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://181.78.8.90:16123/play/ch12a
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
 http://177.53.153.21:8001/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
 #EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/349
 #EXTINF:-1,MUNDOTORO SD
