@@ -41,6 +41,8 @@ http://200.110.50.68:58004/play/a01s/index.m3u8
 http://201.190.40.47:58002/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E01
 http://tv.dominiotv.xyz:25461/series/YaninaGZ/65534826/349123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E02
+http://tv.dominiotv.xyz:25461/series/YaninaGZ/65534826/349124.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lost in Space S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dh8Gs0BRrGcF9KLE3XfJXjFe6m.jpg" group-title="NETFLIX",Lost in Space S01 E01
 http://tv.dominiotv.xyz:25461/series/YaninaGZ/65534826/300564.mkv
 #EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS ESPAÑOL
