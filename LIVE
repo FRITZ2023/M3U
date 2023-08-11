@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR+1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDwcoTfq5zuixRnrAFKD74Ba0GOCLYdgljFGTNg_aF-mrH2L49-0V9QiRC-LXaZ-pLj8&usqp=CAU" group-title="DEPORTESS",STAR+1 HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDwcoTfq5zuixRnrAFKD74Ba0GOCLYdgljFGTNg_aF-mrH2L49-0V9QiRC-LXaZ-pLj8&usqp=CAU" group-title="DEPORTESS",STAR+1 HD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/3163
 #EXTINF:-1,STAR+2 HD 
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/3162
