@@ -584,9 +584,9 @@ http://200.60.83.197:8000/play/a01i
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
 http://200.60.83.197:8000/play/a04l
 
-#EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png" group-title="DEPORTES",Eurosport 1 FHD
+#EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.pngg" group-title="DEPORTES",Eurosport 1 FHD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/447
-#EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES",Eurosport 2 FHD
+#EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="DEPORTES",Eurosport 2 FHD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/448
 #EXTINF:-1 tvg-id="ES | Gol Play" tvg-name="ES | Gol Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/250px-GOL_PLAY.svg.png" group-title="DEPORTES", 260 | Gol Play
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/6596
