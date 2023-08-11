@@ -158,7 +158,7 @@ http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/346
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/12113
 #EXTINF:-1,EL TORO TV HD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/6552
-#EXTINF:-1,TOROS TV HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE: TOROS TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nNzkYo19pNESK4IbqXmyCZznzQxTcEtFLujcRfp_&s" group-title="World Sports",DEPORTE: TOROS TV HD
 http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/1070
 
 #EXTINF:-1,US CBS MIAMI
