@@ -65,7 +65,12 @@ http://168.228.193.214:58005/play/a005
 http://tv.dominiotv.xyz:25461/YaninaGZ/65534826/91806
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", Azteca 7
 http://201.190.40.47:58002/play/a00r/index.m3u8
-
+#EXTINF:-1,114 - DSports HD
+http://201.218.137.232:4123/play/a05a/index.m3u8
+#EXTINF:-1,115 - DSports 2 HD
+http://201.218.137.232:4123/play/a05b/index.m3u8
+#EXTINF:-1,116 - DSports + HD
+http://201.218.137.232:4123/play/a05c/index.m3u8
 #EXTINF:-1,124 - LIGA 1 MAX HD
 http://201.218.137.232:4123/play/a017/index.m3u8
 #EXTINF:-1,103 - GolTV HD
@@ -90,12 +95,6 @@ http://201.218.137.232:4123/play/a057/index.m3u8
 http://201.218.137.232:4123/play/a058/index.m3u8
 #EXTINF:-1,113 - Fox Sports 3 HD
 http://201.218.137.232:4123/play/a059/index.m3u8
-#EXTINF:-1,114 - DSports HD
-http://201.218.137.232:4123/play/a05a/index.m3u8
-#EXTINF:-1,115 - DSports 2 HD
-http://201.218.137.232:4123/play/a05b/index.m3u8
-#EXTINF:-1,116 - DSports + HD
-http://201.218.137.232:4123/play/a05c/index.m3u8
 
 #EXTINF:-1,117 - TNT Sports HD
 http://201.218.137.232:4123/play/a05d/index.m3u8
