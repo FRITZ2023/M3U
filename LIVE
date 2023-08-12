@@ -138,16 +138,6 @@ http://181.78.8.90:16123/play/ch12a
 http://177.53.153.21:8001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
-#EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/349
-#EXTINF:-1,MUNDOTORO SD
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/346
-#EXTINF:-1,ONETORO SD
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/12113
-#EXTINF:-1,EL TORO TV HD
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/6552
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTE: TOROS TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nNzkYo19pNESK4IbqXmyCZznzQxTcEtFLujcRfp_&s" group-title="World Sports",DEPORTE: TOROS TV HD
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/1070
 
 #EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA
 http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
