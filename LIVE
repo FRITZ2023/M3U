@@ -138,9 +138,8 @@ http://181.78.8.90:16123/play/ch12a
 http://177.53.153.21:8001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
-
-#EXTINF: -1 group-title = "NBC SPORTS" tvg-logo = "https://innovatv.live/posters/1619653722164.jpg", NBC-SPORTS-CALIFORNIA
-http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", 233 | ESPN HD
 http://190.83.60.34:1414/play/a036
@@ -186,7 +185,7 @@ http://201.218.137.232:4123/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 http://45.189.117.202:48000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS E INFORMACION",RPP TV
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/1605
+http://51.222.110.180:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1025325651&_cdn_timestamp=1691414256&_cdn_token=d913df661b65baec18a3a164ee27f80160682758
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
@@ -240,36 +239,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDxpMtYrdzSR_qgLzN7CL_ODHau9cLwj8BCjsB_Vbei76qIXxVZQMYu9-bcvAG6b-qxc&usqp=CAU" group-title="Peliculas",Rai 1 HD
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14562
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/515/794/png-clipart-rai-2-television-rai-4-logo-others-television-text-thumbnail.png" group-title="Peliculas",Rai 2 HD
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14563
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcGXHlHTmzvgk0YfPKAt86auhtcWWD30jSjrkDrIjGqqSlGlinW1hY2WSqre9HC3we2g&usqp=CAU" group-title="Peliculas",Rai 3 HD
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14564
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/378/803/png-clipart-rai-4-television-rai-1-logo-smarphone-television-angle-thumbnail.png" group-title="Peliculas",Rai 4
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14565
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXP8GcXYHqV3sh254mjy9q7kdRlf4CNccoSdgrGO-zYSaBIXfPOaGWNvDlipj2wnhLkk8&usqp=CAU" group-title="Peliculas",Rai 5
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14566
-#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.5903582b1074d_RaiMovieHD.png.9db53646802fca636625a816ad5df220.png" group-title="Peliculas",Rai Movie HD
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14577
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbAQqOjMlS_dmJZBJHvFneOF4rhxjfB3XZtis0qYH2w&s" group-title="Peliculas",Rai Premium
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14578
-#EXTINF:-1,IT: Canale 5 FHD
-http://2.alcapone1.com:8080/636356807BIBI/636356807/17017
-#EXTINF:-1 tvg-id="" tvg-name="|IT| Canale 5 HD+" tvg-logo="" group-title="IT : Italia",|IT| Canale 5 HD+
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14567
-#EXTINF:-1 tvg-id="" tvg-name="|IT| Italia 1 HD+" tvg-logo="" group-title="IT : Italia",|IT| Italia 1 HD+
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14568
-#EXTINF:-1 tvg-id="" tvg-name="|IT| Italia 2" tvg-logo="" group-title="IT : Italia",|IT| Italia 2
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14569
-#EXTINF:-1 tvg-id="" tvg-name="|IT| LA 7 HD+" tvg-logo="" group-title="IT : Italia",|IT| LA 7 HD+
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14570
-#EXTINF:-1 tvg-id="" tvg-name="|IT| LA 7d HD+" tvg-logo="" group-title="IT : Italia",|IT| LA 7d HD+
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14571
-#EXTINF:-1 tvg-id="" tvg-name="|IT| RSI LA 1 HD+" tvg-logo="" group-title="IT : Italia",|IT| RSI LA 1 HD+
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14573
-#EXTINF:-1 tvg-id="" tvg-name="|IT| RSI LA 2 HD+" tvg-logo="" group-title="IT : Italia",|IT| RSI LA 2 HD+
-http://login.lionboxtv.xyz:80/12unioniptv12/RhXNL2W8vU54/14574
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1,OXOTHNK (ANIMAL) RUSS
