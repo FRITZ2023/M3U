@@ -210,8 +210,7 @@ http://87.246.54.84:4022/udp/239.66.100.8:5500
 http://87.246.54.84:4022/udp/239.66.100.9:5500
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 tvg-id="CR | RETRO TV PALMARES CR" tvg-name="CR | RETRO TV PALMARES CR" tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w=w240-h480" group-title="COSTA RICA", 828 | RETRO TV PALMARES || COSTA RICA
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t1.6435-9/56601028_343420332948611_2988166635119968256_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tJagY6KBJ8AAX9sTSYI&_nc_ht=scontent.flim38-1.fna&oh=00_AfBMfPjUDAYtEomBnGMSIiJWZC_u6y3vQWVkesQwaVR-cA&oe=64DC39A7" group-title="Peliculas",Pura Vida TV HD CR
 http://109.236.91.39:1935/sxmxutkqjh/sxmxutkqjh/playlist.m3u8
 
