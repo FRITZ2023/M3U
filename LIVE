@@ -47,16 +47,6 @@ http://tv.dominiotv.xyz:25461/series/YaninaGZ/65534826/349124.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lost in Space S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dh8Gs0BRrGcF9KLE3XfJXjFe6m.jpg" group-title="NETFLIX",Lost in Space S01 E01
 http://tv.dominiotv.xyz:25461/series/YaninaGZ/65534826/300564.mkv
 
-#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS ESPAÑOL
-http://168.228.193.214:58005/play/a05m
-#EXTINF:0 tvg-id="ext" group-title="DEPORTE",beIN SPORTS XTRA en español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 tvg-id="ext" group-title="DEPORTE",beIN SPORTS XTRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Uq2QkFDGkBBZq7Z2-_N0DGGuk0GTGp-b5LkZLc-DXAZTP2hOmzA8LzUv801UBgrOEWo&usqp=CAU" group-title="Peliculas",BEIN 1 GB
-http://edge02.odtv.az/o4/beinsport/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN HD
@@ -96,24 +86,7 @@ http://201.218.137.232:4123/play/a058/index.m3u8
 #EXTINF:-1,113 - Fox Sports 3 HD
 http://201.218.137.232:4123/play/a059/index.m3u8
 
-#EXTINF:-1,117 - TNT Sports HD
-http://201.218.137.232:4123/play/a05d/index.m3u8
-#EXTINF:-1,117.1 - TyC Sports HD
-http://201.218.137.232:4123/play/a00c/index.m3u8
-#EXTINF:-1,117.2 - Win Sports+ HD
-http://201.218.137.232:4123/play/a00j/index.m3u8
-#EXTINF:-1,117.3 - El Canal del Futbol HD
-http://201.218.137.232:4123/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Bics", REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:-1,117.4 - Tigo Sports HD
-http://201.218.137.232:4123/play/a00s/index.m3u8
-#EXTINF:-1,117.5 - Claro Sports 1 HD
-http://201.218.137.232:4123/play/a00t/index.m3u8
-#EXTINF:-1,117.6 - Claro Sports 2 HD
-http://201.218.137.232:4123/play/a00u/index.m3u8
-#EXTINF:-1,117.7 - Golf Channel HD
-http://201.218.137.232:4123/play/a00r/index.m3u8
+
 #EXTINF:-1,BEIN BOX OFFICE 1
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 2
@@ -427,6 +400,36 @@ http://190.92.7.19:8000/play/a01u/index.m3u8
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS ESPAÑOL
+http://168.228.193.214:58005/play/a05m
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",beIN SPORTS XTRA en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",beIN SPORTS XTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Uq2QkFDGkBBZq7Z2-_N0DGGuk0GTGp-b5LkZLc-DXAZTP2hOmzA8LzUv801UBgrOEWo&usqp=CAU" group-title="Peliculas",BEIN 1 GB
+http://edge02.odtv.az/o4/beinsport/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1,117 - TNT Sports HD
+http://201.218.137.232:4123/play/a05d/index.m3u8
+#EXTINF:-1,117.1 - TyC Sports HD
+http://201.218.137.232:4123/play/a00c/index.m3u8
+#EXTINF:-1,117.2 - Win Sports+ HD
+http://201.218.137.232:4123/play/a00j/index.m3u8
+#EXTINF:-1,117.3 - El Canal del Futbol HD
+http://201.218.137.232:4123/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Bics", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1,117.4 - Tigo Sports HD
+http://201.218.137.232:4123/play/a00s/index.m3u8
+#EXTINF:-1,117.5 - Claro Sports 1 HD
+http://201.218.137.232:4123/play/a00t/index.m3u8
+#EXTINF:-1,117.6 - Claro Sports 2 HD
+http://201.218.137.232:4123/play/a00u/index.m3u8
+#EXTINF:-1,117.7 - Golf Channel HD
+http://201.218.137.232:4123/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
