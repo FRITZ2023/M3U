@@ -17,7 +17,8 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/759
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/1913
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DELCASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DELCASA HD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3587
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
@@ -572,7 +573,12 @@ https://marine2.miplay.cl/sportext/playlist.m3u8
 http://200.60.83.197:8000/play/a01i
 #EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
 http://200.60.83.197:8000/play/a04l
-
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 FHD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/1918
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/1833
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/b7e96f0397fc0dff8578929cd0646907.png" group-title="SPAIN",||ES|| EUROSPORT 2 HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/1834
 #EXTINF:-1 tvg-id="FR | Eurosport 1" tvg-name="FR | Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="DEPORTES",Eurosport 1 FHD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/447
 #EXTINF:-1 tvg-id="FR | Eurosport 2" tvg-name="FR | Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="DEPORTES",Eurosport 2 FHD
