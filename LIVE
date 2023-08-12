@@ -7,8 +7,7 @@ http://181.78.0.192:10109/play/a03r/index.m3u8
 http://181.78.64.71:16123/play/ch31
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://181.78.74.19:8008/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS" tvg-logo="" group-title="World Sports",FIGHT SPORTS MAX HD
-http://quebuscasaqui.xyz:8080/29ZPRyHtpy/yRt2yq4KBH/368
+
 #EXTINF:-1,UFC PPV
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/758
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",US: UFC Fight Pass
@@ -491,10 +490,6 @@ https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1096 | Azteca 7 || MÉXICO
-http://187.189.125.28:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1094 | Canal 5 || MÉXICO
-http://187.189.125.28:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 249 | DSports
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 249.2 | DSports 2
