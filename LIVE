@@ -123,7 +123,7 @@ http://201.218.137.232:4123/play/a01x/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
 http://45.71.252.29:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
-http://dk.tgt6373.online:8080/mhm5130/cn.0705/134366
+http://tv.dominiotv.xyz:25461/YaninaGZ/65534826/52546
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
 http://201.218.137.232:4123/play/e01zk/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
