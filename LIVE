@@ -19,7 +19,7 @@ http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/323853.mkv
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
-http://181.78.64.71:16123/play/ch31
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://181.78.74.19:8008/play/a03s/index.m3u8
 
