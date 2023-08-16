@@ -1,15 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png"" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER 1
 http://latintvec.com:25461/get.php?username=BTR5932sa4&password=P3dcQRtZQw&type=m3u
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 1" tvg-
-logo="http://myserveriptv.com:2082/images/2aa8a3a881ec47ff8ca91fcaa382817e.png" group-title="World Sports",RS: Arena Sport 1
-http://31.42.184.159:2082/salahrabhi12/salahrabhi21/229641
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Sport 2" tvg-logo="http://myserveriptv.com:2082/images/2aa8a3a881ec47ff8ca91fcaa382817e.png" group-title="World Sports",RS: Arena Sport 2
-http://31.42.184.159:2082/salahrabhi12/salahrabhi21/229642
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Fight" tvg-logo="http://myserveriptv.com:2082/images/2aa8a3a881ec47ff8ca91fcaa382817e.png" group-title="World Sports",RS: Arena Fight
-http://31.42.184.159:2082/salahrabhi12/salahrabhi21/214445
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",beIN SPORTS Espana
-http://31.42.184.159:2082/salahrabhi12/salahrabhi21/235539
 #EXTINF:-1,Auto_Plus
 http://5.167.235.110:4022/udp/225.0.55.30:1234
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
