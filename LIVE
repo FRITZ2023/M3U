@@ -104,7 +104,6 @@ http://201.218.137.232:4123/play/a058/index.m3u8
 #EXTINF:-1,113 - Fox Sports 3 HD
 http://201.218.137.232:4123/play/a059/index.m3u8
 
-
 #EXTINF:-1,BEIN BOX OFFICE 1
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 2
@@ -338,8 +337,6 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 226 | Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-00000x111/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 252 | DSports
 http://201.218.137.232:4123/play/a05a/index.m3u8
