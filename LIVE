@@ -275,16 +275,7 @@ https://ca2.inka.net.pe/best-Music-00112000050/index.m3u8
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 385 | Intuitiva TV || Lima
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1,VEVO 70S
-http://ultrapremium.cloud:8080/40615325/19012022/47247
-#EXTINF:-1,VEVO 80S
-http://ultrapremium.cloud:8080/40615325/19012022/47248
-#EXTINF:-1,VEVO 90S
-http://ultrapremium.cloud:8080/40615325/19012022/47249
-#EXTINF:-1,VEVO 2K
-http://ultrapremium.cloud:8080/40615325/19012022/47250
-#EXTINF:-1,VEVO POP
-http://ultrapremium.cloud:8080/40615325/19012022/47253
+
 #EXTINF:-1 tvg-id="1244" tvg-name="Oldies Hits TV" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV | CR
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
