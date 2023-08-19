@@ -34,7 +34,7 @@ http://playhispano.org:8080/9805743290/94631875/107116
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3587
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://playhispano.org:8080/9805743290/94631875/118537
-#EXTINF:-1,MASTERCHEF
+#EXTINF:-1 tvg-id="" tvg-name="MX | MASTERCHEF" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | MASTERCHEF
 http://playhispano.org:8080/9805743290/94631875/111723
 #EXTINF:-1,Chef koch
 http://playhispano.org:8080/9805743290/94631875/112222
