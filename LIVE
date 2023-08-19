@@ -1,9 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER FILADELFIA VS MONTERREY 5PM
+http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266995
 #EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER NASHVILLE SC VS INTER MIAMI 8PM ESP
 http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266997
 #EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER NASHVILLE SC VS INTER MIAMI 8PM ING
 http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266996
+#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER LOCOMOTIVE VS ELEVEN 930PM
+http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266985
 #EXTINF:-1,UFC PPV
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/758
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",US: UFC Fight Pass
