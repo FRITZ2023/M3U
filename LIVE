@@ -75,6 +75,8 @@ http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349131.mp4
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349132.mp4
 #EXTINF:-1,Televisa
 http://45.181.122.209:8088/play/a06v
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo" tvg-logo="" group-title="LATINO 24/7",24/7 Laura Bozzo
+http://hardcoremedia.xyz:80/rabdsbmz/3731346838/11739
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN HD
