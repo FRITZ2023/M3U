@@ -29,11 +29,17 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://190.90.252.200:16001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
-http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/1913
+http://playhispano.org:8080/9805743290/94631875/107116
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DELCASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DELCASA HD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3587
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
-http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3590
+http://playhispano.org:8080/9805743290/94631875/118537
+#EXTINF:-1,MASTERCHEF
+http://playhispano.org:8080/9805743290/94631875/111723
+#EXTINF:-1,Chef koch
+http://playhispano.org:8080/9805743290/94631875/112222
+#EXTINF:-1,Iron Chef
+http://playhispano.org:8080/9805743290/94631875/112281
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Recetas
