@@ -33,7 +33,7 @@ http://190.90.252.200:16001/play/a02e/index.m3u8
 http://belleer.top:8080/live/361667403865595038/9511667403865595/5724.ts
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://playhispano.org:8080/9805743290/94631875/107116
-#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DELCASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DELCASA HD
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
 http://belleer.top:8080/live/361667403865595038/9511667403865595/5571.ts
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://playhispano.org:8080/9805743290/94631875/118537
