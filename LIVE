@@ -87,11 +87,11 @@ http://hardcoremedia.xyz:80/rabdsbmz/3731346838/19533
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", Azteca 7
 http://hardcoremedia.xyz:80/rabdsbmz/3731346838/19524
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
-http://201.218.137.232:4123/play/a05a/index.m3u8
+http://181.177.255.253:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
-http://201.218.137.232:4123/play/a05b/index.m3u8
+http://181.177.255.253:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
-http://201.218.137.232:4123/play/a05c/index.m3u8
+http://181.177.255.253:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
