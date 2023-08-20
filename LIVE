@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER FILADELFIA VS MONTERREY 5PM
-http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266995
-#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER NASHVILLE SC VS INTER MIAMI 8PM ESP
-http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266997
-#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER NASHVILLE SC VS INTER MIAMI 8PM ING
-http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266996
-#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER LOCOMOTIVE VS ELEVEN 930PM
-http://latintvec.com:43201/BTR5932sa4/P3dcQRtZQw/266985
+#EXTINF:-1,Condorito: The Movie (2017)
+http://playhispano.org:8080/movie/9805743290/94631875/197343.mkv
 #EXTINF:-1,UFC PPV
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/758
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",US: UFC Fight Pass
@@ -38,7 +32,7 @@ http://190.90.252.200:16001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://playhispano.org:8080/9805743290/94631875/107116
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DELCASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DELCASA HD
-http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3587
+http://belleer.top:8080/live/361667403865595038/9511667403865595/5571.ts
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://playhispano.org:8080/9805743290/94631875/118537
 #EXTINF:-1 tvg-id="" tvg-name="MX | MASTERCHEF" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | MASTERCHEF
