@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOgfvkmd6NtDvSu8iZ26hrd00Vbf1k1SyTVQq_nO8GBLnCvBuRnJT&usqp=CAE&s" group-title="Peliculas",Condorito: The Movie (2017)
-http://playhispano.org:8080/movie/9805743290/94631875/197343.mkv
+
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssc1FH4L6431pHHcpj_m0ZVRVJbY0Vh5NsyNoYgvO8Q&s" group-title="Peliculas",UFC PPV
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/758
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",US: UFC Fight Pass
@@ -74,10 +73,7 @@ http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349131.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E10
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349132.mp4
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA
-http://45.181.122.209:8088/play/a06v
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo" tvg-logo="" group-title="LATINO 24/7",24/7 Laura Bozzo
-http://hardcoremedia.xyz:80/rabdsbmz/3731346838/11739
+
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN HD
@@ -116,35 +112,6 @@ http://45.181.122.145:8000/play/a00w/index.m3u8
 http://45.181.122.145:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",Fox Sports 3 HD
 http://45.181.122.145:8000/play/a023/index.m3u8
-
-#EXTINF:-1,BEIN BOX OFFICE 1
-http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
-#EXTINF:-1,BEIN BOX OFFICE 2
-http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
-#EXTINF:-1,AMC HD
-http://45.166.92.22:58001/play/a00q/index.m3u8
-#EXTINF:-1,AXN HD
-http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
-http://45.228.232.205:16000/play/a04i/index.m3u8
-#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
-http://200.58.170.69:58001/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium HD
-http://177.234.230.226:8010/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES",Cine Hispano HD
-http://179.189.222.226:8000/play/ch51
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES",Cine Familiar HD
-http://179.189.222.226:8000/play/ch52
-#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 129 | FMH Family
-http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 130 | Cinema +
-http://181.78.8.90:16123/play/ch12a
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
-http://177.53.153.21:8001/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
-http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
-#EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=1070433059&_cdn_timestamp=1692466845&_cdn_token=be57fbd1fcb3840aae129d6925c80bc8614ba4ea
@@ -230,6 +197,35 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,BEIN BOX OFFICE 1
+http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
+#EXTINF:-1,BEIN BOX OFFICE 2
+http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
+#EXTINF:-1,AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
+http://45.228.232.205:16000/play/a04i/index.m3u8
+#EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
+http://200.58.170.69:58001/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium HD
+http://177.234.230.226:8010/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES",Cine Hispano HD
+http://179.189.222.226:8000/play/ch51
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES",Cine Familiar HD
+http://179.189.222.226:8000/play/ch52
+#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 129 | FMH Family
+http://160.20.165.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 130 | Cinema +
+http://181.78.8.90:16123/play/ch12a
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
+http://177.53.153.21:8001/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
+http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
+#EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1,OXOTHNK (ANIMAL) RUSS
@@ -310,6 +306,10 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 http://200.110.50.68:58004/play/a01s/index.m3u8
 #EXTINF:-1,Azteca +
 http://201.190.40.47:58002/play/a015/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA
+http://45.181.122.209:8088/play/a06v
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo" tvg-logo="" group-title="LATINO 24/7",24/7 Laura Bozzo
+http://hardcoremedia.xyz:80/rabdsbmz/3731346838/11739
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://45.228.234.77:3340/play/tlnovelas/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Tlnovelas" tvg-name="USA | Univisión Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 63.2 | Univisión Tlnovelas
@@ -751,6 +751,8 @@ http://190.92.7.19:8000/play/a020/index.m3u8
 #EXTINF:-1,Hola!TV
 http://190.92.7.19:8000/play/a008/index.m3u8
 
+#EXTINF:-1,AGENTE 007
+http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/381755.ts
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf_xBpyhG7IRBqMY8mljZ9UFShV9h9Y-cqg&usqp=CAU" group-title="PELÍCULAS",007 GOLDEN EYE 1
 http://archive.org/download/mio53_yopmail_1/1.mp4
 #EXTINF:-1, tvg-logo="https://diaryofamoviemaniac.files.wordpress.com/2017/08/a13.jpg" group-title="PELÍCULAS",007 TOMORROW NEVER DIES 2
@@ -774,7 +776,8 @@ http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="HD: Wonder Woman 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="SUPER HEROES",HD: Wonder Woman 1984
 http://tv.dominiotv.xyz:25461/movie/YaninaGZ/65534826/234239.mkv
-
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOgfvkmd6NtDvSu8iZ26hrd00Vbf1k1SyTVQq_nO8GBLnCvBuRnJT&usqp=CAE&s" group-title="Peliculas",Condorito: The Movie (2017)
+http://playhispano.org:8080/movie/9805743290/94631875/197343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX5QnIbzg0N0BDAcJwdUMYISe80.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E01
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389923.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JpV4e8KT2MHxZw6hwZWCuKwpaA.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E02
