@@ -52,28 +52,6 @@ http://190.83.60.34:1414/play/a04i
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E01
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E02
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E03
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E04
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E05
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E06
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E07
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E08
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E09
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E10
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349132.mp4
-
-
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN HD
@@ -778,6 +756,7 @@ http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
 http://tv.dominiotv.xyz:25461/movie/YaninaGZ/65534826/234239.mkv
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOgfvkmd6NtDvSu8iZ26hrd00Vbf1k1SyTVQq_nO8GBLnCvBuRnJT&usqp=CAE&s" group-title="Peliculas",Condorito: The Movie (2017)
 http://playhispano.org:8080/movie/9805743290/94631875/197343.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX5QnIbzg0N0BDAcJwdUMYISe80.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E01
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389923.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JpV4e8KT2MHxZw6hwZWCuKwpaA.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E02
@@ -798,3 +777,26 @@ http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389930.mkv
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389931.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kic5oiiezmSlB3DsJxszCv4WKPM.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E10
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389932.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E01
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E02
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E03
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E04
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E05
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E06
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E07
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E08
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E09
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E10
+http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349132.mp4
+
