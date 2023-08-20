@@ -73,7 +73,8 @@ http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349130.mp4
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349131.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E10
 http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349132.mp4
-#EXTINF:-1,Televisa
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA
 http://45.181.122.209:8088/play/a06v
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo" tvg-logo="" group-title="LATINO 24/7",24/7 Laura Bozzo
 http://hardcoremedia.xyz:80/rabdsbmz/3731346838/11739
