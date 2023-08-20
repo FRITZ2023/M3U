@@ -29,7 +29,7 @@ http://149.7.102.223:8080/FRANCEINFO/manifest.m3u8
 https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://190.90.252.200:16001/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="" group-title="ESPANHA",ODISEA HD
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
 http://belleer.top:8080/live/361667403865595038/9511667403865595/5724.ts
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://playhispano.org:8080/9805743290/94631875/107116
