@@ -359,13 +359,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 226 | Best Cable Sports
 https://ca2.inka.net.pe/Best-sport-00000x111/index.m3u8
 
-#EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 252 | DSports
-http://201.218.137.232:4123/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 252.2 | DSports 2
-http://201.218.137.232:4123/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES", 252.3 | DSports +
-http://201.218.137.232:4123/play/a05c/index.m3u8
-
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 227 | Liga 1 Max
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="DEPORTES", 228 | Golf Channel
