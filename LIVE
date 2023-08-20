@@ -104,17 +104,17 @@ http://190.83.60.34:1414/play/a05s
 http://45.181.122.145:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
 http://45.181.122.145:8000/play/a01m/index.m3u8
-#EXTINF:-1,108 - ESPN 3 HD
+#EXTINF:-1 tvg-id="USA | ESPN 3 HD" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 HD
 http://45.181.122.145:8000/play/a022/index.m3u8
-#EXTINF:-1,109 - ESPN 4 HD
+#EXTINF:-1 tvg-id="USA | ESPN 4 HD" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 HD
 http://45.181.122.145:8000/play/a02i/index.m3u8
-#EXTINF:-1,110 - ESPN EXTRA HD
+#EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES",ESPN EXTRA HD
 http://45.181.122.145:8000/play/a009/index.m3u8
-#EXTINF:-1,111 - Fox Sports HD
+#EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES",Fox Sports HD
 http://45.181.122.145:8000/play/a00w/index.m3u8
-#EXTINF:-1,112 - Fox Sports 2 HD
+#EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 HD
 http://45.181.122.145:8000/play/a02j/index.m3u8
-#EXTINF:-1,113 - Fox Sports 3 HD
+#EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",Fox Sports 3 HD
 http://45.181.122.145:8000/play/a023/index.m3u8
 
 #EXTINF:-1,BEIN BOX OFFICE 1
