@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="0" tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",PT | TOROS TV
+http://hardcoremedia.xyz:80/rabdsbmz/3731346838/18624
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | KIDS | BIKER MICE FROM MARS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBnbkQ7t6Ctri0A4nKDYWqIVF3f.jpg" group-title="24/7 | KIDS (b)",24/7 | KIDS | BIKER MICE FROM MARS
+http://hardcoremedia.xyz:80/rabdsbmz/3731346838/24958
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssc1FH4L6431pHHcpj_m0ZVRVJbY0Vh5NsyNoYgvO8Q&s" group-title="Peliculas",UFC PPV
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/758
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",US: UFC Fight Pass
