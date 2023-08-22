@@ -1,10 +1,30 @@
 #EXTM3U
+#EXTINF:-1,ALF
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37766
+#EXTINF:-1,BRUCE LEE
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37763
+#EXTINF:-1,BONANZA
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37820
+#EXTINF:-1,CASADO CON HIJOS
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/62999
+#EXTINF:-1,MATRIMONIO CON HIJOS
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/44377
+#EXTINF:-1,AUTO FANTASTICO
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37806
+#EXTINF:-1,EVENTOS PPV 1
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180859
+#EXTINF:-1,EVENTOS PPV 2
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180858
+#EXTINF:-1,EVENTOS PPV 3
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180857
+#EXTINF:-1,ESTRENOS 2023
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/225477
 #EXTINF:-1 tvg-id="" tvg-name="G- Mundo Toro HD" tvg-logo="http://turvqpow.xyz:8080/images/2627c00e179be4ca9c5ddcdab1ab273e.jpg" group-title="Movistar",G- Mundo Toro HD
 http://katfil.com:8080/jumapa/tgcy9gQmFZ/17021
-
 #EXTINF:-1 tvg-id="0" tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",PT | TOROS TV
 http://hardcoremedia.xyz:80/rabdsbmz/3731346838/18624
-
+#EXTINF:-1,FIGHT BOX
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/60375
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssc1FH4L6431pHHcpj_m0ZVRVJbY0Vh5NsyNoYgvO8Q&s" group-title="Peliculas",UFC PPV
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/758
 #EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",US: UFC Fight Pass
@@ -61,6 +81,10 @@ http://181.177.255.253:8000/play/a075/index.m3u8
 http://181.177.255.253:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
 http://181.177.255.253:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/154277
+#EXTINF:-1 tvg-id="AR | DSports Motor" tvg-name="AR | DSports Motor" tvg-logo="https://www.totalmedios.com/img/noticias/2023/06/6481c3f81fdc4__838x390.jpg" group-title="DEPORTES", 249.5 | DSports Motor
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180419
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
@@ -355,7 +379,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37838.m3u8
 #EXTINF:-1 tvg-id="AR | DSports+" tvg-name="AR | DSports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="DEPORTES", 249.3 | DSports+
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92073
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/154277
 
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
