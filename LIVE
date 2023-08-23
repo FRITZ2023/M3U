@@ -107,11 +107,12 @@ http://45.181.122.145:8000/play/a00w/index.m3u8
 http://45.181.122.145:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",Fox Sports 3 HD
 http://45.181.122.145:8000/play/a023/index.m3u8
-
+#EXTINF:-1,PER-Movistar Plus TV (M)(720)
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/107217
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=1070433059&_cdn_timestamp=1692466845&_cdn_token=be57fbd1fcb3840aae129d6925c80bc8614ba4ea
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/107209
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1070433843&_cdn_timestamp=1692466862&_cdn_token=715999ff1956e8ceccd052bd200a8a3f52ad1ba1
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/22167
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
 http://201.218.137.232:4123/play/a01x/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
