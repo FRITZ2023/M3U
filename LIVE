@@ -149,7 +149,7 @@ https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Radio_PBO.jpg/270px-Logo_de_Radio_PBO.jpg" group-title="PERU", 10 | PBO TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1099011939&_cdn_timestamp=1693115291&_cdn_token=ba736b5b0f21d24ade57d5e085fb497682841d8b
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
-http://51.222.110.182:8000/play/a00a
+http://200.123.15.177:1982/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU",USMP HD
 http://170.81.240.10:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES",Nativa Televisión
