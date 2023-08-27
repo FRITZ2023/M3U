@@ -16,7 +16,7 @@ http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37806
 http://212.200.113.134:25001
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjK6kiSK7IOROfHL83HYdabVZSFy6lfKh6viOb2erU2pauNcwroYG97y3BVhSKC0ZKdQ&usqp=CAU" group-title="Peliculas",CINE STAR+ TV ACTION
 http://212.200.113.134:25002
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOcJG7TJDQq1HdpkKFZG4HNdyaJ8O40n4Q32AlCX7g&s" group-title="Peliculas",CINE STAR+ TV  FANTASY
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOcJG7TJDQq1HdpkKFZG4HNdyaJ8O40n4Q32AlCX7g&s" group-title="Peliculas",CINE STAR+ TV  FANTASY
 http://212.200.113.134:25003
 #EXTINF:-1,VIJU + SERIAL
 http://94.229.250.73:8008/play/a003
