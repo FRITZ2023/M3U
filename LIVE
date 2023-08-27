@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER CIN-NYC 
-http://ua-iptv.com:8080/Perkins/Perkins/309788
-#EXTINF:-1 tvg-id="" tvg-name="INSP: MLS SOCCER 1:" tvg-logo="https://seeklogo.com/images/M/mls-season-pass-logo-E60789CBCA-seeklogo.com.png" group-title="INTERNATIONAL SPORTS",INSP: MLS SOCCER NY RB-INT 
-http://ua-iptv.com:8080/Perkins/Perkins/309791
-#EXTINF:-1 tvg-id="" tvg-name="18:30 | New York Red Bulls vs. Inter Miami | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="EVENTOS DEL DIA (SOLO EVENTO)",18:30 | New York Red Bulls vs. Inter Miami | ᴹᴸˢ
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/399375.ts
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/27530
 #EXTINF:-1,ALF
@@ -18,7 +12,14 @@ http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37820
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/44377
 #EXTINF:-1,AUTO FANTASTICO
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37806
-
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa68-oBV9IxSzY-oAkyPllgFQtz0kw4-gDdgln1YeN-Q&s" group-title="Peliculas",CINE STAR+ TV1
+http://212.200.113.134:25001
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjK6kiSK7IOROfHL83HYdabVZSFy6lfKh6viOb2erU2pauNcwroYG97y3BVhSKC0ZKdQ&usqp=CAU" group-title="Peliculas",CINE STAR+ TV ACTION
+http://212.200.113.134:25002
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOcJG7TJDQq1HdpkKFZG4HNdyaJ8O40n4Q32AlCX7g&s" group-title="Peliculas",CINE STAR+ TV  FANTASY
+http://212.200.113.134:25003
+#EXTINF:-1,VIJU + SERIAL
+http://94.229.250.73:8008/play/a003
 #EXTINF:-1 tvg-id="" tvg-name="G- Mundo Toro HD" tvg-logo="http://turvqpow.xyz:8080/images/2627c00e179be4ca9c5ddcdab1ab273e.jpg" group-title="Movistar",G- Mundo Toro HD
 http://katfil.com:8080/jumapa/tgcy9gQmFZ/17021
 #EXTINF:-1 tvg-id="0" tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",PT | TOROS TV
