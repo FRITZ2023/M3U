@@ -69,9 +69,9 @@ http://181.177.255.253:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
 http://190.83.60.34:1414/play/a04i
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
+https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1,TV+ HD
 http://181.177.255.253:8000/play/a01m/index.m3u8
-https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="DIRECTO : TUDN FHD (MX)" tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png" group-title="DEPORTES",DIRECTO : TUDN FHD (MX)
