@@ -239,18 +239,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/man
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
 http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:-1,OXOTHNK (ANIMAL) RUSS
-http://87.246.54.84:4022/udp/239.66.100.4:5500
-#EXTINF:-1,PESCA RUSS
-http://87.246.54.84:4022/udp/239.66.100.5:5500
-#EXTINF:-1,ANKAR PBIGANKA HD PESCA RUSS
-http://87.246.54.84:4022/udp/239.66.100.6:5500
-#EXTINF:-1,AMKAR OXOTA HD DOG CAZA RUSS
-http://87.246.54.84:4022/udp/239.66.100.7:5500
-#EXTINF:-1,ABTO SPORT RUSS
-http://87.246.54.84:4022/udp/239.66.100.8:5500
-#EXTINF:-1,ABTO24  RUSS
-http://87.246.54.84:4022/udp/239.66.100.9:5500
+
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
