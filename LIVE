@@ -130,7 +130,7 @@ http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/153840
 http://177.53.153.21:8001/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/52546.ts
-#EXTINF:-1,CANAL IPE
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/22163
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/59877
