@@ -137,7 +137,7 @@ http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/59877
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/59860
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV HD
-http://181.177.255.253:8000/play/a05n/index.m3u8
+http://170.81.240.10:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU",ATV+ HD
 http://170.81.240.10:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
