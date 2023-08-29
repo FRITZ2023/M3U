@@ -1,20 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 65 | Univisión HD
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HD: La cocina del infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyOYRQuVIhw1DfVjNKj7gUom1Fv.jpg" group-title="ACCION",HD: La cocina del infierno
 http://tv.dominiotv.xyz:25461/movie/cuen23/hX8recoverymf/254682.mkv
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/27530
-#EXTINF:-1,ALF
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37766
-#EXTINF:-1,BRUCE LEE
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37763
-#EXTINF:-1,BONANZA
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37820
-#EXTINF:-1,MATRIMONIO CON HIJOS
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/44377
-#EXTINF:-1,AUTO FANTASTICO
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37806
+
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AXN HD" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN HD
@@ -252,7 +243,16 @@ http://109.236.91.39:1935/sxmxutkqjh/sxmxutkqjh/playlist.m3u8
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Sinart-Canal-Trece-Costa-Rica-en-VIVO-Online-en-Directo.png?resize=696%2C392&ssl=1" group-title="Peliculas",13-Sinart
 http://190.83.116.230:9010/play/a0bd/index.m3u8
-
+#EXTINF:-1,ALF
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37766
+#EXTINF:-1,BRUCE LEE
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37763
+#EXTINF:-1,BONANZA
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37820
+#EXTINF:-1,MATRIMONIO CON HIJOS
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/44377
+#EXTINF:-1,AUTO FANTASTICO
+http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/37806
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
 http://177.234.230.226:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
