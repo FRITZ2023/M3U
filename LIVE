@@ -26,6 +26,8 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://181.78.8.90:16123/play/ch12a
 #EXTINF:-1 tvg-id="" tvg-name="G- Mundo Toro HD" tvg-logo="http://turvqpow.xyz:8080/images/2627c00e179be4ca9c5ddcdab1ab273e.jpg" group-title="Movistar",G- Mundo Toro HD
 http://katfil.com:8080/jumapa/tgcy9gQmFZ/17021
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV HD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="ES   MOVISTAR+",ES: TOROLE TV HD
+http://674218145585539877.go30818.xyz:80/play/ja1129393/MGJ7v5Ty5n/539877.ts
 #EXTINF:-1 tvg-id="0" tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",PT | TOROS TV
 http://hardcoremedia.xyz:80/rabdsbmz/3731346838/18624
 #EXTINF:-1,FIGHT BOX
