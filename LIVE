@@ -48,6 +48,8 @@ http://181.78.0.192:10109/play/a03r/index.m3u8
 http://177.234.247.66:8888/play/a077/index.m3u8
 #EXTINF:-1,Canal Institucional  COLOMBIA
 http://181.78.85.154:2022/play/a040/index.m3u8
+#EXTINF:-1,WUAN+
+http://177.234.247.66:8888/play/a01z/index.m3u8
 #EXTINF:-1,TV AGRO
 http://181.78.22.70:8000/play/a01i/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
@@ -132,6 +134,10 @@ http://45.181.122.145:8000/play/a00w/index.m3u8
 http://45.181.122.145:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",Fox Sports 3 HD
 http://45.181.122.145:8000/play/a023/index.m3u8
+#EXTINF:-1,Win Sports HD
+http://177.234.247.66:8888/play/a00e/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://177.234.247.66:8888/play/a02g/index.m3u8
 #EXTINF:-1,Eurosport1 HD
 http://151.248.16.100:4444/Eurosport1/index.m3u8
 #EXTINF:-1,Eurosport2 HD
