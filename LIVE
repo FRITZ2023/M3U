@@ -422,8 +422,6 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 http://201.218.137.232:4123/play/a05d/index.m3u8
 #EXTINF:-1,117.1 - TyC Sports HD
 http://201.218.137.232:4123/play/a00c/index.m3u8
-#EXTINF:-1,117.2 - Win Sports+ HD
-http://201.218.137.232:4123/play/a00j/index.m3u8
 #EXTINF:-1,117.3 - El Canal del Futbol HD
 http://201.218.137.232:4123/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
@@ -528,10 +526,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 245 | Sport Ext
 https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES",Win Sports HD
-http://200.60.83.197:8000/play/a01i
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
-http://200.60.83.197:8000/play/a04l
+
 #EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 FHD
 http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/1918
 #EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
