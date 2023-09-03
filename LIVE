@@ -44,6 +44,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 https://ott1.hdlatam.tv/live_abr/Stream9/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
+#EXTINF:-1,Nuestra Tele
+http://177.234.247.66:8888/play/a077/index.m3u8  SD  19:36 2/09/2023 FUTBOL WINTV
+#EXTINF:-1,Canal Institucional
+http://181.78.85.154:2022/play/a040/index.m3u8  COLOMBIA
+#EXTINF:-1,TV AGRO
+http://181.78.22.70:8000/play/a01i/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
