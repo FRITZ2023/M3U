@@ -144,15 +144,15 @@ http://151.248.16.100:4444/Eurosport1/index.m3u8
 http://151.248.16.100:4444/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/107209
+http://177.53.155.236:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/22167
+http://177.53.155.236:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/153840
+http://181.224.161.138:1010/play/a08o/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
-http://177.53.153.21:8001/play/a016/index.m3u8
+http://161.132.194.88:7076/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/52546.ts
+http://181.224.161.138:1010/play/a0a4/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/22163
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
@@ -174,7 +174,8 @@ http://161.132.194.88:7076/play/a0k1/index.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1143299291&_cdn_timestamp=1694091781&_cdn_token=1d1172116053ce4426260f961bcabc82666127d3
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/153592
+http://179.51.163.250:8000/play/a02v/index.m3u8
+
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
 https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
 
