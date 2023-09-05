@@ -200,8 +200,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 381 | Best Cable Televisión || Lima
 https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
-#EXTINF:-2021 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
-hls://https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
 #EXTINF:-1,Caracol HD
 http://177.53.153.21:8001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://lh3.googleusercontent.com/-36ZvtH-DlwY/YH3RC_yNV7I/AAAAAAABBuw/BZyMcxu0rB8npsk2JFP2hUBz75i_zO0cgCK8BGAsYHg/s512/2021-04-19.png", HispanTV | IR
@@ -241,7 +240,7 @@ http://212.200.113.134:25002
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOcJG7TJDQq1HdpkKFZG4HNdyaJ8O40n4Q32AlCX7g&s" group-title="Peliculas",CINE STAR+ TV  FANTASY
 http://212.200.113.134:25003
 #EXTINF:-1,VIJU + SERIAL
-http://94.229.250.73:8008/play/a003
+http://91.200.160.134:15000/play/a0q3/index.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 1
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 2
@@ -249,8 +248,6 @@ http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGFBmTGKKSBIap7nVldrU2qAKGkHu265OPal0NVeoXA&s" group-title="Deportes",TAURUS TV
 http://177.53.153.21:8001/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
-http://obshd.tv:25461/ExchangeBabar/JLGrzMh32TTYV2/3591
 #EXTINF:-1 tvg-id="ES | Torole TV" tvg-name="ES | Torole TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVM_xARDlrpGuIzVZ2HL3-C-aD5xDicJBChojim3p8Hw&s" group-title="ESPAÑA", MADRID | Torole TV || ESPAÑA
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.m3u8
 
