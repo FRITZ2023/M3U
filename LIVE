@@ -98,11 +98,11 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/48991.ts
 #EXTINF:-1 tvg-id="EPG123.77068.schedulesdirect.org" tvg-name="DIRECTO : TUDN HD (USA)" tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png" group-title="DEPORTES",DIRECTO : TUDN HD (USA)
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/48992.ts
+#EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0u9.png",CANAL 5 MX HD
+http://181.189.243.217:8000/play/a0u9/index.m3u8
+#EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0ub.png",Azteca 7 HD
+http://181.189.243.217:8000/play/a0ub/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",Canal 5 HD
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/26973
-#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", Azteca 7
-http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/1330
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
 http://181.177.255.253:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
