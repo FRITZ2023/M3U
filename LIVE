@@ -100,7 +100,7 @@ http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/48991.ts
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/48992.ts
 #EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0u9.png",CANAL 5 MX HD
 http://181.189.243.217:8000/play/a0u9/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0ub.png",Azteca 7 HD
+#EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0ub.png",Azteca 7 MX HD
 http://181.189.243.217:8000/play/a0ub/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
