@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="USA | Univisión Tlnovelas" tvg-name="USA | Univisión Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 63.2 | Univisión Tlnovelas
+http://xtream-ie.com/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTcwMzMzIiwiaWQiOjU2NjF9/fast
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HD: La cocina del infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyOYRQuVIhw1DfVjNKj7gUom1Fv.jpg" group-title="ACCION",HD: La cocina del infierno
@@ -329,8 +330,7 @@ http://45.181.122.209:8088/play/a06v
 http://hardcoremedia.xyz:80/rabdsbmz/3731346838/11739
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://45.228.234.77:3340/play/tlnovelas/index.m3u8
-#EXTINF:-1 tvg-id="USA | Univisión Tlnovelas" tvg-name="USA | Univisión Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS", 63.2 | Univisión Tlnovelas
-https://v3.playerlatino.live/stream/m3u8/413 FAIL
+
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 64 | Las Estrellas Latinoamérica
 http://181.224.161.138:1010/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 65 | Univisión Latinoamérica
