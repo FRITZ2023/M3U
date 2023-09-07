@@ -45,7 +45,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 https://ott1.hdlatam.tv/live_abr/Stream9/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
-#EXTINF:-1,Nuestra Tele
+#EXTINF:-1,RCN Nuestra Tele
 http://177.234.247.66:8888/play/a077/index.m3u8
 #EXTINF:-1,Canal Institucional  COLOMBIA
 http://181.78.85.154:2022/play/a040/index.m3u8
@@ -58,10 +58,8 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
-http://181.78.74.19:8008/play/a03s/index.m3u8
+http://181.224.161.138:1010/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
-https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://170.254.234.244:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
