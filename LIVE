@@ -77,7 +77,7 @@ http://playhispano.org:8080/9805743290/94631875/107116
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
 http://belleer.top:8080/live/361667403865595038/9511667403865595/5571.ts
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
-http://quebuscasaqui.xyz:8080/JoseWeib-TV/A5wjQDud0T/318
+http://154.58.202.194:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
 http://45.189.117.32:7076/play/a0sm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | MASTERCHEF" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | MASTERCHEF
@@ -93,7 +93,7 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA",Sun Channel
 http://181.78.64.71:16123/play/ch48
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
-http://190.83.60.34:1414/play/a04i
+http://45.4.3.75:7700/play/a01r
 
 #EXTINF:-1,TV+ HD
 http://181.177.255.253:8000/play/a01m/index.m3u8
@@ -109,17 +109,17 @@ http://181.189.243.217:8000/play/a0u9/index.m3u8
 http://181.189.243.217:8000/play/a0ub/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
-http://181.177.255.253:8000/play/a075/index.m3u8
+http://209.45.81.84:8000/play/a03d
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
-http://181.177.255.253:8000/play/a076/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50276.m3u8
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
-http://201.218.137.232:4123/play/a05c/index.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight HD
 http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Motor" tvg-name="AR | DSports Motor" tvg-logo="https://www.totalmedios.com/img/noticias/2023/06/6481c3f81fdc4__838x390.jpg" group-title="DEPORTES", 249.5 | DSports Motor
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180419
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
-http://177.53.153.21:8001/play/a00h/index.m3u8
+http://209.45.81.84:8000/play/a00c
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
 http://45.4.3.75:7700/play/a01p
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES",Gol Peru HD
@@ -149,9 +149,9 @@ http://177.234.247.66:8888/play/a00e/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://177.234.247.66:8888/play/a02g/index.m3u8
 #EXTINF:-1,Eurosport1 HD
-http://151.248.16.100:4444/Eurosport1/index.m3u8
+http://154.58.202.194:8000/play/a06m/index.m3u8
 #EXTINF:-1,Eurosport2 HD
-http://151.248.16.100:4444/Eurosport2/index.m3u8
+http://154.58.202.194:8000/play/a0is/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
 http://177.53.155.236:8000/play/a00r/index.m3u8
