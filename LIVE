@@ -113,7 +113,7 @@ http://181.177.255.253:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
 http://181.177.255.253:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
-http://181.177.255.253:8000/play/a078/index.m3u8
+http://201.218.137.232:4123/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight HD
 http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Motor" tvg-name="AR | DSports Motor" tvg-logo="https://www.totalmedios.com/img/noticias/2023/06/6481c3f81fdc4__838x390.jpg" group-title="DEPORTES", 249.5 | DSports Motor
