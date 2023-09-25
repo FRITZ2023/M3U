@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U#EXTINF:-1,Univision
+http://177.93.52.98:45001/play/a0cv
+
 #EXTINF:-1 tvg-id="USA | Univisión Tlnovelas" tvg-name="USA | Univisión Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS",TELENOVELAS UNIVISION FHD
 http://xtream-ie.com/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTcwMzMzIiwiaWQiOjU2NjF9/fast
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
@@ -13,9 +15,9 @@ http://45.4.3.75:7700/play/a01i
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
 http://209.45.81.84:8000/play/a009
 #EXTINF:-1,RCN HD
-http://181.78.22.70:8000/play/a02m/index.m3u8
+http://177.93.52.98:45001/play/a06p
 #EXTINF:-1,Caracol HD
-http://177.53.153.21:8001/play/a04a/index.m3u8
+http://179.1.67.51:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
 http://45.166.92.22:58001/play/a00q/index.m3u8
@@ -50,23 +52,23 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/759
 #EXTINF:-1 tvg-id="" tvg-name="MX | LUCHA LIBRE AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | LUCHA LIBRE AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
-https://ott1.hdlatam.tv/live_abr/Stream9/playlist.m3u8
+http://161.132.243.192:50001/play/a04f/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
 #EXTINF:-1,RCN Nuestra Tele
 http://177.234.247.66:8888/play/a077/index.m3u8
 #EXTINF:-1,Canal Institucional  COLOMBIA
-http://181.78.85.154:2022/play/a040/index.m3u8
+htthttp://179.1.67.51:8000/play/a06d/index.m3u8
 #EXTINF:-1,WUAN+
 http://177.234.247.66:8888/play/a01z/index.m3u8
 #EXTINF:-1,TV AGRO
-http://181.78.22.70:8000/play/a01i/index.m3u8
+http://177.93.52.98:45001/play/a0cs
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 313 | Canal Rural
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
-http://181.224.161.138:1010/play/a01n/index.m3u8
+http://177.93.52.98:45001/play/a07v
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://170.254.234.244:8000/play/a021/index.m3u8
@@ -76,10 +78,6 @@ http://belleer.top:8080/live/361667403865595038/9511667403865595/5724.ts
 http://154.58.202.194:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
 http://154.58.202.194:8000/play/a05t/index.m3u8
-#EXTINF:-1,CANAL J
-http://154.58.202.194:8000/play/a0h5/index.m3u8
-#EXTINF:-1,CANAL+FOOT
-http://154.58.202.194:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://154.58.202.194:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
@@ -100,7 +98,7 @@ http://181.78.64.71:16123/play/ch48
 http://45.4.3.75:7700/play/a01r
 
 #EXTINF:-1,TV+ HD
-http://181.177.255.253:8000/play/a01m/index.m3u8
+http://177.93.52.100:45001/play/a06t
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="DIRECTO : TUDN FHD (MX)" tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png" group-title="DEPORTES",DIRECTO : TUDN FHD (MX)
@@ -113,64 +111,75 @@ http://181.189.243.217:8000/play/a0u9/index.m3u8
 http://181.189.243.217:8000/play/a0ub/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
-http://209.45.81.84:8000/play/a03d
+http://161.132.243.192:50001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50276.m3u8
+http://161.132.243.192:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50275.m3u8
+http://161.132.243.192:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Fight" tvg-name="AR | DSports Fight" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="DEPORTES", 249.4 | DSports Fight HD
 http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports Motor" tvg-name="AR | DSports Motor" tvg-logo="https://www.totalmedios.com/img/noticias/2023/06/6481c3f81fdc4__838x390.jpg" group-title="DEPORTES", 249.5 | DSports Motor
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180419
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
-http://209.45.81.84:8000/play/a00c
+http://161.132.243.192:50001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
-http://45.4.3.75:7700/play/a01p
+http://177.93.52.98:45001/play/a07j
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES",Gol Peru HD
-http://177.53.153.21:8001/play/a03z/index.m3u8
+http://177.93.52.100:45001/play/a07p
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes HD
-http://45.4.3.75:7700/play/a01i
+http://157.100.233.109:8000/play/a005/index.m3u8
 #EXTINF:-1,PER-Movistar Plus TV (M)(720)
-http://45.228.234.41:16000/playlist.m3u8
+http://157.100.233.109:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", 233 | ESPN HD
-http://45.4.3.75:7700/play/a02v
+http://179.1.67.51:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
-http://45.4.3.75:7700/play/a02r
+http://179.1.67.51:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 3 HD" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 HD
-http://45.4.3.75:7700/play/a009
+http://179.1.67.51:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 4 HD" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 HD
-http://45.4.3.75:7700/play/a00q
+http://179.1.67.51:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES",ESPN EXTRA HD
-http://45.4.3.75:7700/play/a016
+http://179.1.67.51:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES",Fox Sports HD
-http://45.238.21.84:8000/play/a0be
+http://177.93.52.100:45001/play/a085
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 HD
-http://45.238.21.84:8000/play/a0ae
+http://177.93.52.100:45001/play/a06i
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",Fox Sports 3 HD
-http://45.238.21.84:8000/play/a06m
+http://177.93.52.100:45001/play/a05z
 #EXTINF:-1,Win Sports HD
-http://177.234.247.66:8888/play/a00e/index.m3u8
+http://179.1.67.50:8000/play/a05w/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://177.234.247.66:8888/play/a02g/index.m3u8
+
+#EXTINF:-1,Canal Claro
+http://177.234.245.26:8000/play/a03z/index.m3u8
+#EXTINF:-1,Canal Claro HD
+http://177.234.245.26:8000/play/a015/index.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://177.234.245.26:8000/play/a013/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://177.234.245.26:8000/play/a014/index.m3u8
+#EXTINF:-1,Concert Channel
+http://177.234.245.26:8000/play/a02z/index.m3u8
 #EXTINF:-1,Eurosport1 HD
 http://154.58.202.194:8000/play/a06m/index.m3u8
 #EXTINF:-1,Eurosport2 HD
-http://154.58.202.194:8000/play/a0is/index.m3u8
+http://179.1.67.50:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
 http://177.53.155.236:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
 http://177.53.155.236:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
-http://181.224.161.138:1010/play/a08o/index.m3u8
+http://161.132.108.76:50001/play/a02b/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
 http://161.132.194.88:7076/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
-http://181.224.161.138:1010/play/a0a4/index.m3u8
+http://157.100.233.109:8000/play/a00j/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
-http://181.224.161.138:1010/play/a09x/index.m3u8
+http://177.234.245.26:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
 http://45.189.117.32:7076/play/a0qn/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV HD
@@ -188,14 +197,14 @@ http://161.132.194.88:7076/play/a0k1/index.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
 http://190.90.71.68:15082/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1228854211&_cdn_timestamp=1695729860&_cdn_token=39bd62b93745bf084b06b7e6c9b06c959c65424c
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1238608059&_cdn_timestamp=1696014240&_cdn_token=b5afb0188cc2fb1999899e4f51fc94718cf998da
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
-http://209.45.81.84:8000/play/a035
+http://161.132.243.192:50001/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
 http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Radio_PBO.jpg/270px-Logo_de_Radio_PBO.jpg" group-title="PERU", 10 | PBO TV
-http://45.173.201.50:4000/play/a023
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1238611427&_cdn_timestamp=1696014299&_cdn_token=73151af9aeb8eec7a084f7357843238d74dfb591
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
 http://170.81.240.10:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU",USMP HD
@@ -212,7 +221,10 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 381 | Best Cable Televisión || Lima
 https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
-
+#EXTINF:-1,Ecuador TV
+http://177.234.245.26:8000/play/a04c/index.m3u8
+#EXTINF:-1,Ecuavisa
+http://177.234.245.26:8000/play/a04k/index.m3u8
 #EXTINF:-1,UNITEL HD
 http://45.173.201.50:4000/play/a01n
 #EXTINF:-1,URANIO TV
