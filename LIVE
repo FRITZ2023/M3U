@@ -47,6 +47,8 @@ http://181.78.0.192:10109/play/a03r/index.m3u8
 
 #EXTINF:-1,WUAN+
 http://177.234.247.66:8888/play/a01z/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://190.119.174.186:8000/play/a0b5/index.m3u8
 #EXTINF:-1,TV AGRO
 http://177.93.52.98:45001/play/a0cs
 #EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 313 | Canal Rural
@@ -119,7 +121,7 @@ http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180419
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
 http://161.132.243.192:50001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
-http://177.234.245.26:8000/play/a03l/index.m3u8
+http://190.119.174.186:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES",Gol Peru HD
 http://161.132.243.192:50001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes HD
@@ -198,9 +200,10 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-med
 http://161.132.243.192:50001/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
+http://161.132.243.192:50001/play/a044/index.m3u8
 http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Radio_PBO.jpg/270px-Logo_de_Radio_PBO.jpg" group-title="PERU", 10 | PBO TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1238611427&_cdn_timestamp=1696014299&_cdn_token=73151af9aeb8eec7a084f7357843238d74dfb591
+http://190.119.174.186:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
 http://170.81.240.10:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU",USMP HD
@@ -212,7 +215,7 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Fuego TV" tvg-name="PE | Fuego TV" tvg-logo="https://pbs.twimg.com/media/FanGV4zXwAEhBWO?format=png&name=small" group-title="REGIONALES", 379 | Fuego TV || Lima
 https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=1243261467&_cdn_timestamp=1696163012&_cdn_token=c02bf9d3074b55d0680c2d2239dd570d0b7ef1f8
+http://190.187.154.156:8000/play/CONECTA2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital TV" tvg-name="PE | Onda Digital TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ONDA_DIGITAL_TV_Lima.png" group-title="REGIONALES", 397 | Onda Digital TV || Lima
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 381 | Best Cable Televisión || Lima
@@ -305,8 +308,8 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 261 | Best Cable Music
-https://ca2.inka.net.pe/best-Music-00112000050/index.m3u8
+#EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES",Best Cable Music
+http://137.184.153.76:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1300 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 385 | Intuitiva TV || Lima
@@ -338,7 +341,8 @@ http://45.189.117.32:7076/play/a01v/index.m3u8
 http://190.211.172.154:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 61 | Kanal D Drama
 http://190.61.46.126:8000/play/a01o/index.m3u8
-
+#EXTINF:-1,027.1 - Corazon HD
+http://161.132.243.192:50001/play/a04e/index.m3u8
 #EXTINF:-1,TelefØ
 http://190.61.46.126:8000/play/a02r/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA
