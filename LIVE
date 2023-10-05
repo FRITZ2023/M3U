@@ -165,12 +165,6 @@ http://177.234.245.26:8000/play/a015/index.m3u8
 http://177.234.245.26:8000/play/a013/index.m3u8
 #EXTINF:-1,Claro Sports 2 HD
 http://177.234.245.26:8000/play/a014/index.m3u8
-#EXTINF:-1,Concert Channel
-http://177.234.245.26:8000/play/a02z/index.m3u8
-#EXTINF:-1,Eurosport1 HD
-http://188.134.80.1:81/udp/235.10.10.141:1234
-#EXTINF:-1,Eurosport2 HD
-http://179.1.67.50:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
 http://177.53.155.236:8000/play/a00r/index.m3u8
@@ -312,6 +306,9 @@ http://45.179.140.242:8000/play/a0jq
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES",Best Cable Music
 http://137.184.153.76:8000/play/a02w/index.m3u8
+#EXTINF:-1,Concert Channel
+http://177.234.245.26:8000/play/a02z/index.m3u8
+
 #EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1300 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 385 | Intuitiva TV || Lima
