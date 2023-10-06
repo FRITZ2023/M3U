@@ -161,13 +161,13 @@ http://187.102.208.108:50001/play/a02b/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
 http://161.132.194.88:7076/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
-http://157.100.233.109:8000/play/a00j/index.m3u8
+http://190.102.139.241:8900/play/a0to/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
 http://161.132.243.192:50001/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
 http://187.102.208.108:50001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
-http://45.189.117.32:7076/play/a0qn/index.m3u8
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV HD
 http://187.102.208.108:50001/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU",ATV+ Noticias HD
@@ -187,7 +187,6 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-med
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
 http://161.132.243.192:50001/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
-http://161.132.243.192:50001/play/a044/index.m3u8
 http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Radio_PBO.jpg/270px-Logo_de_Radio_PBO.jpg" group-title="PERU", 10 | PBO TV
 http://190.187.154.156:8000/play/a0du/index.m3u8
@@ -215,8 +214,6 @@ http://45.173.201.50:4000/play/a02z
 http://177.234.245.26:8000/play/a04c/index.m3u8
 #EXTINF:-1,Ecuavisa
 http://177.234.245.26:8000/play/a04k/index.m3u8
-#EXTINF:-1,RCN Nuestra Tele
-http://190.61.46.126:8000/play/a02h/index.m3u8
 #EXTINF:-1,RCN HD
 http://190.61.46.126:8000/play/a01h/index.m3u8
 #EXTINF:-1,Caracol HD
