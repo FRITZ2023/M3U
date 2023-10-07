@@ -116,7 +116,7 @@ http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
 http://190.119.174.186:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES",Gol Peru HD
-http://161.132.243.192:50001/play/a01n/index.m3u8
+http://38.43.150.120:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes HD
 http://157.100.233.109:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
@@ -156,7 +156,7 @@ http://177.53.155.236:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
 http://177.53.155.236:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
-http://187.102.208.108:50001/play/a02b/index.m3u8
+http://38.56.220.254:8000/play/a009/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
 http://161.132.194.88:7076/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
@@ -164,7 +164,7 @@ http://190.102.139.241:8900/play/a0to/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
 http://161.132.243.192:50001/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
-http://187.102.208.108:50001/play/a02e/index.m3u8
+http://38.56.220.254:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
 http://190.90.154.73:8080/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV HD
@@ -187,7 +187,8 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-med
 http://200.233.45.57:8000/play/a01y
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
 http://191.97.60.193:10000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Radio_PBO.jpg/270px-Logo_de_Radio_PBO.jpg" group-title="PERU", 10 | PBO TV
+#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU",PBO TV
+hls://https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1285176499&_cdn_timestamp=1697112739&_cdn_token=20bfbfa090dc8b0320787462b01c5fc43c19715b
 http://190.187.154.156:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
 http://187.102.208.108:50001/play/a028/index.m3u8
@@ -205,6 +206,8 @@ http://190.187.154.156:8000/play/CONECTA2/index.m3u8
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 381 | Best Cable Televisión || Lima
 https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
+#EXTINF:-1,PERU CHANNEL
+http://45.173.201.50:4000/play/a023
 #EXTINF:-1,UNITEL HD
 http://45.173.201.50:4000/play/a01n
 #EXTINF:-1,URANIO TV
