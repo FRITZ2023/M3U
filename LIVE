@@ -122,13 +122,13 @@ http://157.100.233.109:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
 http://209.45.81.84:8000/play/a009
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", 233 | ESPN HD
-http://179.1.67.51:8000/play/a05y/index.m3u8
+http://200.233.45.57:8000/play/a013
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
-http://179.1.67.51:8000/play/a05i/index.m3u8
+http://200.233.45.57:8000/play/a01a
 #EXTINF:-1 tvg-id="USA | ESPN 3 HD" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 HD
-http://179.1.67.51:8000/play/a05h/index.m3u8
+http://200.233.45.57:8000/play/a018
 #EXTINF:-1 tvg-id="USA | ESPN 4 HD" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 HD
-http://179.1.67.51:8000/play/a034/index.m3u8
+http://200.233.45.57:8000/play/a00r
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES",ESPN EXTRA HD
 http://179.1.67.51:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES",Fox Sports HD
