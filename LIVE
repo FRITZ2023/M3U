@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
 http://190.186.131.18:58001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="USA | Univisión Tlnovelas" tvg-name="USA | Univisión Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/180px-Univision_tlnovelas_%282019%29.svg.png" group-title="NOVELAS",TELENOVELAS UNIVISION FHD
+#EXTINF:-1 tvg-logo="http://puu.sh/x0NXX/d54f427175.png" group-title="Entretenimiento",TELENOVELAS UNIVISION FHD
 http://xtream-ie.com/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTcwMzMzIiwiaWQiOjU2NjF9/fast
 
 #EXTINF:-1 tvg-id="" tvg-name="HD: La cocina del infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyOYRQuVIhw1DfVjNKj7gUom1Fv.jpg" group-title="ACCION",HD: La cocina del infierno
