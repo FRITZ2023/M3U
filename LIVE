@@ -4,7 +4,7 @@
 http://191.97.60.193:10000/play/a006/index.m3u8
 #EXTINF:-1,Telefe | Argentina
 http://170.82.37.21:8000/play/a042/index.m3u8
-#EXTINF:-1,FUN BOX
+#EXTINF:-1 tvg-id="EC | FUN BOX" tvg-name="EC | FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/100px-FunBox_TV_logo.svg.png" group-title="DEPORTES",FUN BOX
 http://191.97.60.193:10000/play/a02r/index.m3u8
 #EXTINF:-1,CONSTRUIR TV
 http://200.63.95.6:8000/play/a043/index.m3u8
@@ -18,11 +18,11 @@ http://89.187.191.99:8080/ss3hd/index.m3u8
 http://89.187.191.99:8080/ss4hd/index.m3u8
 #EXTINF:-1 tvg-id="EC | Supersport 5" tvg-name="EC | Supersport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lTo3cUHLAaW4u1rVlISd31h2GlrdjRmpMSHyWoYyBw&s" group-title="DEPORTES",Supersport 5
 http://89.187.191.99:8080/ss5hd/index.m3u8
-#EXTINF:-1,Telemundo Internacional
+#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
-#EXTINF:-1,Telemundo Miami
+#EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1,TELE SUR HD
+#EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION",TELESUR HD
 http://45.190.185.210:8001/play/a003
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
 http://190.186.131.18:58001/play/a00v/index.m3u8
