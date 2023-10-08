@@ -100,7 +100,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd24
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 #EXTINF:-1 tvg-id="PE | Sazon TV" tvg-name="PE | Sazon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTzAa_y05U3NyZhtKxIyQ9jfKHAlhHwMa1IA1JvSh_NZhV2KTXz9xPreO7xiitLK1qO4&usqp=CAU" group-title="REGIONALES", 393 | Sazon TV || Perú; Lima
 http://170.81.240.10:8000/play/a00e/index.m3u8
-#EXTINF:-1,PER-Movistar Plus TV (M)(720)
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
 http://157.100.233.109:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
@@ -124,9 +124,9 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/48991.ts
 #EXTINF:-1 tvg-id="EPG123.77068.schedulesdirect.org" tvg-name="DIRECTO : TUDN HD (USA)" tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png" group-title="DEPORTES",DIRECTO : TUDN HD (USA)
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/48992.ts
-#EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0u9.png",CANAL 5 MX HD
+#EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1099 | Canal 5 HD || MÉXICO
 http://181.189.243.217:8000/play/a0u9/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0ub.png",Azteca 7 MX HD
+#EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1101 | Azteca 7 HD || MÉXICO
 http://181.189.243.217:8000/play/a0ub/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
@@ -338,9 +338,9 @@ http://45.189.117.32:7076/play/a01v/index.m3u8
 http://190.211.172.154:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 61 | Kanal D Drama
 http://190.61.46.126:8000/play/a01o/index.m3u8
-#EXTINF:-1,027.1 - Corazon HD
+#EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS",027.1 - Corazon HD
 http://161.132.243.192:50001/play/a04e/index.m3u8
-#EXTINF:-1,AztecaCorazon
+#EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS",AztecaCorazon
 http://170.82.37.21:8000/play/a029/index.m3u8
 #EXTINF:-1,AztecaMundo
 http://170.82.37.21:8000/play/a02j/index.m3u8
