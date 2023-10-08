@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1,20.5 VATICAN MEDIA AMERICA
+http://191.97.60.193:10000/play/a006/index.m3u8
+#EXTINF:-1,Telefe | Argentina
+http://170.82.37.21:8000/play/a042/index.m3u8
+#EXTINF:-1,FUN BOX
+http://191.97.60.193:10000/play/a02r/index.m3u8
+#EXTINF:-1,CONSTRUIR TV
+http://200.63.95.6:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 1
+http://89.187.191.99:8080/ss1hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 2" tvg-name="EC | Supersport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 2
+http://89.187.191.99:8080/ss2hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 3" tvg-name="EC | Supersport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 3
+http://89.187.191.99:8080/ss3hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 4" tvg-name="EC | Supersport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 4
+http://89.187.191.99:8080/ss4hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 5" tvg-name="EC | Supersport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lTo3cUHLAaW4u1rVlISd31h2GlrdjRmpMSHyWoYyBw&s" group-title="DEPORTES",Supersport 5
+http://89.187.191.99:8080/ss5hd/index.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://170.82.37.21:8000/play/a02r/index.m3u8
+#EXTINF:-1,Telemundo Miami
+http://170.82.37.21:8000/play/a02t/index.m3u8
+#EXTINF:-1,TELE SUR HD
+http://45.190.185.210:8001/play/a003
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
 http://190.186.131.18:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://www.univision.com/_next/static/images/univision-logo-black-bg.5b3c5c64c51ed6c6ac7adafde808c798.svg" group-title="Entretenimiento",TELENOVELAS UNIVISION FHD
@@ -34,12 +58,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 http://161.132.243.192:50001/play/a04f/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
-
-#EXTINF:-1,WUAN+
+#EXTINF:-1,20.4 EWTN
+http://191.97.60.193:10000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="EC | Wuan+" tvg-name="EC | Wuan+" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuanplus-ec.png" group-title="ECUADOR",WUAN+
 http://177.234.247.66:8888/play/a01z/index.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",Comedy Central HD
 http://190.119.174.186:8000/play/a0b5/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://187.102.208.108:50001/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
@@ -48,9 +73,10 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1,230 Canal del Caballo HD
+#EXTINF:-1 tvg-id="EC | Canal del Caballo HD" tvg-name="EC | Canal del Caballo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx16SRubz1cxpfjpc4uz3VJEmWKgdR5NEjPc5O0Fhbq_TPXZT17DA5mvmSqSgmHyaBQEE&usqp=CAU" group-title="DEPORTES",Canal del Caballo HD
 http://45.160.12.253:8000/play/230
-#EXTINF:-1,Mundotoro TV
+#EXTINF:-1 tvg-id="EC | Mundotoro TV" tvg-name="EC | Mundotoro TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/03/mundotoro-logo.webp" group-title="DEPORTES",Mundotoro TV
+#EXTINF:-1  tvg-id="MundoToro.es" tvg-name="Mundo Toro (ES)" tvg-logo=""  group-title="DEPORTES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Mundo Toro (ES)
 http://149.62.177.156:8000/play/a0lq
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://177.93.52.98:45001/play/a07v
@@ -88,8 +114,12 @@ http://190.60.40.37:12500/play/a06v/index.m3u8
 http://149.62.177.156:8000/play/a0bo
 #EXTINF:-1,Casa e Cozinha MEO
 http://149.62.177.156:8000/play/a0bz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="INTERNACIONAL",CANAL 2 ESA
+http://201.159.113.218:49000/play/a02v/index.m3u8
 #EXTINF:-1,TV+ HD
 http://177.93.52.100:45001/play/a06t
+#EXTINF:-1 group-title="24/7" ,LA LIGA PREMIER- PARAMOUNT+ 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="DIRECTO : TUDN FHD (MX)" tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png" group-title="DEPORTES",DIRECTO : TUDN FHD (MX)
@@ -208,12 +238,7 @@ https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
 https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
 http://45.173.201.50:4000/play/a023
-#EXTINF:-1,UNITEL HD
-http://45.173.201.50:4000/play/a01n
-#EXTINF:-1,URANIO TV
-http://45.173.201.50:4000/play/a02z
-#EXTINF:-1,Ecuador TV
-http://177.234.245.26:8000/play/a04c/index.m3u8
+
 #EXTINF:-1,Ecuavisa
 http://177.234.245.26:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
@@ -323,11 +348,12 @@ http://170.82.37.21:8000/play/a029/index.m3u8
 http://170.82.37.21:8000/play/a02j/index.m3u8
 #EXTINF:-1,TelefØ
 http://190.61.46.126:8000/play/a02r/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA
 http://190.119.174.186:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://190.61.46.126:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="INTERNACIONALES", 64 | Las Estrellas Latinoamérica
+#EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="INTERNACIONALES", 64 | Las Estrellas Latinoamérica
 http://190.61.46.126:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 65 | Univisión Latinoamérica
 http://177.53.153.21:8001/play/a0au/index.m3u8
