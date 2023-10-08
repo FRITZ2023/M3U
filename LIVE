@@ -251,12 +251,9 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA",Venevisiðn
 http://190.95.220.212:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1118 | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
+#EXTINF:-1, tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp",El Venezolano TV
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1118 | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
-https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | El Venezolano TV" tvg-name="USA | El Venezolano TV" tvg-logo="https://evtv.online/wp-content/uploads/2023/05/cropped-evtv-WebGuidelines-1-300x183-1.webp" group-title="NOTICIAS", 1118 | El Venezolano TV || ESTADOS UNIDOS DE AMÉRICA
-https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", CGTN (Spanish)
