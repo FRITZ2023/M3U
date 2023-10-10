@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,007
+http://tv.dominiotv.xyz:25461/live/YaninaGZ/65534826/381755.ts
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES",Telefe | Argentina
 http://170.82.37.21:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="EC | FUN BOX" tvg-name="EC | FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/100px-FunBox_TV_logo.svg.png" group-title="DEPORTES",FUN BOX
@@ -23,15 +25,16 @@ http://89.187.191.99:8080/ss5hd/index.m3u8
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION",TELESUR HD
-http://45.190.185.210:8001/play/a003
+#EXTINF:-1 tvg-id="USA | UNIVISION MIAMI HD (E)" tvg-name="USA | UNIVISION MIAMI HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION MIAMI HD (E)
+http://tv.dominiotv.xyz:25461/live/YaninaGZ/65534826/169439.ts
+#EXTINF:-1 tvg-id="USA | UNIVISION LOS ANGELES" tvg-name="USA | UNIVISION LOS ANGELES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION LOS ANGELES
+http://tv.dominiotv.xyz:25461/live/YaninaGZ/65534826/185793.ts
+
 #EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",Univisión HD
 http://190.186.131.18:58001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://www.univision.com/_next/static/images/univision-logo-black-bg.5b3c5c64c51ed6c6ac7adafde808c798.svg" group-title="Entretenimiento",TELENOVELAS UNIVISION FHD
+#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",TELENOVELAS UNIVISION FHD
 http://xtream-ie.com/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTcwMzMzIiwiaWQiOjU2NjF9/fast
 
-#EXTINF:-1 tvg-id="" tvg-name="HD: La cocina del infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyOYRQuVIhw1DfVjNKj7gUom1Fv.jpg" group-title="ACCION",HD: La cocina del infierno
-http://tv.dominiotv.xyz:25461/movie/cuen23/hX8recoverymf/254682.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AXN HD" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN HD
@@ -85,7 +88,8 @@ http://177.93.52.98:45001/play/a07v
 http://blackpanther.life:8080/Pedrovadillo/D6UEftaKKg/1220
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://170.254.234.244:8000/play/a021/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
+https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://blackpanther.life:8080/Pedrovadillo/D6UEftaKKg/1000
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
@@ -729,7 +733,8 @@ http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
 #EXTINF:-1, tvg-logo="https://images.justwatch.com/poster/304667074/s718/shazam-2.%7Bformat%7D" group-title="PELÍCULAS",SHAZAM
 http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="HD: La cocina del infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyOYRQuVIhw1DfVjNKj7gUom1Fv.jpg" group-title="ACCION",HD: La cocina del infierno
+http://tv.dominiotv.xyz:25461/movie/cuen23/hX8recoverymf/254682.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HD: Wonder Woman 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="SUPER HEROES",HD: Wonder Woman 1984
 http://tv.dominiotv.xyz:25461/movie/YaninaGZ/65534826/234239.mkv
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOgfvkmd6NtDvSu8iZ26hrd00Vbf1k1SyTVQq_nO8GBLnCvBuRnJT&usqp=CAE&s" group-title="Peliculas",Condorito: The Movie (2017)
