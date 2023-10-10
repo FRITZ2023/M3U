@@ -236,8 +236,7 @@ https://ott1.hdlatam.tv/live/fuegotv/playlist.m3u8
 http://190.187.154.156:8000/play/CONECTA2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital TV" tvg-name="PE | Onda Digital TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ONDA_DIGITAL_TV_Lima.png" group-title="REGIONALES", 397 | Onda Digital TV || Lima
 https://ott1.hdlatam.tv/live/ondaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Best Cable TV" tvg-name="PE | Best Cable TV" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=268x10000:format=png/path/s86a1480785a470a0/image/ie269f4983a26afca/version/1641318191/best-cable-tv.png" group-title="REGIONALES", 381 | Best Cable Televisión || Lima
-https://ca2.inka.net.pe/BesTv-001120000100/index.m3u8
+
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
 http://45.173.201.50:4000/play/a023
 
@@ -297,15 +296,10 @@ http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 2
 http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1, tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t1.6435-9/56601028_343420332948611_2988166635119968256_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tJagY6KBJ8AAX9sTSYI&_nc_ht=scontent.flim38-1.fna&oh=00_AfBMfPjUDAYtEomBnGMSIiJWZC_u6y3vQWVkesQwaVR-cA&oe=64DC39A7" group-title="Peliculas",Pura Vida TV HD CR
 http://109.236.91.39:1935/sxmxutkqjh/sxmxutkqjh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 828 | Teletica || COSTA RICA
-https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0oh.png",13-Sinart
 http://181.189.243.217:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
@@ -313,12 +307,11 @@ http://177.234.230.226:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
 https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GamaTV
-http://45.179.140.242:8000/play/a0jq
+http://160.20.165.246:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES",Best Cable Music
-http://137.184.153.76:8000/play/a02w/index.m3u8
+
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 270 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 271 | Concert Channel
@@ -400,8 +393,6 @@ https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Best Cable Sports" tvg-name="PE | Best Cable Sports" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=239x10000:format=jpg/path/s86a1480785a470a0/image/i3cd2b522eae1ddb2/version/1637874672/image.jpg" group-title="DEPORTES", 226 | Best Cable Sports
-https://ca2.inka.net.pe/Best-sport-00000x111/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 227 | Liga 1 Max
 http://177.53.153.21:8001/play/a00h/index.m3u8
@@ -427,8 +418,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 238 | TNT Sports
-http://190.83.60.34:1414/play/a01h
+#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT SPORTS HD
+http://45.70.201.252:8889/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="CL | TNT Sports 2" tvg-name="CL | TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTES", 238.2 | TNT Sports 2
 http://190.61.44.122:8000/play/a05a/index.m3u8
 
@@ -567,17 +558,17 @@ http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
 http://190.92.7.19:8000/play/a00g/index.m3u8
 
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA",Discovery Home & Health HD
 http://190.61.46.126:8000/play/a016/index.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Channel HD
 http://190.61.46.126:8000/play/a03p/index.m3u8
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES",Discovery Kids HD
 http://190.61.46.126:8000/play/a015/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Theater HD
 http://190.61.46.126:8000/play/a017/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Turbo
 http://190.61.46.126:8000/play/a02l/index.m3u8
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery World HD
 http://190.61.46.126:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Animal Planet
@@ -611,12 +602,13 @@ https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1,HBO Family HD-46
-http://190.92.7.19:8000/play/a00y/index.m3u8
+http://38.43.150.124:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES",HBO Family HD-46
+http://45.70.201.252:8889/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History HD 
 http://190.92.7.19:8000/play/a020/index.m3u8
-
+#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION",History 2 HD
+http://45.70.201.252:8889/play/a07a/index.m3u8
 
 #EXTINF:-1,AGENTE 007
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/381755.ts
