@@ -81,7 +81,7 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Canal del Caballo HD" tvg-name="EC | Canal del Caballo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx16SRubz1cxpfjpc4uz3VJEmWKgdR5NEjPc5O0Fhbq_TPXZT17DA5mvmSqSgmHyaBQEE&usqp=CAU" group-title="DEPORTES",Canal del Caballo HD
 http://45.160.12.253:8000/play/230
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/03/mundotoro-logo.webp" group-title="DEPORTES",Mundo Toro (ES)
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="DEPORTES",Mundo Toro (ES)
 http://149.62.177.156:8000/play/a0lq
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://177.93.52.98:45001/play/a07v
