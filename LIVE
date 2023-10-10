@@ -59,15 +59,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 http://161.132.243.192:50001/play/a04f/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
 http://181.78.0.192:10109/play/a03r/index.m3u8
-#EXTINF:-1,20.4 EWTN
+#EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 336 | EWTN
 http://191.97.60.193:10000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="EC | Wuan+" tvg-name="EC | Wuan+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="ECUADOR",WUAN+
+#EXTINF:-1 tvg-id="EC | Wuan+" tvg-name="EC | Wuan+" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuanplus-ec.png" group-title="ECUADOR", 481 | Wuan+ || ECUADOR
 http://177.234.247.66:8888/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",Comedy Central HD
 http://190.119.174.186:8000/play/a0b5/index.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://187.102.208.108:50001/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES",TVAGRO CL
+#EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="REGIONALES",TVAGRO CL
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -116,7 +116,7 @@ http://149.62.177.156:8000/play/a0bo
 http://149.62.177.156:8000/play/a0bz
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="INTERNACIONAL",CANAL 2 ESA
 http://201.159.113.218:49000/play/a02v/index.m3u8
-#EXTINF:-1,TV+ HD
+#EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", 752 | TV+ HD || CHILE
 http://177.93.52.100:45001/play/a06t
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
@@ -495,8 +495,7 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.3 (1080p)
 https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
