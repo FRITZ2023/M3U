@@ -147,6 +147,10 @@ http://181.177.255.253:8000/play/a077/index.m3u8
 http://tv.proyectox.vip:43201/juv3n47ve7/CdCP4xkaTE/180419
 #EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES",DIRECTV LIGA 1 MAX HD
 http://161.132.243.192:50001/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD 2
+http://190.60.40.37:12500/play/a06d/index.m3u8
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
+http://190.61.46.126:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1121 | GolTV || ESTADOS UNIDOS DE AMÉRICA
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
@@ -244,12 +248,10 @@ http://191.97.60.193:10000/play/a00u/index.m3u8
 http://45.4.3.74:7577/play/a157/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 470 | Ecuavisa || ECUADOR
 http://177.234.245.26:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
-http://190.61.46.126:8000/play/a01h/index.m3u8
+
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD
 http://190.61.46.126:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD 2
-http://190.60.40.37:12500/play/a06d/index.m3u8
+
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://lh3.googleusercontent.com/-36ZvtH-DlwY/YH3RC_yNV7I/AAAAAAABBuw/BZyMcxu0rB8npsk2JFP2hUBz75i_zO0cgCK8BGAsYHg/s512/2021-04-19.png", HispanTV | IR
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
