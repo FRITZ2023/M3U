@@ -151,6 +151,8 @@ http://190.61.46.126:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="D | ElCanaldelFutbol SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pYLrd5M6UFKVe3JI-ltULysykopJdoikq9FthVysnw&s" group-title="TV | Deportes",ElCanaldelFutbol SD
 http://45.70.201.252:8889/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="USA | GolTV" tvg-name="USA | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="ESTADOS UNIDOS DE AMÉRICA", 1121 | GolTV || ESTADOS UNIDOS DE AMÉRICA
+http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
 http://45.70.201.252:8889/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES",Gol Peru HD
