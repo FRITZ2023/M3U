@@ -7,7 +7,8 @@ http://170.82.37.21:8000/play/a042/index.m3u8
 http://191.97.60.193:10000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="EC | Construir TV" tvg-name="EC | Construir TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzmKpBHFNsZ5V09t08_jUZO8MdhBKnLriPMgcBiS8ZQ&s" group-title="DEPORTES",Construir TV
 http://200.63.95.6:8000/play/a043/index.m3u8
-
+#EXTINF:-1,TRACE SPORTS STARS HD
+http://181.119.66.30:8000/play/TRACE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 1
@@ -24,6 +25,10 @@ http://89.187.191.99:8080/ss5hd/index.m3u8
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
+#EXTINF:-1,UNIMAS HD
+http://181.189.246.86:58004/play/a00n/index.m3u8
+#EXTINF:-1,UNIVISION DALLAS 23
+http://181.189.246.86:58004/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="USA | UNIVISION MIAMI HD (E)" tvg-name="USA | UNIVISION MIAMI HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION MIAMI HD (E)
 http://tv.dominiotv.xyz:25461/live/YaninaGZ/65534826/169439.ts
 #EXTINF:-1 tvg-id="USA | UNIVISION LOS ANGELES" tvg-name="USA | UNIVISION LOS ANGELES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION LOS ANGELES
