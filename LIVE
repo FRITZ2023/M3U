@@ -56,6 +56,7 @@ http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 129 | FMH Family
 http://45.160.15.130:2909/play/a169
 #EXTINF:-1,FMH MOVIES
+#EXTINF:-1 tvg-id="USA | FMH MOVIES" tvg-name="USA | FMH MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAJ-PUCbq0xIdynydEKLuCkWy-aqAJ73ygEnpoNh--48k6-JuTJsDZL6ubLkuleXLq5A&usqp=CAU" group-title="PELICULAS Y SERIES", 129 | FMH MOVIES
 http://45.160.15.130:2909/play/a16b
 #EXTINF:-1,FMH REWIND
 http://45.160.15.130:2909/play/a16c
