@@ -100,22 +100,7 @@ http://blackpanther.life:8080/Pedrovadillo/D6UEftaKKg/1220
 http://170.254.234.244:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,LA7 HD
-http://176.65.146.136:8020/play/a06q/index.m3u8
-#EXTINF:-1,LA7d HD
-http://176.65.146.136:8020/play/a06p/index.m3u8
-#EXTINF:-1,Rai 1 HD
-http://176.65.146.136:8020/play/a06g/index.m3u8
-#EXTINF:-1,Rai 2 HD
-http://176.65.146.136:8020/play/a06h/index.m3u8
-#EXTINF:-1,Rai 3 HD
-http://176.65.146.136:8020/play/a06i/index.m3u8
-#EXTINF:-1,Rai 4 HD
-http://176.65.146.136:8020/play/a06j/index.m3u8
-#EXTINF:-1,Rai 4K
-http://176.65.146.136:8020/play/a06l/index.m3u8
-#EXTINF:-1,Rai Movie HD
-http://176.65.146.136:8020/play/a06k/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://blackpanther.life:8080/Pedrovadillo/D6UEftaKKg/1000
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
@@ -320,6 +305,22 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,LA7 HD
+http://176.65.146.136:8020/play/a06q/index.m3u8
+#EXTINF:-1,LA7d HD
+http://176.65.146.136:8020/play/a06p/index.m3u8
+#EXTINF:-1,Rai 1 HD
+http://176.65.146.136:8020/play/a06g/index.m3u8
+#EXTINF:-1,Rai 2 HD
+http://176.65.146.136:8020/play/a06h/index.m3u8
+#EXTINF:-1,Rai 3 HD
+http://176.65.146.136:8020/play/a06i/index.m3u8
+#EXTINF:-1,Rai 4 HD
+http://176.65.146.136:8020/play/a06j/index.m3u8
+#EXTINF:-1,Rai 4K
+http://176.65.146.136:8020/play/a06l/index.m3u8
+#EXTINF:-1,Rai Movie HD
+http://176.65.146.136:8020/play/a06k/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa68-oBV9IxSzY-oAkyPllgFQtz0kw4-gDdgln1YeN-Q&s" group-title="Peliculas",CINE STAR+ TV1
 http://212.200.113.134:25001
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjK6kiSK7IOROfHL83HYdabVZSFy6lfKh6viOb2erU2pauNcwroYG97y3BVhSKC0ZKdQ&usqp=CAU" group-title="Peliculas",CINE STAR+ TV ACTION
@@ -437,7 +438,10 @@ http://177.53.153.21:8001/play/a00h/index.m3u8
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports CR
+http://181.209.173.10:9019/play/tghd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports CR
+http://138.186.20.13:23200/play/a0cp
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports CR
 http://170.82.37.21:8000/play/a047/index.m3u8
 
