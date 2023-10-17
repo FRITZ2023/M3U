@@ -167,7 +167,8 @@ http://138.186.20.13:23200/play/a0bd
 http://190.60.40.37:12500/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
 http://190.61.46.126:8000/play/a01h/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports
+http://168.228.194.32:48091/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D | ElCanaldelFutbol HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pYLrd5M6UFKVe3JI-ltULysykopJdoikq9FthVysnw&s" group-title="TV | Deportes",ElCanaldelFutbol HD
 http://181.119.66.30:8000/play/a05y/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Peliculas",CHV HD
