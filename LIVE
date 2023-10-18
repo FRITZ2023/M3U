@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,24 HORAS | ALF
+http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39krvn-iVSKsCfzvM7vKL0Mw/ts
+#EXTINF:-1,007: Sin Tiempo Para Morir (2021)
+http://xdplayer.tv:8080/play/FDWJeUC4ODVAOXt-Uc3LPxObY3DGRumlAe0vhoXx0P87vmRJHsFcToghaLTVOGkE
+#EXTINF:-1,Sin tiempo para morir (2021) 4K
+http://xdplayer.tv:8080/play/FDWJeUC4ODVAOXt-Uc3LPw8sNcVX9yNiLWV599T9VyEp7_HXjEDeUE2IeGJU8RaD
 #EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNl2jABAaUSC58vqjDlAol9fx802jiaoGGBKggA=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", 226 | Hogar TV
 http://190.90.71.68:15082/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES",Telefe | Argentina
@@ -120,7 +126,10 @@ http://hardcoremedia.xyz:80/rabdsbmz/3731346838/5287
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MX | PLUTO TV RECETAS" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | PLUTO TV RECETAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-
+#EXTINF:-1,MX | Cocina TV *HD
+http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39o5HydXRZXRtoAFAb6ks_VY/ts
+#EXTINF:-1,PE | ALA COCINA *FHD
+http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39jPcccKRLEXPtb46FgT-R3M/ts
 #EXTINF:-1 tvg-id="PE | Sazon TV" tvg-name="PE | Sazon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTzAa_y05U3NyZhtKxIyQ9jfKHAlhHwMa1IA1JvSh_NZhV2KTXz9xPreO7xiitLK1qO4&usqp=CAU" group-title="REGIONALES", 393 | Sazon TV || Perú; Lima
 http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39nKF2hWOQpowUJq-86AOPcw/ts
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
