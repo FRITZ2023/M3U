@@ -11,11 +11,11 @@ http://200.63.95.6:8000/play/a043/index.m3u8
 http://181.119.66.30:8000/play/TRACE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 1
+#EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJSHRuik-fP19-xSOlLPrpfTfO6H6rYnRm6mO63mttQ&s" group-title="DEPORTES",Supersport 1
 http://89.187.191.99:8080/ss1hd/index.m3u8
-#EXTINF:-1 tvg-id="EC | Supersport 2" tvg-name="EC | Supersport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 2
+#EXTINF:-1 tvg-id="EC | Supersport 2" tvg-name="EC | Supersport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGXrKCuF1hY-pZBWdgaxN94p4HlcxAPdsEA&usqp=CAU" group-title="DEPORTES",Supersport 2
 http://89.187.191.99:8080/ss2hd/index.m3u8
-#EXTINF:-1 tvg-id="EC | Supersport 3" tvg-name="EC | Supersport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 3
+#EXTINF:-1 tvg-id="EC | Supersport 3" tvg-name="EC | Supersport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Z-_ihPeQWcycykNnF2j-BREJf9C9-o2TcGSArBRAsQ&s" group-title="DEPORTES",Supersport 3
 http://89.187.191.99:8080/ss3hd/index.m3u8
 #EXTINF:-1 tvg-id="EC | Supersport 4" tvg-name="EC | Supersport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 4
 http://89.187.191.99:8080/ss4hd/index.m3u8
