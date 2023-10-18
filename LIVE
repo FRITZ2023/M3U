@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,USA | MLS 01?: Inter Miami v Charlotte Independence | Wed 18th Oct 8:00PM ET
+http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39qpe467bQ4k6Dg6F9rrI7_s/ts
+#EXTINF:-1,MLS 01 | Miami vs. Charlotte 8PM ET
+http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39mvkhR2Wj0kl44QzulVjUW4/ts
+#EXTINF:-1,MLS 02 | Miami vs. Charlotte 8PM ET (ESPAÑOL)
+http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39mfzf7Vx6nmZ5KhhZbLZQms/ts
 #EXTINF:-1,24 HORAS | ALF
 http://xdplayer.tv:8080/play/dJik6v6g3TFp-BXxKWC39krvn-iVSKsCfzvM7vKL0Mw/ts
 #EXTINF:-1,007: Sin Tiempo Para Morir (2021)
