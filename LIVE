@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Súbete a mi moto S01E01
-http://xdplayer.tv:8080/play/3czrmXG4rdWdbcvU6qMQ7wb2pyXwh3O4c49AVFb0dKmAemRB8ykOSpa0GfdyZZ9Z
+
 #EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNl2jABAaUSC58vqjDlAol9fx802jiaoGGBKggA=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", 226 | Hogar TV
 http://190.90.71.68:15082/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES",Telefe | Argentina
