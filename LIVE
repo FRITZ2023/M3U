@@ -8,20 +8,7 @@ http://45.186.252.17:8000/play/a0c7
 http://191.97.60.193:10000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="EC | Construir TV" tvg-name="EC | Construir TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzmKpBHFNsZ5V09t08_jUZO8MdhBKnLriPMgcBiS8ZQ&s" group-title="DEPORTES",Construir TV
 http://200.63.95.6:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" TRACE SPORTS STARS HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="English",TRACE SPORTS STARS HD
-http://181.119.66.30:8000/play/TRACE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest?cb=20160805101035" group-title="DEPORTES",Supersport 1
-http://89.187.191.99:8080/ss1hd/index.m3u8
-#EXTINF:-1 tvg-id="EC | Supersport 2" tvg-name="EC | Supersport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGXrKCuF1hY-pZBWdgaxN94p4HlcxAPdsEA&usqp=CAU" group-title="DEPORTES",Supersport 2
-http://89.187.191.99:8080/ss2hd/index.m3u8
-#EXTINF:-1 tvg-id="EC | Supersport 3" tvg-name="EC | Supersport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Z-_ihPeQWcycykNnF2j-BREJf9C9-o2TcGSArBRAsQ&s" group-title="DEPORTES",Supersport 3
-http://89.187.191.99:8080/ss3hd/index.m3u8
-#EXTINF:-1 tvg-id="EC | Supersport 4" tvg-name="EC | Supersport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 4
-http://89.187.191.99:8080/ss4hd/index.m3u8
-#EXTINF:-1 tvg-id="EC | Supersport 5" tvg-name="EC | Supersport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lTo3cUHLAaW4u1rVlISd31h2GlrdjRmpMSHyWoYyBw&s" group-title="DEPORTES",Supersport 5
-http://89.187.191.99:8080/ss5hd/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
@@ -68,7 +55,8 @@ http://45.160.15.130:2909/play/a16b
 http://45.160.15.130:2909/play/a16c
 #EXTINF:-1,Cinema
 http://91.143.36.166:7844/udp/239.1.15.2:1234
-
+#EXTINF:-1,123 MX Old HD
+http://45.160.15.130:2909/play/123
 #EXTINF:-1 tvg-id="" tvg-name="MX | LUCHA LIBRE AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | LUCHA LIBRE AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
@@ -143,8 +131,37 @@ http://149.62.177.156:8000/play/a0bz
 http://201.159.113.218:49000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", 752 | TV+ HD || CHILE
 http://177.93.52.100:45001/play/a06t
-#EXTINF:-1,123 MX Old HD
-http://45.160.15.130:2909/play/123
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz1Cyx_e2oJCxTWbQOXgvc7teKA0e8GkRbMCTc-YVN5ksUotMCinX_63oQypDjpTRBZ0&usqp=CAU" group-title="INTERNACIONAL",016 NTV HD
+http://45.160.15.130:2909/play/016
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Peliculas",CHV HD
+http://45.160.15.130:2909/play/066
+#EXTINF:-1 tvg-id="" TRACE SPORTS STARS HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="English",TRACE SPORTS STARS HD
+http://181.119.66.30:8000/play/TRACE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest?cb=20160805101035" group-title="DEPORTES",Supersport 1
+http://89.187.191.99:8080/ss1hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 2" tvg-name="EC | Supersport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGXrKCuF1hY-pZBWdgaxN94p4HlcxAPdsEA&usqp=CAU" group-title="DEPORTES",Supersport 2
+http://89.187.191.99:8080/ss2hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 3" tvg-name="EC | Supersport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Z-_ihPeQWcycykNnF2j-BREJf9C9-o2TcGSArBRAsQ&s" group-title="DEPORTES",Supersport 3
+http://89.187.191.99:8080/ss3hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 4" tvg-name="EC | Supersport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE0RxtUG9aHW7wSMzqf8-0wQaymAefZzdizOR2PmMMQ&s" group-title="DEPORTES",Supersport 4
+http://89.187.191.99:8080/ss4hd/index.m3u8
+#EXTINF:-1 tvg-id="EC | Supersport 5" tvg-name="EC | Supersport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lTo3cUHLAaW4u1rVlISd31h2GlrdjRmpMSHyWoYyBw&s" group-title="DEPORTES",Supersport 5
+http://89.187.191.99:8080/ss5hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports
+http://168.228.194.32:48091/play/a089/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D | ElCanaldelFutbol HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pYLrd5M6UFKVe3JI-ltULysykopJdoikq9FthVysnw&s" group-title="TV | Deportes",ElCanaldelFutbol HD
+http://181.119.66.30:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA",Venevisiðn
+http://190.95.220.212:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA",TELEVEN
+http://181.119.66.30:8000/play/44/index.m3u8
+#EXTINF:-1 tvg-id="BR | TV Globo" tvg-name="BR | TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LogoTVGlobo2021.svg/200px-LogoTVGlobo2021.svg.png" group-title="BRASIL", 552 | TV Globo || BRASIL Globo (TV TEM) HD
+http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+#EXTINF:-1 tvg-id="BR | SPORTV" tvg-name="BR | SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="BRASIL", 554 | SPORTV || BRASIL Globo (TV TEM) HD
+http://51.83.238.223:16437/
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="DIRECTO : TUDN FHD (MX)" tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png" group-title="DEPORTES",DIRECTO : TUDN FHD (MX)
@@ -177,20 +194,7 @@ http://138.186.20.13:23200/play/a0bd
 http://190.60.40.37:12500/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
 http://190.61.46.126:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports
-http://168.228.194.32:48091/play/a089/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D | ElCanaldelFutbol HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pYLrd5M6UFKVe3JI-ltULysykopJdoikq9FthVysnw&s" group-title="TV | Deportes",ElCanaldelFutbol HD
-http://181.119.66.30:8000/play/a05y/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Peliculas",CHV HD
-http://45.160.15.130:2909/play/066
-#EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA",Venevisiðn
-http://190.95.220.212:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/150px-Televen_logo.PNG" group-title="VENEZUELA",TELEVEN
-http://181.119.66.30:8000/play/44/index.m3u8
-#EXTINF:-1 tvg-id="BR | TV Globo" tvg-name="BR | TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LogoTVGlobo2021.svg/200px-LogoTVGlobo2021.svg.png" group-title="BRASIL", 552 | TV Globo || BRASIL Globo (TV TEM) HD
-http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:-1 tvg-id="BR | SPORTV" tvg-name="BR | SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="BRASIL", 554 | SPORTV || BRASIL Globo (TV TEM) HD
-http://51.83.238.223:16437/
+
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://170.82.37.21:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
