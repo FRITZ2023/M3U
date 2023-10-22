@@ -141,7 +141,10 @@ http://45.160.15.130:2909/play/066
 http://181.119.66.30:8000/play/TRACE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJ7Xjcj_BuSA5geqU1khHqbTRklP_6lVjCkhE3_YpHw&s" group-title="INTERNACIONAL",018 Liga Española HD
+http://200.12.37.158:8001/play/a02k
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/27-277817_sky-sport-5-png-png-download-bundesliga-logo.png" group-title="INTERNACIONAL",019 Liga Inglaterra y Otro HD
+http://200.12.37.158:8001/play/19
 #EXTINF:-1 tvg-id="EC | Supersport 1" tvg-name="EC | Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest?cb=20160805101035" group-title="DEPORTES",Supersport 1
 http://89.187.191.99:8080/ss1hd/index.m3u8
 #EXTINF:-1 tvg-id="EC | Supersport 2" tvg-name="EC | Supersport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGXrKCuF1hY-pZBWdgaxN94p4HlcxAPdsEA&usqp=CAU" group-title="DEPORTES",Supersport 2
