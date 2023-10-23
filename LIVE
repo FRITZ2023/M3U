@@ -13,7 +13,7 @@ http://200.63.95.6:8000/play/a043/index.m3u8
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a05n.png",LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
 http://45.5.117.172:8100/play/a05n/index.m3u8
 #EXTINF:-1,UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
