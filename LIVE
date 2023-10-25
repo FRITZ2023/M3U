@@ -225,6 +225,7 @@ http://177.234.245.26:8000/play/a013/index.m3u8
 http://177.234.245.26:8000/play/a014/index.m3u8
 #EXTINF:-1,Claro Cinema
 http://170.239.207.36:8296/play/a0rp/index.m3u8
+
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
 http://177.234.245.26:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
