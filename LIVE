@@ -17,7 +17,7 @@ http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
-http://190.242.46.20:8000/play/a0a9/index.m3u8
+http://187.102.208.152:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX71: UNICABLE HD
 http://ufospeeds.com:2095/59932307867/4088084805/38829
@@ -56,7 +56,7 @@ http://45.160.15.130:2909/play/a16c
 #EXTINF:-1,Cinema
 http://91.143.36.166:7844/udp/239.1.15.2:1234
 #EXTINF:-1,123 MX Old HD
-http://45.160.15.130:2909/play/123
+http://45.181.122.13:8000/play/082
 #EXTINF:-1 tvg-id="" tvg-name="MX | LUCHA LIBRE AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | LUCHA LIBRE AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
@@ -230,6 +230,8 @@ http://170.239.207.36:8296/play/a0rp/index.m3u8
 http://177.234.245.26:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://45.5.151.151:8000/play/a01c/index.m3u8
+#EXTINF:-1, tvg-logo="https://tntsports.com.br/__export/1610853422418/sites/esporteinterativo/img/2021/01/17/whatsapp_image_2021-01-16_at_20_26_54_2_crop1610853421942.jpeg_423682103.jpeg",TNT SPORTS HD
+http://45.181.122.13:8000/play/090
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE",Canal 13 HD CHILE
 http://204.199.137.51:5046/play/a01w
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz1Cyx_e2oJCxTWbQOXgvc7teKA0e8GkRbMCTc-YVN5ksUotMCinX_63oQypDjpTRBZ0&usqp=CAU" group-title="INTERNACIONAL",016 NTV HD
