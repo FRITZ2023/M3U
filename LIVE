@@ -230,7 +230,7 @@ http://170.239.207.36:8296/play/a0rp/index.m3u8
 http://177.234.245.26:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://45.5.151.151:8000/play/a01c/index.m3u8
-#EXTINF:-1, tvg-logo="https://tntsports.com.br/__export/1610853422418/sites/esporteinterativo/img/2021/01/17/whatsapp_image_2021-01-16_at_20_26_54_2_crop1610853421942.jpeg_423682103.jpeg",TNT SPORTS HD
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/TNT_Sports_HD_2021.png/revision/latest/scale-to-width-down/375?cb=20210117181510&path-prefix=es",TNT SPORTS HD
 http://45.181.122.13:8000/play/090
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdzmQ9a-WEmhRPdLixP8G0TYSckDE3EzlWA&usqp=CAU",TNT SPORTS 2
 http://200.114.68.133:8999/play/a03m/index.m3u8
