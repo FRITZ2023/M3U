@@ -13,14 +13,15 @@ http://200.63.95.6:8000/play/a043/index.m3u8
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180729/axl/kisspng-motor-trend-group-logo-car-font-amazon-appstore-logo-5b5dcc980c3f06.7604313915328738800502.jpg",MotorTrend HD
 http://1161218186.rsc.cdn77.me/MotorTrendHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png",TLC HD
-http://1161218186.rsc.cdn77.me/TLCHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png",TLC
+rtmp://93.189.60.202//1105
+
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
-http://187.102.208.152:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04y.png",LAS ESTRELLAS
+http://45.5.119.155:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX71: UNICABLE HD
 http://ufospeeds.com:2095/59932307867/4088084805/38829
@@ -154,6 +155,8 @@ http://89.187.191.99:8080/ss3hd/index.m3u8
 http://89.187.191.99:8080/ss4hd/index.m3u8
 #EXTINF:-1 tvg-id="EC | Supersport 5" tvg-name="EC | Supersport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lTo3cUHLAaW4u1rVlISd31h2GlrdjRmpMSHyWoYyBw&s" group-title="DEPORTES",Supersport 5
 http://89.187.191.99:8080/ss5hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports BOL
+http://170.82.37.21:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports CR
 http://168.228.194.32:48091/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D | ElCanaldelFutbol HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pYLrd5M6UFKVe3JI-ltULysykopJdoikq9FthVysnw&s" group-title="TV | Deportes",ElCanaldelFutbol HD
@@ -395,8 +398,6 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 http://204.157.251.250:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJkrZMCI2GDLULbhFbmEtRuGnMUfuDx9YAkuZekUjjQ&s", MUSIC 4EVER
 rtmp://93.189.60.202//970
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png",TLC
-rtmp://93.189.60.202//1105
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfssbs8-e723eae9-741b-4b78-8b1f-b07868e521da.png/v1/fill/w_1280,h_698/fx_moviecity_logo_concept_2023_by_wbblackofficial_dfssbs8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk4IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZnNzYnM4LWU3MjNlYWU5LTc0MWItNGI3OC04YjFmLWIwNzg2OGU1MjFkYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.csbI-0G88_LCQ3uAvvl4qf2QtGFkZRsoJveejxYM8bw",FX MOVIE CITY
 rtmp://93.189.60.202//1106
 
@@ -450,6 +451,8 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 828 | Teletica || COSTA RICA
 http://170.82.37.21:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1024px-TD_M%C3%A1s_Logo.png",TD+HD CR-80
+http://190.92.7.19:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png", UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
@@ -463,14 +466,6 @@ http://177.53.153.21:8001/play/a00h/index.m3u8
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1024px-TD_M%C3%A1s_Logo.png",TD+HD CR-80
-http://190.92.7.19:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports CR
-http://181.209.173.10:9019/play/tghd/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports CR
-http://138.186.20.13:23200/play/a0cp
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports CR
-http://170.82.37.21:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
