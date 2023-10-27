@@ -50,13 +50,11 @@ http://179.189.222.226:8000/play/ch51
 #EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES",Cine Familiar HD
 http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 129 | FMH Family
-http://45.160.15.130:2909/play/a169
-#EXTINF:-1,FMH MOVIES
+http://190.211.250.148:8000/play/a03s
 #EXTINF:-1 tvg-id="USA | FMH MOVIES" tvg-name="USA | FMH MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAJ-PUCbq0xIdynydEKLuCkWy-aqAJ73ygEnpoNh--48k6-JuTJsDZL6ubLkuleXLq5A&usqp=CAU" group-title="PELICULAS Y SERIES", 129 | FMH MOVIES
-http://45.160.15.130:2909/play/a16b
-#EXTINF:-1,FMH REWIND
-http://45.160.15.130:2909/play/a16c
-#EXTINF:-1,Cinema
+http://190.211.250.148:8000/play/a03u
+
+#EXTINF:-1, tvg-logo="https://w1.pngwing.com/pngs/829/845/png-transparent-cinema-logo-prtg-network-monitor-television-television-channel-digital-television-film-paessler-information-technology.png",Cinema
 http://91.143.36.166:7844/udp/239.1.15.2:1234
 #EXTINF:-1,123 MX Old HD
 http://45.181.122.13:8000/play/082
@@ -127,6 +125,8 @@ https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 http://181.78.64.71:16123/play/ch48
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
 http://190.60.40.37:12500/play/a06v/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png",LA7d HD
+http://176.65.146.136:8020/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/640px-24Kitchen.png" group-title="INTERNACIONAL",24 Kitchen HD MEO
 http://149.62.177.156:8000/play/a0bo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="INTERNACIONAL",Casa e Cozinha MEO
@@ -154,7 +154,7 @@ http://89.187.191.99:8080/ss3hd/index.m3u8
 http://89.187.191.99:8080/ss4hd/index.m3u8
 #EXTINF:-1 tvg-id="EC | Supersport 5" tvg-name="EC | Supersport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5lTo3cUHLAaW4u1rVlISd31h2GlrdjRmpMSHyWoYyBw&s" group-title="DEPORTES",Supersport 5
 http://89.187.191.99:8080/ss5hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports CR
 http://168.228.194.32:48091/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D | ElCanaldelFutbol HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3pYLrd5M6UFKVe3JI-ltULysykopJdoikq9FthVysnw&s" group-title="TV | Deportes",ElCanaldelFutbol HD
 http://181.119.66.30:8000/play/a05y/index.m3u8
@@ -226,8 +226,8 @@ http://177.234.245.26:8000/play/a015/index.m3u8
 http://177.234.245.26:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",Claro Sports 2 HD
 http://177.234.245.26:8000/play/a014/index.m3u8
-#EXTINF:-1,Claro Cinema
-http://170.239.207.36:8296/play/a0rp/index.m3u8
+#EXTINF:-1, tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png",Claro Cinema
+http://38.41.8.1:8000/play/a066
 
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
 http://177.234.245.26:8000/play/a03m/index.m3u8
@@ -339,21 +339,19 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,Cinema 1
 http://185.164.83.250:9009/aDxLhVQm_Cinema1
-#EXTINF:-1,LA7 HD
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/8f/LA7_HD_-_Logo_2015.png/revision/latest/scale-to-width-down/512?cb=20190415231225",LA7 HD
 http://176.65.146.136:8020/play/a06q/index.m3u8
-#EXTINF:-1,LA7d HD
-http://176.65.146.136:8020/play/a06p/index.m3u8
-#EXTINF:-1,Rai 1 HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIaNJvOHAOT825FjPauDu1soTYrDSs8xLEwfjRbcQiLp0YyqktPEJDLdeEBVakG2HLT7c&usqp=CAU",Rai 1 HD
 http://176.65.146.136:8020/play/a06g/index.m3u8
-#EXTINF:-1,Rai 2 HD
+#EXTINF:-1, tvg-logo="https://img2.freepng.es/20180526/ov/kisspng-rai-2-television-rai-4-logo-5b0936f38f8303.1237761215273305475878.jpg",Rai 2 HD
 http://176.65.146.136:8020/play/a06h/index.m3u8
-#EXTINF:-1,Rai 3 HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rai_3_HD_-_Logo_2016.svg/1200px-Rai_3_HD_-_Logo_2016.svg.png",Rai 3 HD
 http://176.65.146.136:8020/play/a06i/index.m3u8
-#EXTINF:-1,Rai 4 HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqOS5RvQ8YVkAu19eUX2DvQpHvetDV5tt9IwWSJsyXKnjHyiSOEY4oJqhrv_4bttYcUU&usqp=CAU",Rai 4 HD
 http://176.65.146.136:8020/play/a06j/index.m3u8
-#EXTINF:-1,Rai 4K
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQYEdQzT65LM48QtYP6Knoqu9gnZMhW94ZR9nhptOy2BUrVMutVqoayVHumUYdbrJJdc&usqp=CAU",Rai 4K
 http://176.65.146.136:8020/play/a06l/index.m3u8
-#EXTINF:-1,Rai Movie HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/2560px-Rai_Movie_HD_-_Logo_2017.svg.png",Rai Movie HD
 http://176.65.146.136:8020/play/a06k/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa68-oBV9IxSzY-oAkyPllgFQtz0kw4-gDdgln1YeN-Q&s" group-title="Peliculas",CINE STAR+ TV1
 http://212.200.113.134:25001
@@ -361,16 +359,16 @@ http://212.200.113.134:25001
 http://212.200.113.134:25002
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOcJG7TJDQq1HdpkKFZG4HNdyaJ8O40n4Q32AlCX7g&s" group-title="Peliculas",CINE STAR+ TV  FANTASY
 http://212.200.113.134:25003
-#EXTINF:-1,VIJU + SERIAL
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9hpbd5gn6LqhQY4n4jiEk2RzFQlKEKahpix2aiOsPK4HZ3Lm-aUfALUOSKC-RzE_vmk0&usqp=CAU",VIJU + SERIAL
 http://31.40.155.227:9595/play/VijuSerial_HD
-#EXTINF:-1,BEIN BOX OFFICE 1
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTClexiDEFoz2ol6II2dW-aT-wSJA7Y804xDVP4QXYhiVrnQSytMQXxtMifoM2Ggg9ck&usqp=CAU",BEIN BOX OFFICE 1
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
-#EXTINF:-1,BEIN BOX OFFICE 2
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25g94Ww9z5rf9v9mroyULe4jQAeTO-9NIjpiacrr3lJ09cQu_x2xUhACHu1pO0XIZ7lo&usqp=CAU",BEIN BOX OFFICE 2
 http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1, tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t1.6435-9/56601028_343420332948611_2988166635119968256_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=tJagY6KBJ8AAX9sTSYI&_nc_ht=scontent.flim38-1.fna&oh=00_AfBMfPjUDAYtEomBnGMSIiJWZC_u6y3vQWVkesQwaVR-cA&oe=64DC39A7" group-title="Peliculas",Pura Vida TV HD CR
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThL0rZpWb-6vpywogrXZGb8_R_0XYBmH_SHJCtrkJK_Q&s",Pura Vida TV HD CR
 http://109.236.91.39:1935/sxmxutkqjh/sxmxutkqjh/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.217:8000/playlist/tvg-logo/a0oh.png",13-Sinart
 http://181.189.243.217:8000/play/a0oh/index.m3u8
