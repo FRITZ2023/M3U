@@ -20,7 +20,7 @@ rtmp://93.189.60.202//1105
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a04y.png",LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
 http://45.5.119.155:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX71: UNICABLE HD
@@ -340,7 +340,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-#EXTINF:-1,Cinema 1
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/tq1mbNVOrsNnBfbX8VAcRaVQndycMyIEssiWfoymHmNzAgRJtkqbRl3KDq9NN98yYQA-xAd3ZQ=s176-c-k-c0x00ffffff-no-rj",Cinema 1
 http://185.164.83.250:9009/aDxLhVQm_Cinema1
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/8f/LA7_HD_-_Logo_2015.png/revision/latest/scale-to-width-down/512?cb=20190415231225",LA7 HD
 http://176.65.146.136:8020/play/a06q/index.m3u8
@@ -413,7 +413,7 @@ http://161.132.243.192:50001/play/a04e/index.m3u8
 http://170.82.37.21:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 787 | Telefe Internacional || ARGENTINA
 http://190.61.46.126:8000/play/a02r/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA IT
 http://45.169.38.226:8000/play/00001/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://190.61.46.126:8000/play/a007/index.m3u8
