@@ -8,7 +8,8 @@ http://45.186.252.17:8000/play/a0c7
 http://191.97.60.193:10000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="EC | Construir TV" tvg-name="EC | Construir TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzmKpBHFNsZ5V09t08_jUZO8MdhBKnLriPMgcBiS8ZQ&s" group-title="DEPORTES",Construir TV
 http://200.63.95.6:8000/play/a043/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfssbs8-e723eae9-741b-4b78-8b1f-b07868e521da.png/v1/fill/w_1280,h_698/fx_moviecity_logo_concept_2023_by_wbblackofficial_dfssbs8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk4IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZnNzYnM4LWU3MjNlYWU5LTc0MWItNGI3OC04YjFmLWIwNzg2OGU1MjFkYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.csbI-0G88_LCQ3uAvvl4qf2QtGFkZRsoJveejxYM8bw",FX MOVIE CITY
+rtmp://93.189.60.202//1106
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180729/axl/kisspng-motor-trend-group-logo-car-font-amazon-appstore-logo-5b5dcc980c3f06.7604313915328738800502.jpg",MotorTrend HD
@@ -398,8 +399,17 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 http://204.157.251.250:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJkrZMCI2GDLULbhFbmEtRuGnMUfuDx9YAkuZekUjjQ&s", MUSIC 4EVER
 rtmp://93.189.60.202//970
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfssbs8-e723eae9-741b-4b78-8b1f-b07868e521da.png/v1/fill/w_1280,h_698/fx_moviecity_logo_concept_2023_by_wbblackofficial_dfssbs8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk4IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZnNzYnM4LWU3MjNlYWU5LTc0MWItNGI3OC04YjFmLWIwNzg2OGU1MjFkYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.csbI-0G88_LCQ3uAvvl4qf2QtGFkZRsoJveejxYM8bw",FX MOVIE CITY
-rtmp://93.189.60.202//1106
+#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
+http://45.5.119.155:8000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
+http://38.43.150.124:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", 59 | RCN Novelas
 http://200.59.188.3:8000/play/a07q
@@ -635,21 +645,8 @@ http://190.217.117.194:8000/play/a0ae/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 109 | Cinemax
 http://170.254.234.244:8000/play/a01u/index.m3u8
-
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 113 | HBO Family HD
 http://190.92.7.19:8000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
-http://45.5.119.155:8000/play/a0hk/index.m3u8
-
-#EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
-https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
-http://38.43.150.124:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES",HBO Family HD-46
 http://200.59.188.3:8000/play/a034
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History HD 
@@ -677,91 +674,45 @@ http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
 #EXTINF:-1, tvg-logo="https://images.justwatch.com/poster/304667074/s718/shazam-2.%7Bformat%7D" group-title="PELÍCULAS",SHAZAM
 http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
-#EXTINF:-1 tvg-id="" tvg-name="HD: La cocina del infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyOYRQuVIhw1DfVjNKj7gUom1Fv.jpg" group-title="ACCION",HD: La cocina del infierno
-http://tv.dominiotv.xyz:25461/movie/cuen23/hX8recoverymf/254682.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HD: Wonder Woman 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="SUPER HEROES",HD: Wonder Woman 1984
 http://tv.dominiotv.xyz:25461/movie/YaninaGZ/65534826/234239.mkv
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiOgfvkmd6NtDvSu8iZ26hrd00Vbf1k1SyTVQq_nO8GBLnCvBuRnJT&usqp=CAE&s" group-title="Peliculas",Condorito: The Movie (2017)
-http://playhispano.org:8080/movie/9805743290/94631875/197343.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX5QnIbzg0N0BDAcJwdUMYISe80.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E01
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JpV4e8KT2MHxZw6hwZWCuKwpaA.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E02
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAsKUjMKminSesQYlB4qjT8sqq8.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E03
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rN6r7OTsKEHjc5rrwgSmfOcFQHt.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E04
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUsgEvn7VEk2oxpK9zWjjpQ6Z6T.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E05
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZDGYf40Bu44pVz5dkPevUkNLn.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E06
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389928.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGR5A9wfwUsgvPEGqqoKIaB0XCu.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E07
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389929.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6RSEFXgP4jHBtuTl0DKw1YPEWI.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E08
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389930.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSjEDOj5e0OrU1FIAw7x0fZjAOp.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E09
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Twisted Metal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kic5oiiezmSlB3DsJxszCv4WKPM.jpg" group-title="RECIEN AGREGADAS",Twisted Metal S01 E10
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/389932.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E01
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E02
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E03
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E04
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E05
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E06
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E07
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E08
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E09
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Carrusel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg" group-title="NOVELAS BRAZIL",Carrusel S01 E10
-http://tv.dominiotv.xyz:25461/series/cuen23/hX8recoverymf/349132.mp4
-#EXTINF:-1,US| ViX+ DEPORTES 1
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 1
 http://4ksuper.live:80/gasolina/gasolina/1143996
-#EXTINF:-1,US| ViX+ DEPORTES 2
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 2
 http://4ksuper.live:80/gasolina/gasolina/1143995
-#EXTINF:-1,US| ViX+ DEPORTES 3
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 3
 http://4ksuper.live:80/gasolina/gasolina/1143994
-#EXTINF:-1,US| ViX+ DEPORTES 4
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 4
 http://4ksuper.live:80/gasolina/gasolina/1143993
-#EXTINF:-1,US| ViX+ DEPORTES 7
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 7
 http://4ksuper.live:80/gasolina/gasolina/1143990
-#EXTINF:-1,US| ViX+ DEPORTES 8
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 8
 http://4ksuper.live:80/gasolina/gasolina/1143989
-#EXTINF:-1,US| ViX+ DEPORTES 9
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 9
 http://4ksuper.live:80/gasolina/gasolina/1143988
-#EXTINF:-1,US| ViX+ DEPORTES 10
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 10
 http://4ksuper.live:80/gasolina/gasolina/1143987
-#EXTINF:-1,US| ViX+ DEPORTES 11
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 11
 http://4ksuper.live:80/gasolina/gasolina/1143986
-#EXTINF:-1,US| ViX+ DEPORTES 12
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 12
 http://4ksuper.live:80/gasolina/gasolina/1143985
-#EXTINF:-1,US| ViX+ DEPORTES 13
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 13
 http://4ksuper.live:80/gasolina/gasolina/1143984
-#EXTINF:-1,US| ViX+ DEPORTES 14
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 14
 http://4ksuper.live:80/gasolina/gasolina/1143983
-#EXTINF:-1,US| ViX+ DEPORTES 15
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 15
 http://4ksuper.live:80/gasolina/gasolina/1143982
-#EXTINF:-1,US| ViX+ DEPORTES 16
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 16
 http://4ksuper.live:80/gasolina/gasolina/1143981
-#EXTINF:-1,US| ViX+ DEPORTES 17
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 17
 http://4ksuper.live:80/gasolina/gasolina/1143980
-#EXTINF:-1,US| ViX+ DEPORTES 18
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 18
 http://4ksuper.live:80/gasolina/gasolina/1143979
-#EXTINF:-1,US| ViX+ DEPORTES 19
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 19
 http://4ksuper.live:80/gasolina/gasolina/1143978
-#EXTINF:-1,US| ViX+ DEPORTES 20
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 20
 http://4ksuper.live:80/gasolina/gasolina/1143977
-#EXTINF:-1,BR| CONMEBOL TV 1
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/CONMENBOL_TV.png/revision/latest?cb=20210506170332",BR| CONMEBOL TV 1
 http://4ksuper.live:80/gasolina/gasolina/750888
-#EXTINF:-1,NF - Ballerina (2023)
+#EXTINF:-1, tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4795e221-f3e3-4357-84ec-839815327c4e/dgbh3bo-1a23a280-429a-47ea-b300-093a3e0de3bb.png/v1/fit/w_512,h_512/ballerina__2023____folder_icon_by_joyantodebnath_dgbh3bo-375w-2x.png",NF - Ballerina (2023)
 http://4ksuper.live:80/movie/gasolina/gasolina/1349564.mkv
