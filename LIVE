@@ -73,7 +73,10 @@ http://181.78.64.71:16123/play/ch12
 http://91.143.36.166:7844/udp/239.1.15.2:1234
 #EXTINF:-1,123 MX Old HD
 http://45.181.122.13:8000/play/082
-
+#EXTINF:-1, tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png",Claro Cinema
+http://38.41.8.1:8000/play/a066
+#EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
+http://177.234.245.26:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
 http://blackpanther.life:8080/Pedrovadillo/D6UEftaKKg/1220
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
@@ -464,10 +467,7 @@ http://181.119.66.30:8000/play/a04q/index.m3u8
 http://177.234.245.26:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",Claro Sports 2 HD
 http://177.234.245.26:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
-http://177.234.245.26:8000/play/a015/index.m3u8
-#EXTINF:-1, tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png",Claro Cinema
-http://38.41.8.1:8000/play/a066
+
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | 2 Megas",2MB | BEIN SPORTS ESPAÑOL
