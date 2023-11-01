@@ -74,22 +74,6 @@ http://91.143.36.166:7844/udp/239.1.15.2:1234
 #EXTINF:-1,123 MX Old HD
 http://45.181.122.13:8000/play/082
 
-
-
-#EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="REGIONALES",TVAGRO CL
-http://190.90.71.68:15082/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 313 | Canal Rural
-https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Canal del Caballo HD" tvg-name="EC | Canal del Caballo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx16SRubz1cxpfjpc4uz3VJEmWKgdR5NEjPc5O0Fhbq_TPXZT17DA5mvmSqSgmHyaBQEE&usqp=CAU" group-title="DEPORTES",Canal del Caballo HD
-http://45.160.12.253:8000/play/230
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tYfCOGm19LJ2Hc34704SHf4iNVso1s3kzB3fZUweMg&s" group-title="DEPORTES",Mundo Toro (ES)
-http://149.62.177.156:8000/play/a0lq
-#EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
-http://177.93.52.98:45001/play/a07v
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
 http://blackpanther.life:8080/Pedrovadillo/D6UEftaKKg/1220
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
@@ -355,7 +339,20 @@ http://31.40.155.227:9595/play/VijuSerial_HD
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25g94Ww9z5rf9v9mroyULe4jQAeTO-9NIjpiacrr3lJ09cQu_x2xUhACHu1pO0XIZ7lo&usqp=CAU",BEIN BOX OFFICE 2
 http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
-
+#EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="REGIONALES",TVAGRO CL
+http://190.90.71.68:15082/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="AR | Rural TV" tvg-name="AR | Rural TV" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="CULTURA Y EDUCACION", 313 | Canal Rural
+https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Canal del Caballo HD" tvg-name="EC | Canal del Caballo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx16SRubz1cxpfjpc4uz3VJEmWKgdR5NEjPc5O0Fhbq_TPXZT17DA5mvmSqSgmHyaBQEE&usqp=CAU" group-title="DEPORTES",Canal del Caballo HD
+http://45.160.12.253:8000/play/230
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tYfCOGm19LJ2Hc34704SHf4iNVso1s3kzB3fZUweMg&s" group-title="DEPORTES",Mundo Toro (ES)
+http://149.62.177.156:8000/play/a0lq
+#EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
+http://177.93.52.98:45001/play/a07v
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
