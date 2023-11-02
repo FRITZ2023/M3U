@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xR7pwbZLmg1dx5G9Kq210I8pmxaWUNDB_eNfQ3c97Ja7crPV",LA CIUDAD PERDIDA (2022)
+http://redima.pro:8880/movie/TISUCR/TISUCR/504.mp4
 #EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNl2jABAaUSC58vqjDlAol9fx802jiaoGGBKggA=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", 226 | Hogar TV
 http://190.90.71.68:15082/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="EC | FUN BOX" tvg-name="EC | FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/100px-FunBox_TV_logo.svg.png" group-title="DEPORTES",FUN BOX
@@ -175,7 +176,7 @@ http://190.108.85.20:9999/play/a00x
 #EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES",ESPN EXTRA HD
 http://190.108.85.20:9999/play/a00x
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES",Fox Sports HD
-http://190.108.85.20:9999/play/a011
+http://177.234.247.66:8888/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 HD
 http://190.108.85.20:9999/play/a00n
 #EXTINF:-1 tvg-id="USA | Fox Sports 3" tvg-name="USA | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",Fox Sports 3 HD
