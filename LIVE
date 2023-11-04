@@ -193,7 +193,7 @@ http://177.234.242.107:50032/play/a0go/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa12cVhBxzE2mNfzKrhwnSbJ1TaOA1OSjesS4qxOrnMXBYn4kVo3-FYcPwrAdM2HLQxA&usqp=CAU",TNT SPORTS 3
 http://200.114.68.133:8999/play/a0it/index.m3u8
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE",Canal 13 HD CHILE
-http://177.53.153.21:8001/play/a0bc/index.m3u8
+http://190.61.57.2:1010/play/a02g/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz1Cyx_e2oJCxTWbQOXgvc7teKA0e8GkRbMCTc-YVN5ksUotMCinX_63oQypDjpTRBZ0&usqp=CAU" group-title="INTERNACIONAL",TVN HD
 http://179.51.161.3:8000/play/a01j/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Peliculas",CHV HD
