@@ -194,7 +194,7 @@ http://177.234.245.26:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://179.51.161.3:8000/play/a01e/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/TNT_Sports_HD_2021.png/revision/latest/scale-to-width-down/375?cb=20210117181510&path-prefix=es",TNT SPORTS HD
-http://179.51.161.3:8000/play/a03u/index.m3u8
+http://45.177.98.42:9800/play/156
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdzmQ9a-WEmhRPdLixP8G0TYSckDE3EzlWA&usqp=CAU",TNT SPORTS 2
 http://177.234.242.107:50032/play/a0go/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa12cVhBxzE2mNfzKrhwnSbJ1TaOA1OSjesS4qxOrnMXBYn4kVo3-FYcPwrAdM2HLQxA&usqp=CAU",TNT SPORTS 3
