@@ -17,11 +17,11 @@ http://200.63.95.6:8000/play/a043/index.m3u8
 http://45.186.252.17:8000/play/a0c7
 http://177.234.230.226:8010/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",Comedy Central HD
-http://181.129.198.235:8000/play/a00o/index.m3u8
+http://45.226.67.3:58001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://187.102.208.108:50001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
-http://45.5.119.155:8000/play/a04y/index.m3u8
+http://45.177.98.42:9800/play/076
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA IT
 http://45.169.38.226:8000/play/00001/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
