@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,Silkeborg vs. Randers FC
+https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NESOxFxiLT75v67p48Yw6OTOdaqTCw3JKnQOsrOjNqti_/ts
 #EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",MS MOTOR TV
 http://221.120.145.12:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUBbvRgnixi83OHamurbkS1oDYsg4HMNk7XDW3_x7IKyM11975JlRdFnRkjswpk5qa-g&usqp=CAU",SPORTS TV
