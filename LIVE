@@ -103,7 +103,7 @@ https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NEQnv69IZh9OJsEb1PSWi_9H_Latto8F
 https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NEedhSZkiLM19FSBYc5iuXEQeNo-HBE4kzxLgvVHJXZFL/ts
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NEamnTjG_50xbNIKrNpVT2-zG2OQ4cTIhfTWUebB6PxdL/ts
-#EXTINF:-1,CL: CocinaViva HD (Fibra)
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Cocina_Viva_VTR_2023.png/revision/latest?cb=20230712140033&path-prefix=es",CL: CocinaViva HD (Fibra)
 https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NEWCa8EIKc-OHpg2PjMhGoVIp6NB3BNcgRDdbE_A9faWV/ts
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
 http://181.119.66.30:8000/play/a046/index.m3u8
