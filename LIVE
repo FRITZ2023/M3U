@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1,INTER MIAMI VS NY CITY
-https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NERz562Rw4w3luFEfG0IoEra81a-sxINS7JtCa8k6ipxA/ts
-#EXTINF:-1,SEATLE SOUNDERS VS DALLAS
-https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NEZ-vR5E2gUkjL4k2tynuKzcG5EF8ijcQtExcAEIE5yyD/ts
+
 #EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",MS MOTOR TV
 http://221.120.145.12:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUBbvRgnixi83OHamurbkS1oDYsg4HMNk7XDW3_x7IKyM11975JlRdFnRkjswpk5qa-g&usqp=CAU",SPORTS TV
@@ -185,13 +182,13 @@ http://45.177.98.42:9800/play/156
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdzmQ9a-WEmhRPdLixP8G0TYSckDE3EzlWA&usqp=CAU",TNT SPORTS 2
 http://177.234.242.107:50032/play/a0go/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa12cVhBxzE2mNfzKrhwnSbJ1TaOA1OSjesS4qxOrnMXBYn4kVo3-FYcPwrAdM2HLQxA&usqp=CAU",TNT SPORTS 3
-http://200.114.68.133:8999/play/a0it/index.m3u8
+http://152.230.126.5:2274/play/a01z
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE",Canal 13 HD CHILE
 http://190.61.57.2:1010/play/a02g/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz1Cyx_e2oJCxTWbQOXgvc7teKA0e8GkRbMCTc-YVN5ksUotMCinX_63oQypDjpTRBZ0&usqp=CAU" group-title="INTERNACIONAL",TVN HD
 http://45.232.210.27:8000/play/a06r
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Peliculas",CHV HD
-8http://45.232.210.27:8000/play/a08n
+http://167.250.135.246:81/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
 http://177.234.242.106:50032/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
@@ -199,7 +196,7 @@ http://190.108.85.20:9999/play/a00q
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
 http://38.56.220.254:8000/play/a009/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PERU: M Plus TV
-http://161.132.194.88:7076/play/a0qs/index.m3u8
+http://38.56.119.119:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
 http://190.102.139.241:8900/play/a0to/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
@@ -223,17 +220,17 @@ http://161.132.108.72:50001/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS E INFORMACION",RPP TV
 http://187.102.208.108:50001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1424355619&_cdn_timestamp=1699642381&_cdn_token=957e5262e494888bb787764a29b95276d19c2606
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1431915827&_cdn_timestamp=1699767965&_cdn_token=39dcbd4e5a0ee1dd5d815a434f65758992d9f923
 #EXTINF:-1 tvg-id="PE | JUSTICIA TV" tvg-name="PE | JUSTICIA TV" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png",JUSTICIA TV
 http://181.176.186.129:8000/play/a0bk/index.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
 http://191.97.60.193:10000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU",PBO TV
-hls://https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1424356379&_cdn_timestamp=1699642386&_cdn_token=1630b61e93b6a2da6eed1fdf9026c2ad409fa45c
+hls://https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1431917819&_cdn_timestamp=1699767991&_cdn_token=63e012412d7109abe4e0e366b102827525866287
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
 http://191.97.60.193:10000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
-http://45.4.3.75:7577/play/a14w/index.m3u8
+http://200.37.59.237:8000/play/a038
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU",USMP HD
 http://181.176.186.129:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES",Nativa Televisión
@@ -378,8 +375,12 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 828 | Teletica || COSTA RICA
 http://170.82.37.21:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/themes/futv-wp/assets/images/2x/whitelogo@2x.png",FUTV HD CR
+http://131.161.53.2:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1024px-TD_M%C3%A1s_Logo.png",TD+HD CR-80
-http://190.92.7.19:8000/play/a00e/index.m3u8
+http://131.161.53.2:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3%A1s_2_Logo.svg.png",TD+2 HD CR
+http://131.161.53.2:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png", UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
