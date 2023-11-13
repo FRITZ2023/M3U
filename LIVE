@@ -310,7 +310,7 @@ http://45.226.67.3:58001/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION",BBC World News
 http://45.5.117.182:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="FR | FranceINFO" tvg-name="FR | FranceINFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/2560px-Franceinfo.svg.png" group-title="NOTICIAS E INFORMACION", 187 | FRANCE INFO
-http://149.7.102.223:8080/FRANCEINFO/manifest.m3u8
+http://176.65.146.137:8047/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 188 | France 24
 
 #EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/245px-Euronews_2016_logo.svg.png" group-title="NOTICIAS E INFORMACION", 189 | Euronews
