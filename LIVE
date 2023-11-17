@@ -32,23 +32,19 @@ http://190.61.46.126:8000/play/a007/index.m3u8
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX71: UNICABLE HD
-http://ufospeeds.com:2095/59932307867/4088084805/38829
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
 http://181.189.246.86:58004/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Dallas-en-vivo-Online.png",UNIVISION DALLAS
 http://181.189.246.86:58004/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision HD
 http://45.5.119.197:8000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-id="USA | UNIVISION TLNOVELAS" tvg-name="USA | UNIVISION TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION TLNOVELAS
-http://ufospeeds.com:2095/59932307867/4088084805/38729
 
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180729/axl/kisspng-motor-trend-group-logo-car-font-amazon-appstore-logo-5b5dcc980c3f06.7604313915328738800502.jpg", MotorTrend HD
 http://87.8.103.25:8000/play/a01w
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/34/Automoto_La_cha%C3%AEne_%282018%29.png",AUTOMOTO la chaine
-http://154.54.220.244:47256/play/a01c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfssbs8-e723eae9-741b-4b78-8b1f-b07868e521da.png/v1/fill/w_1280,h_698/fx_moviecity_logo_concept_2023_by_wbblackofficial_dfssbs8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk4IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZnNzYnM4LWU3MjNlYWU5LTc0MWItNGI3OC04YjFmLWIwNzg2OGU1MjFkYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.csbI-0G88_LCQ3uAvvl4qf2QtGFkZRsoJveejxYM8bw",FX MOVIE CITY
 rtmp://93.189.60.202//1106
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png",TLC
@@ -68,7 +64,7 @@ http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AXN HD" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN HD
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
-http://179.51.161.3:8000/play/a069/index.m3u8
+http://179.1.146.21:8000/play/a06u/index.m3u8
 #EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
 http://190.95.220.212:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium HD
@@ -182,7 +178,7 @@ http://190.108.85.20:9999/play/a00n
 http://190.108.85.20:9999/play/a00g
 
 #EXTINF:-1 tvg-id="tycsports.us" tvg-name="DIRECTO : TYC SPORTS INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-EKroHvSTzmk/X-nmc0QkhwI/AAAAAAAA64g/GBr0fRifvdUpEhD6ysZ2JpIDwlY6FeCagCLcBGAsYHQ/s1080/TYC%2BSPORT.png" group-title="DEPORTES",DIRECTO : TYC SPORTS INTERNACIONAL HD
-http://177.234.245.26:8000/play/a03m/index.m3u8
+http://177.53.153.225:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/TNT_Sports_HD_2021.png/revision/latest/scale-to-width-down/375?cb=20210117181510&path-prefix=es",TNT SPORTS HD
