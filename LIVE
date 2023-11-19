@@ -17,8 +17,7 @@ http://200.63.95.6:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Eltrece_internacional.png",El Trece Internacional 
 http://177.234.230.226:8010/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES",Telefe | Argentina
-http://45.186.252.17:8000/play/a0c7
-
+http://45.4.3.74:7577/play/a15l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",Comedy Central HD
 http://45.226.67.3:58001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
@@ -273,7 +272,7 @@ http://177.234.247.66:8888/play/a01z/index.m3u8
 http://45.4.3.74:7577/play/a157/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 470 | Ecuavisa || ECUADOR
 http://177.234.245.26:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports BOL
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",Tigo Sports BOL ESV
 http://170.82.37.21:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES",FHD - Tigo Sports CR
 http://168.228.194.32:48091/play/a089/index.m3u8
@@ -685,6 +684,10 @@ http://4ksuper.live:80/gasolina/gasolina/1143995
 http://4ksuper.live:80/gasolina/gasolina/1143994
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 4
 http://4ksuper.live:80/gasolina/gasolina/1143993
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 5
+http://4ksuper.live:80/gasolina/gasolina/1143992
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 6
+http://4ksuper.live:80/gasolina/gasolina/1143991
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 7
 http://4ksuper.live:80/gasolina/gasolina/1143990
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 8
