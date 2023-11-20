@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,PEA 10: | SOCCER | Trinidad and tobago vs. United states (espanol) (UK 20/11 11:30pm // ET 20/11 7:30pm)
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1124608
 #EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",MS MOTOR TV
 http://221.120.145.12:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUBbvRgnixi83OHamurbkS1oDYsg4HMNk7XDW3_x7IKyM11975JlRdFnRkjswpk5qa-g&usqp=CAU",SPORTS TV
@@ -88,6 +89,8 @@ http://181.78.64.71:16123/play/ch12
 http://91.143.36.166:7844/udp/239.1.15.2:1234
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/GjmiPpBz7dQ/hqdefault.jpg",123 MX Old HD
 http://45.181.122.13:8000/play/082
+#EXTINF:-1, tvg-logo="https://d2suv5gemfchwa.cloudfront.net/cp-uploads/fubo-latino-1.png",BR| FUBO TV LATINO
+http://4ksuper.live:80/gasolina/gasolina/750888
 #EXTINF:-1, tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png",Claro Cinema
 http://38.41.8.1:8000/play/a066
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
@@ -686,10 +689,7 @@ http://4ksuper.live:80/gasolina/gasolina/1143995
 http://4ksuper.live:80/gasolina/gasolina/1143994
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 4
 http://4ksuper.live:80/gasolina/gasolina/1143993
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 5
-http://4ksuper.live:80/gasolina/gasolina/1143992
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 6
-http://4ksuper.live:80/gasolina/gasolina/1143991
+
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 7
 http://4ksuper.live:80/gasolina/gasolina/1143990
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 8
@@ -718,5 +718,30 @@ http://4ksuper.live:80/gasolina/gasolina/1143979
 http://4ksuper.live:80/gasolina/gasolina/1143978
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 20
 http://4ksuper.live:80/gasolina/gasolina/1143977
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/CONMENBOL_TV.png/revision/latest?cb=20210506170332",BR| CONMEBOL TV 1
-http://4ksuper.live:80/gasolina/gasolina/750888
+#EXTINF:-1, tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-sky-sports-1-free-download-PNG.png",NZ: SKY SPORT 1
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242895
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFAhU_w8gyLD5tznmTjSdzxea-zQWXSfculZ430Hmx0APvy7fks-xqzchb1slz7vJc4A&usqp=CAU",NZ: SKY SPORT 2
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242894
+#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",NZ: SKY SPORT 3
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242893
+#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png",NZ: SKY SPORT 4
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242892
+#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",NZ: SKY SPORT 5
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242891
+https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",NZ: SKY SPORT 6
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242890
+https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",NZ: SKY SPORT 7
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242889
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sport_8_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143641",NZ: SKY SPORT 8
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242888
+https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",NZ: SKY SPORT 9
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242887
+https://www.thesportsdb.com/images/media/channel/tvlogo/wfd0yt1642607115.png",NZ: SKY SPORT SELECT
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242886
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507",VIAPLAY SPORTS 1 FHD
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607690
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Viaplay_Sports_2_Stacked.svg/revision/latest?cb=20221105133909",VIAPLAY SPORTS 2 FHD
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607691
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest?cb=20221102093319",VIAPLAY XTRA FHD
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607692
+
