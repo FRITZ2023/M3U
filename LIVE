@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,PEA 10: | SOCCER | Trinidad and tobago vs. United states (espanol) (UK 20/11 11:30pm // ET 20/11 7:30pm)
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1124608
+
 #EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",MS MOTOR TV
 http://221.120.145.12:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUBbvRgnixi83OHamurbkS1oDYsg4HMNk7XDW3_x7IKyM11975JlRdFnRkjswpk5qa-g&usqp=CAU",SPORTS TV
@@ -170,8 +169,11 @@ http://190.60.40.37:12500/play/a06d/index.m3u8
 http://190.61.46.126:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/3ccawxwc/cac_primary_color.png" group-title="LIGAS EUROPEAS", CONCACAF CUP
 http://208.88.246.77:5473/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", 233 | ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", ARG | ESPN HD
 http://190.108.85.20:9999/play/a00a
+#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", ESPN HD
+#EXTINF:-1,ESPN HD
+http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
 http://190.108.85.20:9999/play/a018
 #EXTINF:-1 tvg-id="USA | ESPN 3 HD" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 HD
