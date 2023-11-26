@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova_Sp_1
-http://88.203.157.4:9770/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova_Sp_2
-http://88.203.157.4:9770/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",MS MOTOR TV
 http://221.120.145.12:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUBbvRgnixi83OHamurbkS1oDYsg4HMNk7XDW3_x7IKyM11975JlRdFnRkjswpk5qa-g&usqp=CAU",SPORTS TV
@@ -750,54 +747,6 @@ http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607690
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607691
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest?cb=20221102093319",VIAPLAY XTRA FHD
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607692
-#EXTINF:-1,001_Fish
-http://88.203.157.4:9770/play/a00p/index.m3u8
-#EXTINF:-1,BNT_1
-http://88.203.157.4:9770/play/a001/index.m3u8
-#EXTINF:-1,BNT_2
-http://88.203.157.4:9770/play/a002/index.m3u8
-#EXTINF:-1,Diema Famely_1
-http://88.203.157.4:9770/play/a00f/index.m3u8
-#EXTINF:-1,Diema Famely_2
-http://88.203.157.4:9770/play/a00g/index.m3u8
-#EXTINF:-1,Diema_1
-http://88.203.157.4:9770/play/a00d/index.m3u8
-#EXTINF:-1,Diema_2
-http://88.203.157.4:9770/play/a00e/index.m3u8
-#EXTINF:-1,Kino_Nova_1
-http://88.203.157.4:9770/play/a00h/index.m3u8
-#EXTINF:-1,Kino_Nova_2
-http://88.203.157.4:9770/play/a00i/index.m3u8
-#EXTINF:-1,Nova_1
-http://88.203.157.4:9770/play/a00j/index.m3u8
-#EXTINF:-1,Nova_2
-http://88.203.157.4:9770/play/a00k/index.m3u8
-#EXTINF:-1,Nova_Sp_1
-http://88.203.157.4:9770/play/a00l/index.m3u8
-#EXTINF:-1,Nova_Sp_2
-http://88.203.157.4:9770/play/a00m/index.m3u8
-#EXTINF:-1,Ring_1
-http://88.203.157.4:9770/play/a00n/index.m3u8
-#EXTINF:-1,Ring_2
-http://88.203.157.4:9770/play/a00o/index.m3u8
-#EXTINF:-1,bTV_1
-http://88.203.157.4:9770/play/a00b/index.m3u8
-#EXTINF:-1,bTV_2
-http://88.203.157.4:9770/play/a00c/index.m3u8
-#EXTINF:-1,bTV_act_1
-http://88.203.157.4:9770/play/a003/index.m3u8
-#EXTINF:-1,bTV_act_2
-http://88.203.157.4:9770/play/a004/index.m3u8
-#EXTINF:-1,bTV_cine_1
-http://88.203.157.4:9770/play/a005/index.m3u8
-#EXTINF:-1,bTV_cine_2
-http://88.203.157.4:9770/play/a006/index.m3u8
-#EXTINF:-1,bTV_com_1
-http://88.203.157.4:9770/play/a007/index.m3u8
-#EXTINF:-1,bTV_com_2
-http://88.203.157.4:9770/play/a008/index.m3u8
-#EXTINF:-1,bTV_lady_1
-http://88.203.157.4:9770/play/a009/index.m3u8
-#EXTINF:-1,bTV_lady_2
-http://88.203.157.4:9770/play/a00a/index.m3u8
+
+
 
