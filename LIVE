@@ -98,7 +98,7 @@ http://38.41.8.1:8000/play/a066
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
 http://138.59.177.34:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
-https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NESR57BYLV0iItwGgS4TKH1Pc7DybgvZlT-YivqohLruC/ts
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336467
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://45.177.53.7:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
@@ -110,11 +110,11 @@ http://149.62.177.156:8000/play/a0bo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="INTERNACIONAL",Casa e Cozinha MEO
 http://149.62.177.156:8000/play/a0bz
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
-http://ufospeeds.com:2095/59932307867/4088084805/7309
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336457
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
-http://ufospeeds.com:2095/59932307867/4088084805/7303
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336464
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
-http://ufospeeds.com:2095/59932307867/4088084805/7302
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336463
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Cocina_Viva_VTR_2023.png/revision/latest?cb=20230712140033&path-prefix=es",CL: CocinaViva HD (Fibra)
 https://tvpanel.one:443/play/nm4hifjdCtkVNXHvg9_NEWCa8EIKc-OHpg2PjMhGoVIp6NB3BNcgRDdbE_A9faWV/ts
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
