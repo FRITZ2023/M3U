@@ -731,22 +731,24 @@ http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242893
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242892
 #EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",NZ: SKY SPORT 5
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242891
-https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",NZ: SKY SPORT 6
+#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",NZ: SKY SPORT 6
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242890
-https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",NZ: SKY SPORT 7
+#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",NZ: SKY SPORT 7
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242889
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sport_8_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143641",NZ: SKY SPORT 8
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242888
-https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",NZ: SKY SPORT 9
+#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",NZ: SKY SPORT 9
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242887
-https://www.thesportsdb.com/images/media/channel/tvlogo/wfd0yt1642607115.png",NZ: SKY SPORT SELECT
+#EXTINF:-1, tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wfd0yt1642607115.png",NZ: SKY SPORT SELECT
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242886
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507",VIAPLAY SPORTS 1 FHD
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607690
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Viaplay_Sports_2_Stacked.svg/revision/latest?cb=20221105133909",VIAPLAY SPORTS 2 FHD
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607691
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest?cb=20221102093319",VIAPLAY XTRA FHD
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607692
-
+http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607692#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336443
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/b7e96f0397fc0dff8578929cd0646907.png" group-title="SPAIN",||ES|| EUROSPORT 2 HD
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336445
 
 
