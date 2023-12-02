@@ -8,10 +8,7 @@ http://221.120.145.12:8000/play/a03o/index.m3u8
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761353
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",UK: PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761332
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xR7pwbZLmg1dx5G9Kq210I8pmxaWUNDB_eNfQ3c97Ja7crPV",LA CIUDAD PERDIDA (2022)
-http://redima.pro:8880/movie/TISUCR/TISUCR/504.mp4
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F_d9mIT2pZ0/VpafULKZvBI/AAAAAAAALaQ/oSAlYEDtPak/s500-Ic42/rolando-menendez-el-cipitio.jpg" group-title="PELICULAS",Las Aventuras Del Cipitio (El Cipitio Enamorado) 
-https://archive.org/download/las-aventuras-del-cipitio-el-cipitio-enamorado/Las%20Aventuras%20del%20Cipit%C3%ADo%20-%20El%20Cipit%C3%ADo%20Enamorado.ia.mp4
+
 #EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNl2jABAaUSC58vqjDlAol9fx802jiaoGGBKggA=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", 226 | Hogar TV
 http://190.90.71.68:15082/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="EC | FUN BOX" tvg-name="EC | FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/100px-FunBox_TV_logo.svg.png" group-title="DEPORTES",FUN BOX
@@ -657,7 +654,10 @@ http://200.59.188.3:8000/play/a034
 http://190.92.7.19:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION",History 2 HD
 http://200.59.188.3:8000/play/a033
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xR7pwbZLmg1dx5G9Kq210I8pmxaWUNDB_eNfQ3c97Ja7crPV",LA CIUDAD PERDIDA (2022)
+http://redima.pro:8880/movie/TISUCR/TISUCR/504.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F_d9mIT2pZ0/VpafULKZvBI/AAAAAAAALaQ/oSAlYEDtPak/s500-Ic42/rolando-menendez-el-cipitio.jpg" group-title="PELICULAS",Las Aventuras Del Cipitio (El Cipitio Enamorado) 
+https://archive.org/download/las-aventuras-del-cipitio-el-cipitio-enamorado/Las%20Aventuras%20del%20Cipit%C3%ADo%20-%20El%20Cipit%C3%ADo%20Enamorado.ia.mp4
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf_xBpyhG7IRBqMY8mljZ9UFShV9h9Y-cqg&usqp=CAU" group-title="PELÍCULAS",007 GOLDEN EYE 1
 http://archive.org/download/mio53_yopmail_1/1.mp4
 #EXTINF:-1, tvg-logo="https://diaryofamoviemaniac.files.wordpress.com/2017/08/a13.jpg" group-title="PELÍCULAS",007 TOMORROW NEVER DIES 2
@@ -723,26 +723,8 @@ http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242895
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242894
 #EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",NZ: SKY SPORT 3
 http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242893
-#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png",NZ: SKY SPORT 4
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242892
-#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",NZ: SKY SPORT 5
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242891
-#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",NZ: SKY SPORT 6
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242890
-#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",NZ: SKY SPORT 7
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242889
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sport_8_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143641",NZ: SKY SPORT 8
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242888
-#EXTINF:-1, tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",NZ: SKY SPORT 9
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242887
-#EXTINF:-1, tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wfd0yt1642607115.png",NZ: SKY SPORT SELECT
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/242886
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507",VIAPLAY SPORTS 1 FHD
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607690
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Viaplay_Sports_2_Stacked.svg/revision/latest?cb=20221105133909",VIAPLAY SPORTS 2 FHD
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607691
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest?cb=20221102093319",VIAPLAY XTRA FHD
-http://stb.sstv.one:81/Asif-mahmood222/Q7sBbBzaXpb4/1607692#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
+
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
 http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336443
 #EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/b7e96f0397fc0dff8578929cd0646907.png" group-title="SPAIN",||ES|| EUROSPORT 2 HD
 http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336445
