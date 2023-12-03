@@ -107,7 +107,7 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png",LA7d HD
 http://176.65.146.136:8020/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/640px-24Kitchen.png" group-title="INTERNACIONAL",24 Kitchen HD MEO
-http://149.62.177.156:8000/play/a0bo
+http://40664589750623231.of1202show.xyz:80/play/mi729956/58cNdpgPnNw/623231.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="INTERNACIONAL",Casa e Cozinha MEO
 http://149.62.177.156:8000/play/a0bz
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
