@@ -41,10 +41,20 @@ http://109.236.91.39:1935/sxmxutkqjh/sxmxutkqjh/playlist.m3u8
 http://45.228.232.205:16000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
 http://190.95.220.212:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
-https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMAVISION
 http://190.95.220.212:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
+https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
+http://161.132.243.192:50001/play/a04f/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
+http://190.242.46.20:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 336 | EWTN
+http://191.97.60.193:10000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png",ARENA FIGHT
 http://balkan-x.net:80/live/amigos595/z72hhmc5BN/21150.ts
@@ -293,16 +303,7 @@ http://191.97.60.193:10000/play/a00p/index.m3u8
 http://167.250.135.246:81/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU",USMP HD
 http://187.102.208.108:50001/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
-https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
-http://161.132.243.192:50001/play/a04f/index.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
-http://190.242.46.20:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 336 | EWTN
-http://191.97.60.193:10000/play/a064/index.m3u8
+
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD
 http://190.61.46.126:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
