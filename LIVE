@@ -103,7 +103,7 @@ https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/595
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",AUTO MOTOR SPORT (DE) 
 http://balkan-x.net:80/live/amigos595/z72hhmc5BN/616.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Discovery_Turbo_Xtra_HD_Logo.png/800px-Discovery_Turbo_Xtra_HD_Logo.png?20140511180400",DTX HD (PP) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Discovery_Turbo_Xtra_HD_Logo.png/800px-Discovery_Turbo_Xtra_HD_Logo.png",DTX HD (PP) 
 http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
 http://187.102.208.108:50001/play/a038/index.m3u8
