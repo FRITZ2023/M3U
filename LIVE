@@ -3,7 +3,7 @@
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Telemax Hermosillo 
+#EXTINF:-1 tvg-id="TELEMAX.MX" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",Telemax Hermosillo 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -91,11 +91,11 @@ http://ufospeeds.com:2095/59932307867/4088084805/38727
 http://45.5.119.197:8000/play/a0kr/index.m3u8
 #EXTINF:-1 tvg-id="USA | UNIVISION TLNOVELAS" tvg-name="USA | UNIVISION TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION TLNOVELAS
 http://ufospeeds.com:2095/59932307867/4088084805/38729
-#EXTINF:-1,TNT Novelas HD
+#EXTINF:-1 tvg-id="USA | TNT Novelas HD" tvg-name="USA | TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="PELICULAS Y SERIES", 114 | TNT Novelas HD
 http://177.234.247.66:8888/play/a030/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 116 | TNT HD
 http://177.234.247.66:8888/play/a00s/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 117 | TNT Series
 http://177.234.247.66:8888/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
@@ -156,8 +156,7 @@ http://4ksuper.live:80/gasolina/gasolina/750888
 http://38.41.8.1:8000/play/a066
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
 http://138.59.177.34:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
-http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336467
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
 http://167.250.135.246:81/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
@@ -165,6 +164,10 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png",LA7d HD
 http://176.65.146.136:8020/play/a06p/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
+http://190.95.220.212:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYvsyRGdmRB4qll9Di_1RmxPk8q8KUQhEAmmzkoSYLQ&s" group-title="ESPANHA",ODISEA HD
+http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336467
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CAZA Y PESCA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336457
 #EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="||ES|| CANAL DECASA HD" tvg-logo="http://obsfullhd.tv:25461/images/18527820920e6c4bd15d2f8bfb976525.png" group-title="SPAIN",||ES|| CANAL DECASA HD
@@ -408,12 +411,6 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Canal del Caballo HD" tvg-name="EC | Canal del Caballo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx16SRubz1cxpfjpc4uz3VJEmWKgdR5NEjPc5O0Fhbq_TPXZT17DA5mvmSqSgmHyaBQEE&usqp=CAU" group-title="DEPORTES",Canal del Caballo HD
-http://45.160.12.253:8000/play/230
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tYfCOGm19LJ2Hc34704SHf4iNVso1s3kzB3fZUweMg&s" group-title="DEPORTES",Mundo Toro (ES)
-http://149.62.177.156:8000/play/a0lq
-#EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
-http://177.93.52.98:45001/play/a07v
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
