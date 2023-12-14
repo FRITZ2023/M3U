@@ -205,7 +205,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjB_sTJ4gcgx1zo_-dJvq_esKDQP7hjbl2e9gz5rZ&s" group-title="DEPORTES",MEX: AFIZZIONADOS
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
+http://nxt.plus:8080/painxcd/331075/3283
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 http://likea8bitboss.xyz:80/Dpride254/5683704192/775946
