@@ -102,9 +102,24 @@ http://177.234.247.66:8888/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : MOTOR TREND" tvg-logo="https://play-lh.googleusercontent.com/_4eySUbB4EybnxAvbvB0iNco-LqD2dRNzpzuORIwUGKHcnbgP_5T9zQUQ1KBvRFkEmUp" group-title="Bics Extra USA", MOTOR TREND
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/595
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/272264
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : MOTOR TREND" tvg-logo="https://play-lh.googleusercontent.com/_4eySUbB4EybnxAvbvB0iNco-LqD2dRNzpzuORIwUGKHcnbgP_5T9zQUQ1KBvRFkEmUp" group-title="Bics Extra IT", MOTOR TREND
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/75151
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",AUTO MOTOR SPORT (DE) 
-http://balkan-x.net:80/live/amigos595/z72hhmc5BN/616.ts
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/2385
+#EXTINF:-1 tvg-logo="thttps://w7.pngwing.com/pngs/583/122/png-transparent-servus-hd-logo-thumbnail.png",DE: Servus MotorSport
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/298710
+#EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",IT: MS Motor TV
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/158715#EXTINF:-1,NO: Canal Motor TV
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/284255
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/27/3b64e77d-a69a-422e-88ec-d2f1113e23cb.png?bf=0&f=png&p=true&q=60&w=360",SE: TV4 Motor
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/295027
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/V_Sport_Motor_HD_%282020%29.svg/revision/latest?cb=20230111215530",SE: V Sport Motor
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/6273
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/695/799/png-transparent-motors-tv-television-channel-motorsport-auto-racing-others.png",RU: Motorsport TV
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/279098
+#EXTINF:-1,UK: MotoRRacing
+http://iptvtree.net:8080/67e74f3b-10/38d644d82e/295426
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
 http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
