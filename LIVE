@@ -385,12 +385,7 @@ http://212.200.113.134:25001
 http://212.200.113.134:25002
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOcJG7TJDQq1HdpkKFZG4HNdyaJ8O40n4Q32AlCX7g&s" group-title="Peliculas",CINE STAR+ TV  FANTASY
 http://212.200.113.134:25003
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9hpbd5gn6LqhQY4n4jiEk2RzFQlKEKahpix2aiOsPK4HZ3Lm-aUfALUOSKC-RzE_vmk0&usqp=CAU",VIJU + SERIAL
-http://31.40.155.227:9595/play/VijuSerial_HD
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTClexiDEFoz2ol6II2dW-aT-wSJA7Y804xDVP4QXYhiVrnQSytMQXxtMifoM2Ggg9ck&usqp=CAU",BEIN BOX OFFICE 1
-http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25g94Ww9z5rf9v9mroyULe4jQAeTO-9NIjpiacrr3lJ09cQu_x2xUhACHu1pO0XIZ7lo&usqp=CAU",BEIN BOX OFFICE 2
-http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="REGIONALES",TVAGRO CL
 http://190.90.71.68:15082/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
@@ -408,13 +403,9 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1300 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="PE | Intuitiva TV" tvg-name="PE | Intuitiva TV" tvg-logo="https://pbs.twimg.com/media/FVyWpMHXsAUe7UU?format=png&name=small" group-title="REGIONALES", 385 | Intuitiva TV || Lima
-https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-id="1244" tvg-name="Oldies Hits TV" tvg-logo="https://i2.paste.pics/e63c9721b2261a3213ea1a4e69776d0f.png", Oldies Hits TV | CR
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 271 | Concert Channel
-http://204.157.251.250:8000/play/a08j/index.m3u8
+http://45.5.119.197:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJkrZMCI2GDLULbhFbmEtRuGnMUfuDx9YAkuZekUjjQ&s", MUSIC 4EVER
 rtmp://93.189.60.202//970
 #EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
@@ -437,15 +428,13 @@ http://200.59.188.3:8000/play/a00x
 http://190.61.46.126:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS",Azteca Corazon HD
 http://161.132.243.192:50001/play/a04e/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0h8.png",AztecaMundo
-http://170.82.37.21:8000/play/a02j/index.m3u8
+
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 787 | Telefe Internacional || ARGENTINA
 http://190.61.46.126:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="INTERNACIONALES", 64 | Las Estrellas Latinoamérica
 http://190.61.46.126:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="USA | Univisión Latinoamérica" tvg-name="USA | Univisión Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 65 | Univisión Latinoamérica
-http://177.53.153.21:8001/play/a0au/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
 http://190.61.46.126:8000/play/a008/index.m3u8
 
@@ -454,8 +443,6 @@ https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 219 | On Tour Channel
 https://marine2.miplay.cl/ontour/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", 227 | Liga 1 Max
-http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
@@ -464,10 +451,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 http://181.119.66.30:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="CO | Win Sports+ HD" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
 http://181.119.66.30:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 237 | Claro Sports HD
-http://177.234.245.26:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",Claro Sports 2 HD
-http://177.234.245.26:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
@@ -477,8 +460,6 @@ http://168.228.193.214:58005/play/a05m
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="DEPORTE",beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Uq2QkFDGkBBZq7Z2-_N0DGGuk0GTGp-b5LkZLc-DXAZTP2hOmzA8LzUv801UBgrOEWo&usqp=CAU" group-title="Peliculas",BEIN 1 GB
-http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -509,8 +490,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK ARG
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",Hipódromo de las Américas
-http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTES",ATG Tv
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
@@ -534,8 +514,6 @@ https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
@@ -552,38 +530,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1275" tvg-name="Juntos - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Juntos - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Cine Acción (268p)
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Movies",Xtrema Cine Asia (268p)
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Comedy;Movies",Xtrema Cine Comedy (344p)
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Movies",Xtrema Cine Drama (360p)
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="Movies",Xtrema Cine Europa (360p)
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Family;Movies",Xtrema Cine Family (274p)
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Movies",Xtrema Cine Hindi (272p)
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Movies",Xtrema Cine Latino (360p)
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Movies",Xtrema Cine Suspenso (360p)
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies",Xtrema Cine Terror (270p)
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series (360p)
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
@@ -647,51 +593,9 @@ http://archive.org/download/mio53_yopmail_8/8.mp4
 http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e658abc428a58405061814dd6703ea3873574c1e199aac4bfda1092c4dfdef7c._RI_TTW_.jpg" group-title="PELÍCULAS",ZAPATERO A TUS ZAPATOS
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
-#EXTINF:-1, tvg-logo="https://images.justwatch.com/poster/304667074/s718/shazam-2.%7Bformat%7D" group-title="PELÍCULAS",SHAZAM
-http://ia601505.us.archive.org/8/items/s1zam/s1zam.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="HD: Wonder Woman 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="SUPER HEROES",HD: Wonder Woman 1984
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisdic%2Fnuevas%2Fiwonder%201984.mp4
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 1
-http://4ksuper.live:80/gasolina/gasolina/1143996
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 2
-http://4ksuper.live:80/gasolina/gasolina/1143995
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 3
-http://4ksuper.live:80/gasolina/gasolina/1143994
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 4
-http://4ksuper.live:80/gasolina/gasolina/1143993
-
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 7
-http://4ksuper.live:80/gasolina/gasolina/1143990
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 8
-http://4ksuper.live:80/gasolina/gasolina/1143989
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 9
-http://4ksuper.live:80/gasolina/gasolina/1143988
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 10
-http://4ksuper.live:80/gasolina/gasolina/1143987
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 11
-http://4ksuper.live:80/gasolina/gasolina/1143986
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 12
-http://4ksuper.live:80/gasolina/gasolina/1143985
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 13
-http://4ksuper.live:80/gasolina/gasolina/1143984
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 14
-http://4ksuper.live:80/gasolina/gasolina/1143983
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 15
-http://4ksuper.live:80/gasolina/gasolina/1143982
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 16
-http://4ksuper.live:80/gasolina/gasolina/1143981
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 17
-http://4ksuper.live:80/gasolina/gasolina/1143980
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 18
-http://4ksuper.live:80/gasolina/gasolina/1143979
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 19
-http://4ksuper.live:80/gasolina/gasolina/1143978
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Vix%2B.png/revision/latest/scale-to-width-down/300?cb=20230119232122",US| ViX+ DEPORTES 20
-http://4ksuper.live:80/gasolina/gasolina/1143977
-
-
-
-
 
 #EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
 http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336443
