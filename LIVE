@@ -22,8 +22,7 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Ticavision Canal 27" tvg-name="CR | Ticavision Canal 27" tvg-logo="https://costaricatelevision.com/sites/default/files/2021-03/ticavision-costa-rica_0.png" group-title="COSTA RICA", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 828 | Teletica || COSTA RICA
-http://170.82.37.21:8000/play/a03u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/themes/futv-wp/assets/images/2x/whitelogo@2x.png",FUTV HD CR
 http://131.161.53.2:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1024px-TD_M%C3%A1s_Logo.png",TD+HD CR-80
@@ -44,8 +43,7 @@ http://45.228.232.205:16000/play/a03q/index.m3u8
 http://190.95.220.212:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMAVISION
 http://190.95.220.212:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
-https://ott1.hdlatam.tv/live/gamarrachanneltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
@@ -76,22 +74,13 @@ http://138.59.177.34:8000/play/a07k/index.m3u8
 http://45.169.38.226:8000/play/00001/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://45.160.191.34:8000/play/a07t
-#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Internacional
-http://170.82.37.21:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="USA | Telemundo Miami" tvg-name="USA | Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES",Telemundo Miami
-http://170.82.37.21:8000/play/a02t/index.m3u8
+
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX71: UNICABLE HD
 http://23.148.145.82:25461/televall/R1WyjpMhlp/21
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
-http://181.189.246.86:58004/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Dallas-en-vivo-Online.png",UNIVISION DALLAS
-http://181.189.246.86:58004/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="USA | UNIVISION LOS ANGELES" tvg-name="USA | UNIVISION LOS ANGELES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION LOS ANGELES
-http://ufospeeds.com:2095/59932307867/4088084805/38727
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision HD
 http://45.5.119.197:8000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-id="USA | UNIVISION TLNOVELAS" tvg-name="USA | UNIVISION TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION TLNOVELAS
-http://ufospeeds.com:2095/59932307867/4088084805/38729
+
 #EXTINF:-1 tvg-id="USA | TNT Novelas HD" tvg-name="USA | TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="PELICULAS Y SERIES", 114 | TNT Novelas HD
 http://177.234.247.66:8888/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 116 | TNT HD
@@ -100,25 +89,7 @@ http://177.234.247.66:8888/play/a00s/index.m3u8
 http://177.234.247.66:8888/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : MOTOR TREND" tvg-logo="https://play-lh.googleusercontent.com/_4eySUbB4EybnxAvbvB0iNco-LqD2dRNzpzuORIwUGKHcnbgP_5T9zQUQ1KBvRFkEmUp" group-title="Bics Extra USA", MOTOR TREND
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/272264
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : MOTOR TREND" tvg-logo="https://play-lh.googleusercontent.com/_4eySUbB4EybnxAvbvB0iNco-LqD2dRNzpzuORIwUGKHcnbgP_5T9zQUQ1KBvRFkEmUp" group-title="Bics Extra IT", MOTOR TREND
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/75151
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",AUTO MOTOR SPORT (DE) 
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/2385
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Servus_TV_Logo-700x368.png",DE: Servus MotorSport
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/298710
-#EXTINF:-1 tvg-logo="https://www.msmotor.tv/wp-content/uploads/2022/10/cropped-MSMOTOR_LOGO-04.png",IT: MS Motor TV
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/158715#EXTINF:-1,NO: Canal Motor TV
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/284255
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/27/3b64e77d-a69a-422e-88ec-d2f1113e23cb.png?bf=0&f=png&p=true&q=60&w=360",SE: TV4 Motor
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/295027
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/V_Sport_Motor_HD_%282020%29.svg/revision/latest/scale-to-width-down/250?cb=20230111215530",SE: V Sport Motor
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/6273
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/695/799/png-transparent-motors-tv-television-channel-motorsport-auto-racing-others.png",RU: Motorsport TV
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/279098
-#EXTINF:-1,UK: MotoRRacing
-http://iptvtree.net:8080/67e74f3b-10/38d644d82e/295426
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
 http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
