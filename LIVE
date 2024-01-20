@@ -1,5 +1,5 @@
 #EXTM3U
-la brigada de la cocina
+#EXTINF:-1 tvg-logo="https://www.gastroactitud.com/wp-content/uploads/2022/06/la-brigada-de-la-cocina-pelicula-2.jpg", La Brigada de la Cocina
 http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
