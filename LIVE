@@ -19,7 +19,8 @@ https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
-http://blackpanther.life:8080/josevaldecurier/5Yc46fLSMDkc/1213
+http://375964206425321149.of1202show.xyz:80/play/Manu1008B/797307859M122/321149.ts
+
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
 http://181.119.66.30:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | MASTERCHEF" tvg-logo="https://w7.pngwing.com/pngs/90/546/png-transparent-logo-masterchef-masterchef-logo-text-trademark-orange.png" group-title="24/7 | PLUTO",MX | MASTERCHEF
@@ -119,7 +120,8 @@ http://138.59.177.34:8000/play/a07k/index.m3u8
 http://45.169.38.226:8000/play/00001/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://45.160.191.34:8000/play/a07t
-
+#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
+http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision HD
 http://138.59.177.34:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Novelas HD" tvg-name="USA | TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="PELICULAS Y SERIES", 114 | TNT Novelas HD
