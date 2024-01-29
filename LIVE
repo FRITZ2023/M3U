@@ -32,7 +32,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
 http://190.110.109.104:52321/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA",Sun Channel
-http://181.78.64.71:16123/play/ch48
+http://45.177.53.7:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
 http://190.60.40.37:12500/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="TELEMAX.MX" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",Telemax Hermosillo 
@@ -85,8 +85,7 @@ http://190.242.46.20:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 336 | EWTN
-http://191.97.60.193:10000/play/a064/index.m3u8
-
+http://168.227.22.18:1935/live/mobile-012/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Hogar TV" tvg-name="CO | Hogar TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNl2jABAaUSC58vqjDlAol9fx802jiaoGGBKggA=s900-c-k-c0x00ffffff-no-rj" group-title="ESTILOS DE VIDA", 226 | Hogar TV
 http://190.90.71.68:15082/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="EC | FUN BOX" tvg-name="EC | FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/100px-FunBox_TV_logo.svg.png" group-title="DEPORTES",FUN BOX
@@ -101,23 +100,19 @@ http://190.61.46.126:8000/play/a01o/index.m3u8
 http://161.132.243.192:50001/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 787 | Telefe Internacional || ARGENTINA
 http://190.61.46.126:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
+http://138.59.177.34:8000/play/a07k/index.m3u8
 #EXTINF:-1 tvg-id="MX | Las Estrellas Latinoamérica" tvg-name="MX | Las Estrellas Latinoamérica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="INTERNACIONALES", 64 | Las Estrellas Latinoamérica
 http://190.61.46.126:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
 http://190.61.46.126:8000/play/a008/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Eltrece_internacional.png",El Trece Internacional 
 http://177.234.230.226:8010/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES",Telefe | Argentina
-http://45.4.3.74:7577/play/a15l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO",Comedy Central HD
 http://45.226.67.3:58001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://187.102.208.108:50001/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
-http://138.59.177.34:8000/play/a07k/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA IT
-http://45.169.38.226:8000/play/00001/index.m3u8
+
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
 http://45.160.191.34:8000/play/a07t
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
@@ -163,7 +158,12 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 http://179.1.146.21:8000/play/a06u/index.m3u8
 #EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
 http://190.95.220.212:8000/play/a020/index.m3u8
-
+#EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 129 | FMH Family
+http://191.97.60.193:10000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="USA | FMH MOVIES" tvg-name="USA | FMH MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAJ-PUCbq0xIdynydEKLuCkWy-aqAJ73ygEnpoNh--48k6-JuTJsDZL6ubLkuleXLq5A&usqp=CAU" group-title="PELICULAS Y SERIES", 129 | FMH MOVIES
+http://191.97.60.193:10000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-kids.jpg" group-title="INFANTILES", 157 | FMH Kids
+http://191.97.60.193:10000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES",Cine Premium HD
 http://190.90.252.200:16001/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES",Cine Hispano HD
@@ -399,22 +399,22 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1300 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
-
+#EXTINF:-1 tvg-id="PE | Best Cable Music" tvg-name="PE | Best Cable Music" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALITIES", 259 | Best Cable Music
+https://tv.godo.net.pe/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 271 | Concert Channel
-http://45.5.119.197:8000/play/a02r/index.m3u8
+https://cloudvideo.servers10.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJkrZMCI2GDLULbhFbmEtRuGnMUfuDx9YAkuZekUjjQ&s", MUSIC 4EVER
 rtmp://93.189.60.202//970
 #EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
-http://45.5.119.197:8000/play/a0hk/index.m3u8
-
+http://138.59.177.34:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
-http://45.173.201.50:4000/play/a013/index.m3u8
+https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
-http://38.43.150.124:8000/play/a042/index.m3u8
+hls://https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
