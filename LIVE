@@ -1,6 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.gastroactitud.com/wp-content/uploads/2022/06/la-brigada-de-la-cocina-pelicula-2.jpg", La Brigada de la Cocina
 http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
+#EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
+https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
+http://185.6.22.6:8000/play/a02z
+#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
+http://187.102.208.108:50001/play/a038/index.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History HD 
+http://45.173.201.50:4000/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION",History 2 HD
+http://177.53.153.225:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 322 | National Geographic
+http://190.90.154.73:8080/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Channel HD
+http://190.61.46.126:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA",Discovery Home & Health HD
+http://190.61.46.126:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES",Discovery Kids HD
+http://190.61.46.126:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Theater HD
+http://190.61.46.126:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Turbo
+http://190.61.46.126:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery World HD
+http://190.61.46.126:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Science
+http://190.90.154.73:8080/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",C | Discovery Investigation HD
+http://190.90.154.73:8080/play/a099/index.m3u8
+#EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Animal Planet
+http://190.90.154.73:8080/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", 211 | HGTV
+http://190.90.154.73:8080/play/a07w/index.m3u8
 #EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="REGIONALES",TVAGRO CL
 http://190.90.71.68:15082/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
@@ -126,15 +160,27 @@ http://177.234.247.66:8888/play/a030/index.m3u8
 http://177.234.247.66:8888/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 117 | TNT Series
 http://177.234.247.66:8888/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
-https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 91 | Studio Universal
+http://190.90.154.73:8080/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
+http://190.90.154.73:8080/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="http://l3d.us:25461/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="TV | 2 Megas",2MB | Universal Channel 
+http://190.90.154.73:8080/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
+hls://http://190.90.154.73:8080/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
+http://38.56.118.88:4000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es", GOLDEN PLUS
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | FX HD
+http://187.102.208.108:50001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES",HBO Family HD-46
+http://200.59.188.3:8000/play/a034
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
-http://185.6.22.6:8000/play/a02z
-#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
-http://187.102.208.108:50001/play/a038/index.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfssbs8-e723eae9-741b-4b78-8b1f-b07868e521da.png/v1/fill/w_1280,h_698/fx_moviecity_logo_concept_2023_by_wbblackofficial_dfssbs8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njk4IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZnNzYnM4LWU3MjNlYWU5LTc0MWItNGI3OC04YjFmLWIwNzg2OGU1MjFkYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.csbI-0G88_LCQ3uAvvl4qf2QtGFkZRsoJveejxYM8bw",FX MOVIE CITY
 rtmp://93.189.60.202//1106
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png",036 - Lifetime HD
@@ -181,7 +227,8 @@ http://190.90.252.200:16001/play/a063/index.m3u8
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2560px-Cinema%2B_logo.svg.png" group-title="PELICULAS Y SERIES", 130 | Cinema +
 http://181.78.64.71:16123/play/ch12
-
+#EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
+http://177.234.230.226:8010/play/a00e/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/GjmiPpBz7dQ/hqdefault.jpg",123 MX Old HD
 http://45.181.122.13:8000/play/082
 #EXTINF:-1, tvg-logo="https://d2suv5gemfchwa.cloudfront.net/cp-uploads/fubo-latino-1.png",BR| FUBO TV LATINO
@@ -517,48 +564,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1275" tvg-name="Juntos - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Juntos - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://www.americatvc.com/administrador/subgrupo/3.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
-http://177.234.230.226:8010/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
-http://38.56.118.88:4000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es", GOLDEN PLUS
-https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA",Discovery Home & Health HD
-http://190.61.46.126:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Channel HD
-http://190.61.46.126:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="INFANTILES",Discovery Kids HD
-http://190.61.46.126:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Theater HD
-http://190.61.46.126:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Turbo
-http://190.61.46.126:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery World HD
-http://190.61.46.126:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Animal Planet
-http://190.90.154.73:8080/play/a03m/index.m3u8
-#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", 211 | HGTV
-http://190.90.154.73:8080/play/a07w/index.m3u8
-#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | FX HD
-http://187.102.208.108:50001/play/a00z/index.m3u8
-
 #EXTINF:-1 tvg-id="USA | Tu Cine" tvg-name="USA | Tu Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="PELICULAS Y SERIES", 96 | Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Real" tvg-name="USA | Cine Real" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="PELICULAS Y SERIES", 97 | Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
-#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES",HBO Family HD-46
-http://200.59.188.3:8000/play/a034
-#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History HD 
-http://45.173.201.50:4000/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION",History 2 HD
-http://177.53.153.225:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xR7pwbZLmg1dx5G9Kq210I8pmxaWUNDB_eNfQ3c97Ja7crPV",LA CIUDAD PERDIDA (2022)
 http://redima.pro:8880/movie/TISUCR/TISUCR/504.mp4
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F_d9mIT2pZ0/VpafULKZvBI/AAAAAAAALaQ/oSAlYEDtPak/s500-Ic42/rolando-menendez-el-cipitio.jpg" group-title="PELICULAS",Las Aventuras Del Cipitio (El Cipitio Enamorado) 
