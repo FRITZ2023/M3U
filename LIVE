@@ -378,8 +378,12 @@ http://190.95.220.212:8000/play/a01n/index.m3u8
 http://181.119.66.30:8000/play/44/index.m3u8
 #EXTINF:-1 tvg-id="BR | TV Globo" tvg-name="BR | TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LogoTVGlobo2021.svg/200px-LogoTVGlobo2021.svg.png" group-title="BRASIL", 552 | TV Globo || BRASIL Globo (TV TEM) HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png",SPORTV
-http://808731806355688519.of1202show.xyz:80/play/Manu1008B/797307859M122/688519.ts
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png",SPORTV 1 HDR 
+http://main.xplus2-main.xyz:2082/Tourobox1-xhkzIsaeVo/4n87HEWQlf/178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2 4K 
+http://main.xplus2-main.xyz:2082/Tourobox1-xhkzIsaeVo/4n87HEWQlf/172
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",SPORTV 3 4K 
+http://main.xplus2-main.xyz:2082/Tourobox1-xhkzIsaeVo/4n87HEWQlf/175
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="INTERNACIONAL",CANAL 2 ESA
 http://201.159.113.218:49000/play/a02v/index.m3u8
