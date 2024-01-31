@@ -29,8 +29,8 @@ http://190.61.46.126:8000/play/a02l/index.m3u8
 http://190.61.46.126:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Science
 http://190.90.154.73:8080/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",C | Discovery Investigation HD
-http://190.90.154.73:8080/play/a099/index.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="TV | Cultura",C | Discovery ID HD
+http://177.53.153.225:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Animal Planet
 http://190.90.154.73:8080/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", 211 | HGTV
