@@ -591,22 +591,15 @@ http://archive.org/download/mio53_yopmail_8/8.mp4
 http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/e658abc428a58405061814dd6703ea3873574c1e199aac4bfda1092c4dfdef7c._RI_TTW_.jpg" group-title="PELÍCULAS",ZAPATERO A TUS ZAPATOS
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="HD: Wonder Woman 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="SUPER HEROES",HD: Wonder Woman 1984
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisdic%2Fnuevas%2Fiwonder%201984.mp4
-
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
-http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336443
-#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/b7e96f0397fc0dff8578929cd0646907.png" group-title="SPAIN",||ES|| EUROSPORT 2 HD
-http://flashprinttv.com:2086/yGXhHz49vPHF/HNc8HCqDnJyQ/336445
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",UK: PREMIER  SPORTS 1
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761353
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",UK: PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761332
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",SPORT TV+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",SPORT TV+
 http://40664589750619214.of1202show.xyz:80/play/mi729956/58cNdpgPnNw/619214.ts
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",SKY SPORTS FOOTBALL
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761346
 
