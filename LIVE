@@ -528,9 +528,9 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png" group-title="DEPORTES 2",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0.jpeg" group-title="DEPORTES 2", MAROC SPORTS
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-logo="https://www.telemaroc.tv/img/logo.png" group-title="DEPORTES 2", TELEMAROC
 hls://http://5.253.46.190:7001/play/a0cb/index.m3u8
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="DEPORTES 2", Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK ARG
@@ -623,7 +623,6 @@ http://likea8bitboss.xyz:80/Dpride254/5683704192/761353
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",UK: PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761332
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",SPORT TV+
-http://40664589750619214.of1202show.xyz:80/play/mi729956/58cNdpgPnNw/619214.ts
 http://magmas5.com:8000/impejol2022/VJIUZWQ5G9/187450
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",SKY SPORTS FOOTBALL
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761346
