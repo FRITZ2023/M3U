@@ -50,7 +50,7 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 219 | On Tour Channel
 https://marine2.miplay.cl/ontour/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ESTILOS DE VIDA", CL | Más Chic
+#EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4koGoljvt4LHRVAgt19_74fS6ihDBNtRrAMcmJOXuJebstUmToz_MeKjOBNDXFRpHxc&usqp=CAU" group-title="ESTILOS DE VIDA", CL | Más Chic
 http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
@@ -168,6 +168,8 @@ http://190.90.154.73:8080/play/a03j/index.m3u8
 http://190.90.154.73:8080/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV | 2 Megas",2MB | Universal Channel 
 http://190.90.154.73:8080/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="MGM+" tvg-name="2MB | MGM+" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--i37IT0mx--/t_full/cs_srgb,d_tv-fanatic-placeholder-square.png,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="TV | 2 Megas",2MB | MGM+ FEATURE PRESENTATION
+http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
 hls://http://190.90.154.73:8080/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
@@ -214,7 +216,7 @@ http://45.173.201.50:4000/play/a049/index.m3u8
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png",TCS Plus
 http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="ESTILOS DE VIDA", USA | E! Entertainment Televisión
+#EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AE!_Logo.svg&psig=AOvVaw1AzSA8m8z7JxBl46HCFK9N&ust=1707156746440000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCTl9GkkoQDFQAAAAAdAAAAABAs" group-title="ESTILOS DE VIDA", USA | E! Entertainment Televisión
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
 http://45.166.92.22:58001/play/a00q/index.m3u8
@@ -633,7 +635,19 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761353
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",UK: PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761332
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp",SPORT TV+
-http://magmas5.com:8000/impejol2022/VJIUZWQ5G9/187450
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV+ HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111993
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV1
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112995
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV2
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112998
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV3
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112000
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV4
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112002
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV5
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112004
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV6
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112006
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",SKY SPORTS FOOTBALL
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761346
