@@ -113,6 +113,8 @@ http://190.95.220.212:8000/play/a04k/index.m3u8
 http://191.97.60.193:10000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/D1EfOKoeihJzKyps7L-Iu3KzAsHZOEv9ULNedU8-NTgYqp2Us2l-PeWWwZ53ZdgZK-TS3HFLRw=s900-c-k-c0x00ffffff-no-rj",TELELIMA
+http://191.97.60.193:10000/play/a020
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
 http://161.132.243.192:50001/play/a04f/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
@@ -264,7 +266,8 @@ http://176.65.146.136:8020/play/a06p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://190.95.220.212:8000/play/a01e/index.m3u8
-
+#EXTINF:-1, tvg-logo="https://titanchannel.com/wp-content/uploads/2023/07/Logo-TitanChannel-Black.png",TITAN CHANNEL MUAY THAY
+http://191.97.60.193:10000/play/a04d 
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MX | LUCHA LIBRE AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | LUCHA LIBRE AAA
@@ -274,7 +277,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
 http://nxt.plus:8080/painxcd/331075/3283
-
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 http://likea8bitboss.xyz:80/Dpride254/5683704192/775946
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1099 | Canal 5 HD || MÉXICO
@@ -312,7 +314,7 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75",Liga 1 Max
 http://45.173.201.50:4000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75",DIRECTV Liga 1 Max
-http://177.53.153.20:8001/play/a00h/index.m3u8
+http://191.97.60.193:10000/play/a04e
 
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
 http://190.108.85.20:9999/play/a00o
