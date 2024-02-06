@@ -384,9 +384,9 @@ http://191.97.60.193:10000/play/a03e/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZ1s_YFY8PdLZ3YJuWQ4OpBC6vW_iKWAMVi0E1yuhFQ&s" group-title="NOTICIAS E INFORMACION",CANAL IPE
 http://38.56.220.254:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA",Caracol HD
-http://190.61.46.126:8000/play/a03m/index.m3u8
+http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA",RCN HD
-http://190.61.46.126:8000/play/a01h/index.m3u8
+http://190.61.57.2:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="EC | Wuan+" tvg-name="EC | Wuan+" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuanplus-ec.png" group-title="ECUADOR", 481 | Wuan+ || ECUADOR
 http://177.234.247.66:8888/play/a01z/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1200px-EcuadorTV_logo.png",Ecuador TV
@@ -426,7 +426,7 @@ http://190.61.57.2:1010/play/a02g/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz1Cyx_e2oJCxTWbQOXgvc7teKA0e8GkRbMCTc-YVN5ksUotMCinX_63oQypDjpTRBZ0&usqp=CAU" group-title="INTERNACIONAL",TVN HD
 http://45.232.210.27:8000/play/a06r
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="Peliculas",CHV HD
-http://167.250.135.246:81/play/a05r/index.m3u8
+http://177.53.153.20:8001/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 201 | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
