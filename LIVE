@@ -630,6 +630,10 @@ http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsnd
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisdic%2Fnuevas%2Fiwonder%201984.mp4
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/216696/216696_173x256.jpg",PARASITE
 http://magmas5.com:8000/movie/impejol2022/VJIUZWQ5G9/99674.mp4
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
+http://nimpazna.online:2082/alemer1804old/3TcEYMRPUSkZ123/204124
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/b7e96f0397fc0dff8578929cd0646907.png" group-title="SPAIN",||ES|| EUROSPORT 2 HD
+http://nimpazna.online:2082/alemer1804old/3TcEYMRPUSkZ123/204125
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a03863_33e6084bc479415297ac4fb9b8a233d2~mv2.png/v1/fill/w_558,h_418,al_c,lg_1,q_85,enc_auto/arena_sport_1.png",ARENA SPORT 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1LcwR3EDH49m7AazS6GH3LUh-G2irIrgdbt6Z5GQDd2B8YGD4WN4WmAHqlNLd10zuGU&usqp=CAU",ARENA SPORT 2
