@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.gastroactitud.com/wp-content/uploads/2022/06/la-brigada-de-la-cocina-pelicula-2.jpg", La Brigada de la Cocina
 http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjSuz_lBI27oT2k2Wz2X4KWBgtAxZPEA6G32b3U5i7Q&s", UNIVERSAL REALITY
+http://161.132.243.192:50001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
