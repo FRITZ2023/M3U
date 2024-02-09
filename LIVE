@@ -194,7 +194,7 @@ http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="PELICULAS Y SERIES",HBO XTREME
 http://38.56.118.88:4000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.660deaf78cebfa2b28d417d7d377d174.png" group-title="PELICULAS Y SERIES",HBO POP
-http://38.56.118.88:4000/play/a00c/index.m3u8
+http://161.132.243.192:50001/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpfhtx-d23c0247-5474-464b-98de-519c03809eb0.png" group-title="PELICULAS Y SERIES",HBO MUNDI
 http://38.56.118.88:4000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES",HBO SIGNATURE
