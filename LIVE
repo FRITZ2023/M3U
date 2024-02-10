@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.gastroactitud.com/wp-content/uploads/2022/06/la-brigada-de-la-cocina-pelicula-2.jpg", La Brigada de la Cocina
 http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjSuz_lBI27oT2k2Wz2X4KWBgtAxZPEA6G32b3U5i7Q&s", UNIVERSAL REALITY
-http://161.132.243.192:50001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
@@ -173,6 +171,16 @@ http://190.90.154.73:8080/play/a03j/index.m3u8
 http://190.90.154.73:8080/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV | 2 Megas",2MB | Universal Channel 
 http://190.90.154.73:8080/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.28d6a0ec0d1e325a8e05d88f1b14b669.png", UNIVERSAL CRIME
+http://161.132.243.192:50001/play/a03b/index.m3u8 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.f8100fdabf507329fd0443a1c5725d08.png", UNIVERSAL CINEMA
+http://161.132.243.192:50001/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png", UNIVERSAL PREMIER
+http://161.132.243.192:50001/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjSuz_lBI27oT2k2Wz2X4KWBgtAxZPEA6G32b3U5i7Q&s", UNIVERSAL REALITY
+http://161.132.243.192:50001/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.6187403ad73ed4ac7cc015ca9c8def58.png", UNIVERSAL COMEDY
+http://161.132.243.192:50001/play/a03g/index.m3u8 
 #EXTINF:-1 tvg-id="MGM+" tvg-name="2MB | MGM+" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--i37IT0mx--/t_full/cs_srgb,d_tv-fanatic-placeholder-square.png,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="TV | 2 Megas",2MB | MGM+ FEATURE PRESENTATION
 http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
@@ -333,7 +341,8 @@ http://167.250.135.246:81/play/a09v/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS E INFORMACION",RPP TV
 http://177.53.153.20:8001/play/a01d/index.m3u8
-
+#EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", 410 | Sol TV || Trujillo
+http://191.97.60.193:10000/play/a03j
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES",Nativa Televisión
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
