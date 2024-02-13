@@ -68,7 +68,7 @@ http://45.191.196.10:8000/play/a00m
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
 http://190.110.109.104:52321/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA",Sun Channel
-http://45.177.53.7:8000/play/a0i0/index.m3u8
+http://38.56.118.88:4000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
 http://190.60.40.37:12500/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="TELEMAX.MX" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",Telemax Hermosillo 
@@ -253,12 +253,12 @@ http://190.90.252.200:16001/play/a061/index.m3u8
 http://190.90.252.200:16001/play/a063/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037",AZ Cinema HD
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg",CINEMA DINAMITA
-https://nxt.plus:8443/pepespain/rytryrtytrytry/53020
-
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_04/large.TVC_Cine_Mexicano_2016.png.efb8261c27b23dae684cca9e2cc3e581.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
 http://177.234.230.226:8010/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_04/large.TVC_Cine_Mexicano_2016.png.efb8261c27b23dae684cca9e2cc3e581.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano2
+http://23.175.48.252:25461/televall/tm2CfUujSc/112
+#EXTINF:-1, tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg",CINEMA DINAMITA
+https://nxt.plus:8443/pepespain/rytryrtytrytry/53020
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/GjmiPpBz7dQ/hqdefault.jpg",123 MX Old HD
 http://45.181.122.13:8000/play/082
 
