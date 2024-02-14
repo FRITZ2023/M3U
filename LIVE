@@ -153,6 +153,10 @@ http://161.132.243.192:50001/play/a04h/index.m3u8
 http://45.160.191.34:8000/play/a07t
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
+http://23.175.48.252:25461/televall/tm2CfUujSc/126
+#EXTINF:-1 tvg-id="USA | UNIVISION TLNOVELAS" tvg-name="USA | UNIVISION TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION TLNOVELAS
+http://23.175.48.252:25461/televall/tm2CfUujSc/127
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision HD
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",UNIVISION 24/7
@@ -261,7 +265,8 @@ http://23.175.48.252:25461/televall/tm2CfUujSc/112
 https://nxt.plus:8443/pepespain/rytryrtytrytry/53020
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/GjmiPpBz7dQ/hqdefault.jpg",123 MX Old HD
 http://45.181.122.13:8000/play/082
-
+#EXTINF:-1 tvg-logo="https://p7.hiclipart.com/preview/458/741/93/el-chavo-del-ocho-quico-godinez-character-others.jpg",EL CHAVO
+http://23.175.48.252:25461/televall/tm2CfUujSc/82
 #EXTINF:-1, tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png",Claro Cinema
 http://38.41.8.1:8000/play/a066
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
