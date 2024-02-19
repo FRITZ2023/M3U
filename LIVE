@@ -250,7 +250,7 @@ http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="ESTILOS DE VIDA", USA | E! Entertainment Televisión
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AMC HD" tvg-logo="https://1.bp.blogspot.com/-19L6lWZzG5A/X_GzbJjk-4I/AAAAAAAA7MI/oC1I8v6GfgIiG1DjmB1B5Zm55dbNzZzLgCLcBGAsYHQ/s1080/AMCC.png" group-title="CINE & SERIES",DIRECTO : AMC HD
-http://45.166.92.22:58001/play/a00q/index.m3u8
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : AXN HD" tvg-logo="https://1.bp.blogspot.com/-cR6vhHg7CDs/X_HaqKoyQNI/AAAAAAAA7QQ/eSn_Tw1Djz4GLjxJu_4rZEgOAUx-wMFhQCLcBGAsYHQ/s1080/axxn.png" group-title="CINE & SERIES",DIRECTO : AXN HD
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
