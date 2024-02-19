@@ -52,7 +52,8 @@ https://marine2.miplay.cl/ontour/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
+http://supersonictv.live:8080/902354/642373/85913
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
 http://181.119.66.30:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | MASTERCHEF" tvg-logo="https://w7.pngwing.com/pngs/90/546/png-transparent-logo-masterchef-masterchef-logo-text-trademark-orange.png" group-title="24/7 | PLUTO",MX | MASTERCHEF
