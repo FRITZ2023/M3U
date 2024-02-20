@@ -158,6 +158,8 @@ http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",UNIVISION 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | UNIVISION MIAMI HD (E)" tvg-name="USA | UNIVISION MIAMI HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION MIAMI HD (E)
+http://mohdtv.com:8880/ALLChannelsc42afe243593/33208623/60204
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
@@ -296,7 +298,8 @@ http://176.65.146.136:8020/play/a06p/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://190.95.220.212:8000/play/a01e/index.m3u8
-
+#EXTINF:-1 tvg-logo="Phttps://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",PARAMOUNT NETWORK
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA PREMIER- PARAMOUNT+" tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg" group-title="DEPORTES",LA LIGA PREMIER- PARAMOUNT+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MX | LUCHA LIBRE AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | LUCHA LIBRE AAA
