@@ -5,14 +5,20 @@ http://seltz.site:80/movie/prt9tjgr/ea889dbr/89305.mp4
 http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Spektrum_Home_log%C3%B3ja_%282020%29.jpg",SPEKTRUM HOME
+http://46.149.191.217:9018/play/a018
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
 http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
 http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/761/397/png-clipart-logo-arena-sport-sports-high-definition-television-world-poker-tour-cards-television-blue.png",ARENA SPORT 1
+http://46.149.191.217:9001/play/a01g
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO : MOTOR TREND" tvg-logo="https://play-lh.googleusercontent.com/_4eySUbB4EybnxAvbvB0iNco-LqD2dRNzpzuORIwUGKHcnbgP_5T9zQUQ1KBvRFkEmUp" group-title="Bics Extra USA", MOTOR TREND
 http://livex.pop-app.live/s4n/poplive/ch528/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",AUTO MOTOR SPORT
+http://46.149.191.217:9015/play/a00w
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History HD 
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION",History 2 HD
@@ -209,19 +215,19 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="PELICULAS Y SERIES", FX HD
 http://190.90.154.73:8080/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large_HBO.png.61525d229e97014434d2be8f2b3eff64.png" group-title="PELICULAS Y SERIES",HBO HD
-http://38.56.118.88:4000/play/a029/index.m3u8
+http://46.149.191.217:9000/play/a031
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/HBO_Family_2021.svg/revision/latest/scale-to-width-down/200?cb=20230305154012&path-prefix=es" group-title="PELICULAS Y SERIES",HBO Family HD-46
 http://200.59.188.3:8000/play/a034
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="PELICULAS Y SERIES",HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | HBO XTREME" tvg-name="USA | HBO XTREME" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="PELICULAS Y SERIES",HBO XTREME
-http://38.56.118.88:4000/play/a03g/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | HBO POP" tvg-name="USA | HBO POP" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.660deaf78cebfa2b28d417d7d377d174.png" group-title="PELICULAS Y SERIES",HBO POP
 http://177.234.247.66:8888/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO MUNDI" tvg-name="USA | HBO MUNDI" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpfhtx-d23c0247-5474-464b-98de-519c03809eb0.png" group-title="PELICULAS Y SERIES",HBO MUNDI
-http://38.56.118.88:4000/play/a06h/index.m3u8
+http://38.56.118.88:4000/play/a06h/index.m3u8 F
 #EXTINF:-1 tvg-id="USA | HBO SIGNATURE" tvg-name="USA | HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES",HBO SIGNATURE
-http://38.56.118.88:4000/play/a06p/index.m3u8
+http://38.56.118.88:4000/play/a06p/index.m3u8 F 
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 77 | SONY HD
 http://177.53.155.236:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="PELICULAS Y SERIES", SONY MOVIES HD
@@ -304,6 +310,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, tvg-logo="https://titanchannel.com/wp-content/uploads/2023/07/Logo-TitanChannel-Black.png",TITAN CHANNEL MUAY THAY
 http://191.97.60.193:10000/play/a04d/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Arena4_log%C3%B3.svg/1024px-Arena4_log%C3%B3.svg.png",Arena4 HD
+http://46.149.191.217:9000/play/a03k
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjB_sTJ4gcgx1zo_-dJvq_esKDQP7hjbl2e9gz5rZ&s" group-title="DEPORTES",MEX: AFIZZIONADOS
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
