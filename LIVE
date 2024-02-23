@@ -5,7 +5,7 @@ http://seltz.site:80/movie/prt9tjgr/ea889dbr/89305.mp4
 http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Spektrum_Home_log%C3%B3ja_%282020%29.jpg",SPEKTRUM HOME
+#EXTINF:-1 tvg-logo="https://craidrcasa.cloudimg.io/_mentrum/5453db1b-390c-42d2-87db-e071b79d5f23.jpg", SPEKTRUM HOME
 http://46.149.191.217:9018/play/a018
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
 http://185.6.22.6:8000/play/a02z
@@ -51,8 +51,6 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/an/88QrbzCda9Y/888917934900476922_mq.jpg?v=6269b60d" group-title="Peliculas",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320" group-title="Outdoor",AgrotendenciaTV (480p)
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet | CL
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
@@ -89,12 +87,12 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="STVElCamalFamiliar.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="",STV El Camal Familiar (720p) [Not 24/7]
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="",Tele Uno (720p) [Not 24/7]
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRed" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed TV HD
 https://nxt.plus:8443/pepespain/rytryrtytrytry/167076
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema | CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="",Tele Uno (720p) [Not 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Perú Channel" tvg-name="BR | Perú Channel" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="INTERNACIONALES",PERU CHANNEL
