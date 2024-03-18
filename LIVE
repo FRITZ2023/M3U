@@ -1,30 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/227/123/gratis-png-cartel-de-la-pelicula-divergente-thumbnail.png", DIVERGENTE 2014
-http://seltz.site:80/movie/prt9tjgr/ea889dbr/89305.mp4
-#EXTINF:-1 tvg-logo="https://www.gastroactitud.com/wp-content/uploads/2022/06/la-brigada-de-la-cocina-pelicula-2.jpg", La Brigada de la Cocina
-http://blackpanther.life:8080/movie/Juananconde/vyLXfZ3nYX4x/64747.mp4
+
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://craidrcasa.cloudimg.io/_mentrum/5453db1b-390c-42d2-87db-e071b79d5f23.jpg", SPEKTRUM HOME
-http://46.149.191.217:9018/play/a018
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/586/png-transparent-dtx-discovery-channel-discovery-inc-television-discovery-hd-others-television-angle-emblem-thumbnail.png",DTX HD (PP) 
-http://185.6.22.6:8000/play/a02z
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
 http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/761/397/png-clipart-logo-arena-sport-sports-high-definition-television-world-poker-tour-cards-television-blue.png",ARENA SPORT 1
-http://46.149.191.217:9001/play/a01g
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTO : MOTOR TREND" tvg-logo="https://play-lh.googleusercontent.com/_4eySUbB4EybnxAvbvB0iNco-LqD2dRNzpzuORIwUGKHcnbgP_5T9zQUQ1KBvRFkEmUp" group-title="Bics Extra USA", MOTOR TREND
-http://livex.pop-app.live/s4n/poplive/ch528/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",AUTO MOTOR SPORT
-http://46.149.191.217:9015/play/a00w
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="CULTURA Y EDUCACION",History HD 
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="CULTURA Y EDUCACION",History 2 HD
 hls://http://179.51.161.3:9009/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 322 | National Geographic
-http://190.90.154.73:8080/play/a06o/index.m3u8
+http://45.179.164.30:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="CULTURA Y EDUCACION",Discovery Channel HD
 hls://http://179.51.161.3:9009/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="ESTILOS DE VIDA",Discovery Home & Health HD
@@ -34,15 +21,15 @@ http://179.51.161.3:9009/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery Theater HD
 http://179.51.161.3:9009/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="CULTURA Y EDUCACION",Discovery World HD
-http://179.51.161.3:9009/play/a056/index.m3u8
+http://45.179.164.30:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="CULTURA Y EDUCACION", 317 | Discovery Science
-http://190.90.154.73:8080/play/a060/index.m3u8
+http://23.175.48.252:25461/televall/tm2CfUujSc/57
 #EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="TV | Cultura",C | Discovery ID HD
 http://45.226.67.3:58001/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 321 | Animal Planet
-http://190.90.154.73:8080/play/a03m/index.m3u8
+http://23.175.48.252:25461/televall/tm2CfUujSc/15
 #EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="ESTILOS DE VIDA", 211 | HGTV
-http://190.90.154.73:8080/play/a07w/index.m3u8
+http://45.226.67.3:58001/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="PE | TVAGRO" tvg-name="PE | TVAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qeG8od_p6UJYqoDp69eoy6gccqgBQJVJV8oQNp6juw&s" group-title="REGIONALES",TVAGRO CL
 http://190.90.71.68:15082/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
@@ -60,8 +47,7 @@ https://marine2.miplay.cl/ontour/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png",COOKING CHANNEL
-http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://supersonictv.live:8080/902354/642373/85913
 #EXTINF:-1 tvg-id="AR | El Gourmet TV" tvg-name="AR | El Gourmet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="GASTRONOMÍA",El Gourmet HD
@@ -79,7 +65,7 @@ http://190.110.109.104:52321/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA",Sun Channel
 http://38.56.118.88:4000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
-http://190.60.40.37:12500/play/a06v/index.m3u8
+http://45.179.164.30:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TELEMAX.MX" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",Telemax Hermosillo 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
@@ -144,8 +130,12 @@ http://200.59.188.3:8000/play/a00x
 http://38.56.118.88:4000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Eltrece_internacional.png",El Trece Internacional 
 http://177.234.230.226:8010/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS HD
+hls://http://45.179.164.30:8000/play/a02d/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/200px-Logotipo_de_Televisa.svg.png" group-title="Deportes",TELEVISA MTY FHD
+http://23.175.48.252:25461/televall/tm2CfUujSc/29
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/51/22/png-transparent-tv-logo-tv-azteca-television-azteca-7-television-channel-kazd-wdca-thumbnail.png",AZTECA UNO FHD 
+http://23.175.48.252:25461/televall/tm2CfUujSc/16
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", TELEMUNDO
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
@@ -154,8 +144,7 @@ http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",UNIVISION 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | UNIVISION MIAMI HD (E)" tvg-name="USA | UNIVISION MIAMI HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES",UNIVISION MIAMI HD (E)
-http://mohdtv.com:8880/ALLChannelsc42afe243593/33208623/60204
+
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
@@ -164,7 +153,7 @@ http://45.226.67.3:58001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 61 | Kanal D Drama
-http://177.128.113.8:1/play/a0ar
+hls://http://45.179.164.30:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | TNT Novelas HD" tvg-name="USA | TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="PELICULAS Y SERIES", 114 | TNT Novelas HD
 http://177.234.247.66:8888/play/a030/index.m3u8
@@ -453,7 +442,7 @@ http://seltz.site:80/prt9tjgr/ea889dbr/100209
 http://main.xplus2-main.xyz:2082/Tourobox1-xhkzIsaeVo/4n87HEWQlf/175
 http://seltz.site:80/prt9tjgr/ea889dbr/100216
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="INTERNACIONAL",CANAL 2 ESA
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/119587
+http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | LIKE TV" tvg-name="PE | LIKE TV" tvg-logo="https://likemedia.group/wp-content/uploads/2023/02/Like-TV-2-300x197.png" group-title="REGIONALES", 379 | LIKE TV || CL
 http://45.191.196.10:8000/play/a001
 #EXTINF:-1 tvg-id="CL | TV+" tvg-name="CL | TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/245px-TV%2B_%282018%29.png" group-title="CHILE", 752 | TV+ HD || CHILE
