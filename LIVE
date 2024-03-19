@@ -182,13 +182,13 @@ http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRmrfvfBj7XIMOCcuTmovyeNEcTLxXIp4aqBx5fitiQ&s",STARS EDGE
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
-hls://http://190.90.154.73:8080/play/a065/index.m3u8
+http://23.175.48.252:25461/televall/tm2CfUujSc/170
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es", GOLDEN PLUS
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
-http://179.51.161.3:9009/play/a05l/index.m3u8https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://23.175.48.252:25461/televall/tm2CfUujSc/171
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="PELICULAS Y SERIES", FX HD
 http://190.90.154.73:8080/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large_HBO.png.61525d229e97014434d2be8f2b3eff64.png" group-title="PELICULAS Y SERIES",HBO HD
@@ -385,9 +385,9 @@ http://38.56.220.254:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU",Global HD
 http://38.56.118.88:4000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
-hls://http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.2 | Congreso TV
-hls://http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/playlist.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
 http://191.97.60.193:10000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
@@ -530,7 +530,7 @@ https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
-hls://https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="⚡MUSICA⚡",PlanetaTV Music (720p)
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://images2.imgbox.com/5d/f9/MwYlMnzK_o.png" group-title="⚡MUSICA⚡",V Classic TV 
@@ -577,7 +577,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0.jpeg" group-title="DEPORTES 2", MAROC SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-logo="https://www.telemaroc.tv/img/logo.png" group-title="DEPORTES 2", TELEMAROC
-hls://http://5.253.46.190:7001/play/a0cb/index.m3u8
+http://5.253.46.190:7001/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="DEPORTES 2", Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK ARG
