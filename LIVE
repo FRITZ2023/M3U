@@ -190,7 +190,7 @@ https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
 http://23.175.48.252:25461/televall/tm2CfUujSc/171
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="PELICULAS Y SERIES", FX HD
-http://190.90.154.73:8080/play/a02x/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large_HBO.png.61525d229e97014434d2be8f2b3eff64.png" group-title="PELICULAS Y SERIES",HBO HD
 http://46.149.191.217:9000/play/a031
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large_HBO.png.61525d229e97014434d2be8f2b3eff64.png" group-title="PELICULAS Y SERIES",HBO HD
