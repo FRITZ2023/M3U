@@ -162,15 +162,15 @@ http://177.234.247.66:8888/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="PELICULAS Y SERIES", 117 | TNT Series
 http://177.234.247.66:8888/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 91 | Studio Universal
-http://190.90.154.73:8080/play/a03j/index.m3u8
+http://181.78.27.128:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="PELICULAS Y SERIES", 70 | Space
-http://190.90.154.73:8080/play/a00s/index.m3u8
+http://181.78.27.128:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="2MB | Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV | 2 Megas",2MB | Universal Channel 
-http://190.90.154.73:8080/play/a02q/index.m3u8
+http://181.78.27.128:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.28d6a0ec0d1e325a8e05d88f1b14b669.png", UNIVERSAL CRIME
 http://138.117.97.182:58091/play/a0c6
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.f8100fdabf507329fd0443a1c5725d08.png", UNIVERSAL CINEMA
-http://177.53.155.236:8000/play/a09f/index.m3u8
+hls://http://181.78.27.128:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png", UNIVERSAL PREMIER
 http://138.117.97.182:58091/play/a0c3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjSuz_lBI27oT2k2Wz2X4KWBgtAxZPEA6G32b3U5i7Q&s", UNIVERSAL REALITY
@@ -192,7 +192,7 @@ https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
 http://23.175.48.252:25461/televall/tm2CfUujSc/171
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="PELICULAS Y SERIES", FX HD
-http://45.228.234.210:4000/play/a028/index.m3u8
+http://204.199.119.6:1012/play/a011
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large_HBO.png.61525d229e97014434d2be8f2b3eff64.png" group-title="PELICULAS Y SERIES",HBO HD
 http://46.149.191.217:9000/play/a031
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large_HBO.png.61525d229e97014434d2be8f2b3eff64.png" group-title="PELICULAS Y SERIES",HBO HD
