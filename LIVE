@@ -315,9 +315,13 @@ http://190.108.85.20:9999/play/a018
 #EXTINF:-1 tvg-id="USA | ESPN 3 HD" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 HD
 http://190.108.85.20:9999/play/a00f
 #EXTINF:-1 tvg-id="USA | ESPN 4 HD" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 HD
-http://138.59.177.34:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN Extra" tvg-name="USA | ESPN Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png" group-title="DEPORTES",ESPN EXTRA HD
 http://190.108.85.20:9999/play/a00x
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png",ESPN 5 HD
+#EXTINF:-1 tvg-logo="http://45.228.232.205:16000/play/a081/index.m3u8
+#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png",ESPN 6
+http://45.228.232.205:16000/play/a09a/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png",ESPN 7 HD
+hls://http://181.78.208.237:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports Premium" tvg-name="USA | Fox Sports Premium" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="DEPORTES",Fox Sports HD
 http://177.234.247.66:8888/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Fox Sports 2" tvg-name="USA | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 HD
