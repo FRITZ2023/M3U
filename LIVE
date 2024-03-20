@@ -170,7 +170,7 @@ http://181.78.27.128:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.28d6a0ec0d1e325a8e05d88f1b14b669.png", UNIVERSAL CRIME
 http://138.117.97.182:58091/play/a0c6
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.f8100fdabf507329fd0443a1c5725d08.png", UNIVERSAL CINEMA
-hls://http://181.78.27.128:8000/play/a02f/index.m3u8
+http://181.78.27.128:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png", UNIVERSAL PREMIER
 http://138.117.97.182:58091/play/a0c3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjSuz_lBI27oT2k2Wz2X4KWBgtAxZPEA6G32b3U5i7Q&s", UNIVERSAL REALITY
@@ -181,10 +181,9 @@ http://138.117.97.182:58091/play/a0c7
 http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRmrfvfBj7XIMOCcuTmovyeNEcTLxXIp4aqBx5fitiQ&s",STARS EDGE
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
-http://23.175.48.252:25461/televall/tm2CfUujSc/170
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
-hls://http://45.228.234.210:4000/play/a02l/index.m3u8
+http://45.228.234.210:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es", GOLDEN PLUS
