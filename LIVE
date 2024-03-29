@@ -634,6 +634,12 @@ https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 http://redima.pro:8880/movie/TISUCR/TISUCR/504.mp4
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F_d9mIT2pZ0/VpafULKZvBI/AAAAAAAALaQ/oSAlYEDtPak/s500-Ic42/rolando-menendez-el-cipitio.jpg" group-title="PELICULAS",Las Aventuras Del Cipitio (El Cipitio Enamorado) 
 https://archive.org/download/las-aventuras-del-cipitio-el-cipitio-enamorado/Las%20Aventuras%20del%20Cipit%C3%ADo%20-%20El%20Cipit%C3%ADo%20Enamorado.ia.mp4
+#EXTINF:-1,007 James Bond contra Goldfinger (1964)
+http://budtvlight.com:25461/movie/bud-654331/1f2971ce77/135552.mp4
+#EXTINF:-1,007 Operacion Trueno (1965)
+http://budtvlight.com:25461/movie/bud-654331/1f2971ce77/135550.mp4
+#EXTINF:-1,007 Al servicio secreto de su Majestad (1969)
+http://budtvlight.com:25461/movie/bud-654331/1f2971ce77/135548.mp4
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf_xBpyhG7IRBqMY8mljZ9UFShV9h9Y-cqg&usqp=CAU" group-title="PELÍCULAS",007 GOLDEN EYE 1
 http://archive.org/download/mio53_yopmail_1/1.mp4
 #EXTINF:-1, tvg-logo="https://diaryofamoviemaniac.files.wordpress.com/2017/08/a13.jpg" group-title="PELÍCULAS",007 TOMORROW NEVER DIES 2
