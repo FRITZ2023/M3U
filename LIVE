@@ -359,7 +359,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/49ca32c0-6047-4285-a562-a8886edec04f/Logo_Euronews_stacked_whitehorizontal.jpg", EURONEWS SPANISH HD
 http://177.234.230.226:8010/play/a03k/index.m3u8
 #EXTINF:-1 group-title="ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", CGTN (Spanish)
-http://190.110.109.104:52321/play/a00c/index.m3u8
+http://200.59.188.3:8000/play/a099
+
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
