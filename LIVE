@@ -59,17 +59,23 @@ http://hardcoremedia.xyz:80/rabdsbmz/3731346838/5287
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MX | PLUTO TV RECETAS" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | PLUTO TV RECETAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-#EXTINF:-1 tvg-id="PE | Sazon TV" tvg-name="PE | Sazon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTzAa_y05U3NyZhtKxIyQ9jfKHAlhHwMa1IA1JvSh_NZhV2KTXz9xPreO7xiitLK1qO4&usqp=CAU" group-title="REGIONALES", 393 | Sazon TV || Perú; Lima
-http://45.191.196.10:8000/play/a00m
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/A_La_Cocina_TV_logo.jpg" group-title="INTERNACIONAL",PE | ALA COCINA *FHD
+http://budtvlight.com:25461/bud-654331/1f2971ce77/40378
 #EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
 http://190.110.109.104:52321/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA",Sun Channel
-http://38.56.118.88:4000/play/a01l/index.m3u8
+http://170.81.241.222:3/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
 http://45.179.164.30:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TELEMAX.MX" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",Telemax Hermosillo 
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
+#EXTINF:-1,CRONICA TV
+http://181.78.27.128:8000/play/a04k/index.m3u8
+#EXTINF:-1,IP ARG
+http://181.78.27.128:8000/play/a055/index.m3u8
+#EXTINF:-1,ENCUENTRO HD
+http://181.78.27.128:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="STVElCamalFamiliar.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="",STV El Camal Familiar (720p) [Not 24/7]
