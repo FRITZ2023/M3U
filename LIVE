@@ -105,8 +105,9 @@ http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/D1EfOKoeihJzKyps7L-Iu3KzAsHZOEv9ULNedU8-NTgYqp2Us2l-PeWWwZ53ZdgZK-TS3HFLRw=s900-c-k-c0x00ffffff-no-rj",TELELIMA
 http://191.97.60.193:10000/play/a020
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 400 | Gamarra Channel || Lima
-http://191.97.60.193:10000/play/a03i/index.m3u8
-
+https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
+#EXTINF:-1,SEÑAL PERU
+https://livestream.perucast.com/low/stream.m3u8
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
 https://ott1.hdlatam.tv/live_abr/XMLASdrjw9hvjbf/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
@@ -339,7 +340,7 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75",Liga 1
 http://38.56.220.254:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75",DIRECTV Liga 1 Max
-http://38.56.220.254:8000/play/a01k/index.m3u8
+http://4ksuper.live:80/play/live.php?mac=00:1A:79:BC:0C:1F&stream=1462539&extension=ts&play_token=MjKKiAwbYg
 
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
 http://190.108.85.20:9999/play/a00o
@@ -379,7 +380,7 @@ http://179.1.146.21:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
 http://177.234.230.226:8010/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
-https://livestream.perucast.com/low/stream.m3u8
+http://4ksuper.live:80/play/live.php?mac=00:1A:79:BC:0C:1F&stream=79324&extension=ts&play_token=TdVTyWpKju
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
 http://38.56.118.88:4000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
