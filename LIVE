@@ -268,7 +268,7 @@ http://190.90.252.200:16001/play/a063/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037",AZ Cinema HD
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_04/large.TVC_Cine_Mexicano_2016.png.efb8261c27b23dae684cca9e2cc3e581.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
-http://177.234.230.226:8010/play/a00e/index.m3u8
+http://23.175.48.252:25461/televall/tm2CfUujSc/112
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/GjmiPpBz7dQ/hqdefault.jpg",123 MX Old HD
 http://45.181.122.13:8000/play/082
 
@@ -420,7 +420,7 @@ http://45.177.53.7:8000/play/a0jl/index.m3u8
 #EXTINF:-1 tvg-id="EC | Wuan+" tvg-name="EC | Wuan+" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuanplus-ec.png" group-title="ECUADOR", 481 | Wuan+ || ECUADOR
 http://177.234.247.66:8888/play/a01z/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/1200px-EcuadorTV_logo.png",Ecuador TV
-https://samson.streamerr.co:8081/akira/index.m3u8
+http://redima.pro:8880/mora3598/mora3598/685
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 470 | Ecuavisa || ECUADOR
 http://177.234.230.226:8010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="CR | Ticavision Canal 27" tvg-name="CR | Ticavision Canal 27" tvg-logo="https://costaricatelevision.com/sites/default/files/2021-03/ticavision-costa-rica_0.png" group-title="COSTA RICA", TICAVISION CR
@@ -673,9 +673,9 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/216696/216696_173x256.jpg",PARASITE
 http://magmas5.com:8000/movie/impejol2022/VJIUZWQ5G9/99674.mp4
 #EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="||ES|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/e9828fe86ef30928e77f1af4a4db6205.png" group-title="SPAIN",||ES|| EUROSPORT 1 HD
-https://nxt.plus:8443/pepespain/rytryrtytrytry/59541
+http://likea8bitboss.xyz:80/3302433848/8107964523/775902
 #EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="||ES|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/b7e96f0397fc0dff8578929cd0646907.png" group-title="SPAIN",||ES|| EUROSPORT 2 HD
-https://nxt.plus:8443/pepespain/rytryrtytrytry/59830
+http://likea8bitboss.xyz:80/3302433848/8107964523/775903
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a03863_33e6084bc479415297ac4fb9b8a233d2~mv2.png/v1/fill/w_558,h_418,al_c,lg_1,q_85,enc_auto/arena_sport_1.png",ARENA SPORT 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1LcwR3EDH49m7AazS6GH3LUh-G2irIrgdbt6Z5GQDd2B8YGD4WN4WmAHqlNLd10zuGU&usqp=CAU",ARENA SPORT 2
@@ -692,20 +692,7 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761353
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",UK: PREMIER SPORTS 2
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761332
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV+ HD
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111993
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV1
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112995
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112998
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV3
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112000
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV4
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112002
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV5
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112004
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV6
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112006
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png",SKY SPORTS FOOTBALL
 http://likea8bitboss.xyz:80/Dpride254/5683704192/761346
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbeQcKo8CVIikz2BtHWetgq4MnedhEWTuX9cZvRkGvg&s", SKY SPORTS LA LIGA
