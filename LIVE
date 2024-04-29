@@ -327,7 +327,9 @@ http://181.78.208.237:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png",ESPN 6
 http://45.228.232.205:16000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png",ESPN 7 HD
-hls://http://181.78.208.237:8000/play/a01f/index.m3u8
+http://181.78.208.237:8000/play/a01f/index.m3u8
+#EXTINF:-1,105 - Superliga de Dinamarca
+http://4ksuper.live:80/play/live.php?mac=00:1A:79:BC:0C:1F&stream=247642&extension=ts&play_token=o6oqm27Kei
 #EXTINF:-1,106 - ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1,107 - ESPN 2 HD
