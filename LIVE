@@ -415,7 +415,7 @@ http://45.179.164.30:8000/play/a0dr/index.m3u8
 #EXTINF:-1, CUBAVISION
 http://45.179.164.30:8000/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina HD
-http://161.132.108.74:50001/play/a029/
+http://38.56.118.88:4000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | América HD
 http://45.179.164.30:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana HD
