@@ -45,8 +45,10 @@ https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4koGoljvt4LHRVAgt19_74fS6ihDBNtRrAMcmJOXuJebstUmToz_MeKjOBNDXFRpHxc&usqp=CAU" group-title="ESTILOS DE VIDA", CL | Más Chic
 http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MX", Telemax | HD
 https://www.canal26.com/telemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/279726
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
@@ -108,6 +110,8 @@ http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/151523.ts
 https://ott1.hdlatam.tv/live/mwG4m4rr4chann3lmu/playlist.m3u8
 #EXTINF:-1,SEÑAL PERU
 https://livestream.perucast.com/low/stream.m3u8
+#EXTINF:-1,MIELTV (CHANCHAMAYO) 
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/309328
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
 https://ott1.hdlatam.tv/live_abr/XMLASdrjw9hvjbf/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsN2faFrE30HM2ZacxjHVQUGsm4sgmXQpQS76ogQ66svBdorFWSJpLZ6rU4xQqF1d-&usqp=CAU" group-title="Peliculas",Televid
@@ -245,7 +249,7 @@ http://177.234.247.66:8888/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 103 | Star Channel
 http://177.234.247.66:8888/play/a019/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/Multipremier_2020.png/revision/latest?cb=20220115005213&path-prefix=es",Multipremier
-http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/243547
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png",TCS Plus
 http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | E!" tvg-name="USA | E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="ESTILOS DE VIDA", USA | E! Entertainment Televisión
@@ -303,9 +307,9 @@ http://iptvtree.net:8080/065966f3/85b17833bf/280262
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjB_sTJ4gcgx1zo_-dJvq_esKDQP7hjbl2e9gz5rZ&s" group-title="DEPORTES",MEX: AFIZZIONADOS
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
-http://nxt.plus:8080/painxcd/331075/3283
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/244266
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
-https://linear-347.frequency.stream/dist/studio/347/hls/master/playlist.m3u8
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/237673
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1099 | Canal 5 HD || MÉXICO
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1101 | Azteca 7 HD || MÉXICO
