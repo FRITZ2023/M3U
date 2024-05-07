@@ -305,7 +305,7 @@ http://191.97.60.193:10000/play/a04d/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Arena4_log%C3%B3.svg/1024px-Arena4_log%C3%B3.svg.png",Arena4 HD
 http://iptvtree.net:8080/065966f3/85b17833bf/280262
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjB_sTJ4gcgx1zo_-dJvq_esKDQP7hjbl2e9gz5rZ&s" group-title="DEPORTES",MEX: AFIZZIONADOS
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/265475
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
 http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/244266
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
