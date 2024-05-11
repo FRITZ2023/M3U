@@ -1,7 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1,105 - Superliga de Dinamarca
-http://4ksuper.live:80/play/live.php?mac=00:1A:79:BC:0C:1F&stream=247642&extension=ts&play_token=o6oqm27Kei
+#EXTINF:-1,ES: DECASA TV HD
+http://300180145379681795.ofx508.xyz:80/live/vi1129870/tpryvsKkp6yT/681795.ts
+#EXTINF:-1,ES: DBIKE FHD
+http://300180145379706109.ofx508.xyz:80/live/vi1129870/tpryvsKkp6yT/706109.ts
 #EXTINF:-1,106 - ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1,107 - ESPN 2 HD
@@ -9,15 +10,19 @@ http://161.132.108.74:50001/play/a008/index.m3u8
 #EXTINF:-1,108 - ESPN 3 HD
 http://161.132.108.74:50001/play/a00g/index.m3u8
 #EXTINF:-1,109 - ESPN 4 HD
-http://161.132.108.74:50001/play/a00v/index.m3u8
-#EXTINF:-1,110 - ESPN EXTRA HD
 http://161.132.108.74:50001/play/a014/index.m3u8
+#EXTINF:-1,110 - ESPN EXTRA HD
+http://161.132.108.74:50001/play/a00v/index.m3u8
 #EXTINF:-1,111 - Fox Sports HD
 http://161.132.108.74:50001/play/a02p/index.m3u8
 #EXTINF:-1,112 - Fox Sports 2 HD
 http://161.132.108.74:50001/play/a00w/index.m3u8
 #EXTINF:-1,113 - Fox Sports 3 HD
 http://161.132.108.74:50001/play/a00h/index.m3u8
+#EXTINF:-1,ES: MLS MESSI
+http://300180145379585364.ofx508.xyz:80/live/vi1129870/tpryvsKkp6yT/585364.ts
+#EXTINF:-1,ES: MLS MESSI Pro
+http://300180145379585369.ofx508.xyz:80/live/vi1129870/tpryvsKkp6yT/585369.ts
 #EXTINF:-1 tvg-logo="https://yachtingtv.tv/wp-content/uploads/2023/01/Yachting.png",Yachting tv
 https://streamer.yachtingtv.tv/YachtingTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="CULTURA Y EDUCACION", DISCOVERY TURBO HD 99
