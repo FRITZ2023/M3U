@@ -182,10 +182,10 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158648
 http://131.161.53.2:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/51/22/png-transparent-tv-logo-tv-azteca-television-azteca-7-television-channel-kazd-wdca-thumbnail.png",AZTECA UNO FHD 
 http://23.175.48.252:25461/televall/tm2CfUujSc/16
-#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", TELEMUNDO
-http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", TELEMUNDO MIAMI
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159383
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 66 | Telemundo Internacional
-http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+hls://http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1362.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision HD
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",UNIVISION 24/7
@@ -222,19 +222,15 @@ http://138.117.97.182:58091/play/a0c3
 http://138.117.97.182:58091/play/a0c5
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.1490211344_UniversalComedy-Claro.png.6187403ad73ed4ac7cc015ca9c8def58.png", UNIVERSAL COMEDY
 http://138.117.97.182:58091/play/a0c7
-#EXTINF:-1 tvg-id="MGM+" tvg-name="2MB | MGM+" tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--i37IT0mx--/t_full/cs_srgb,d_tv-fanatic-placeholder-square.png,f_auto,fl_strip_profile.lossy,q_auto:420/v1664380416/mgm-plus-logo.jpg" group-title="TV | 2 Megas",2MB | MGM+ FEATURE PRESENTATION
-http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRmrfvfBj7XIMOCcuTmovyeNEcTLxXIp4aqBx5fitiQ&s",STARS EDGE
-http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", 119 | Golden
-http://45.228.234.210:4000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="PELICULAS Y SERIES", MX | GOLDEN HD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159222
 #EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PELICULAS Y SERIES", 120 | Golden Premiere HD
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es", GOLDEN PLUS
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | GOLDEN PLUS" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png", GOLDEN EDGE
-http://23.175.48.252:25461/televall/tm2CfUujSc/171
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159225
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png" group-title="PELICULAS Y SERIES", FX HD
 http://161.132.108.74:50001/play/a00z/index.m3u8
 
@@ -261,7 +257,7 @@ http://177.53.155.236:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="PELICULAS Y SERIES", SONY MOVIES HD
 http://177.53.155.236:8000/play/a08n/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png",036 - Lifetime HD
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159192
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png",TLC
 http://181.78.64.71:16123/play/ch26
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png",USA SERIES
@@ -272,8 +268,7 @@ http://138.117.97.182:58091/play/a05y
 http://138.117.97.182:58091/play/a05k
 #EXTINF:-1, tvg-logo="https://c0.klipartz.com/pngpicture/462/535/gratis-png-warner-tv-canal-de-television-wb-canal-warner-bros-wbtv-el-canal-warner-uk.png",WARNER HD
 http://181.78.208.237:8000/play/a007/index.m3u8
-#EXTINF:-1, tvg-logo="https://c0.klipartz.com/pngpicture/462/535/gratis-png-warner-tv-canal-de-television-wb-canal-warner-bros-wbtv-el-canal-warner-uk.png",WARNER HD PE
-http://138.59.177.34:8000/play/a05d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Paramount_Pictures_print_logo_%281968%29.svg/250px-Paramount_Pictures_print_logo_%281968%29.svg.png" group-title="FILMES", PARAMOUNT CHANNEL
 http://45.179.164.30:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 101 | Star Channel
@@ -309,8 +304,10 @@ http://190.90.252.200:16001/play/a064/index.m3u8
 http://190.90.252.200:16001/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES",Cine Familiar HD
 http://190.90.252.200:16001/play/a063/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg",CINEMA DINAMITA
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159217
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037",AZ Cinema HD
-http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159209
 #EXTINF:-1 tvg-id="MX | Cine Mexicano" tvg-name="MX | Cine Mexicano" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_04/large.TVC_Cine_Mexicano_2016.png.efb8261c27b23dae684cca9e2cc3e581.png" group-title="PELICULAS Y SERIES", 127 | Cine Mexicano
 http://23.175.48.252:25461/televall/tm2CfUujSc/112
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/GjmiPpBz7dQ/hqdefault.jpg",123 MX Old HD
@@ -319,15 +316,9 @@ http://45.181.122.13:8000/play/082
 http://45.179.164.30:8000/play/a0ck/index.m3u8
 #EXTINF:-1, tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e7aa7c01c4839bad771064e3795aa71f.png",Claro Cinema
 http://38.41.8.1:8000/play/a066
-#EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj" group-title="MISCELANEO", 206 | Canal Claro HD
-http://138.59.177.34:8000/play/a01k/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png?20150520075938" group-title="Peliculas",Travelxp HD
-http://161.132.108.74:50001/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/de6nZzv.png" group-title="ITALIA",CafeTV24 Veneto 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png",LA7d HD
-http://aanax.com:8080/065966f3/85b17833bf/988
 
 #EXTINF:-1, tvg-logo="https://www.televisual.com/wp-content/uploads/love-nature-logo.jpg" group-title="Peliculas",Love Nature HD
 http://161.132.108.74:50001/play/a01p/index.m3u8
