@@ -10,6 +10,8 @@ http://161.132.108.74:50001/play/a03p/index.m3u8
 http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
+#EXTINF:-1,ORLANDO VS INTER MIAMI
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/star2099.jpg",STAR PLUS
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
