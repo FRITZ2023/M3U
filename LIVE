@@ -8,6 +8,20 @@ http://161.132.108.74:50001/play/a03o/index.m3u8
 http://161.132.108.74:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
 http://161.132.108.74:50001/play/a03q/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbeQcKo8CVIikz2BtHWetgq4MnedhEWTuX9cZvRkGvg&s", SKY SPORTS LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV+ HD
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/226217.ts
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png",SPORTV 1 HDR 
+http://appleuhd.us:80/lista149/2818424242/776
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2 4K 
+http://appleuhd.us:80/lista149/2818424242/777
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",SPORTV 3 4K 
+http://appleuhd.us:80/lista149/2818424242/778
+#EXTINF:-1,ORLANDO VS INTER MIAMI
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/star2099.jpg",STAR PLUS
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
@@ -662,16 +676,3 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/ArenaSport-6-logo.png",ARENA SPORT 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:-1,ORLANDO VS INTER MIAMI
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/star2099.jpg",STAR PLUS
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbeQcKo8CVIikz2BtHWetgq4MnedhEWTuX9cZvRkGvg&s", SKY SPORTS LA LIGA
-http://181.78.105.146:2000/play/a08m/index.m3u8#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png",SPORTV 1 HDR 
-http://appleuhd.us:80/lista149/2818424242/776
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2 4K 
-http://appleuhd.us:80/lista149/2818424242/777
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",SPORTV 3 4K 
-http://appleuhd.us:80/lista149/2818424242/778
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV+ HD
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/226217.ts
