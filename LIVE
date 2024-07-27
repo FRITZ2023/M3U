@@ -1,1 +1,27 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/49ca32c0-6047-4285-a562-a8886edec04f/Logo_Euronews_stacked_whitehorizontal.jpg", EURONEWS SPANISH HD
+http://177.234.230.226:8010/play/a03k/index.m3u8
+#EXTINF:-1 group-title="ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", CGTN (Spanish)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="STVELCANALFAMILIAR.CR" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="",STV El Camal Familiar (720p) [Not 24/7]
+https://www.sarapiquitvcr.com/?fbclid=IwZXh0bgNhZW0CMTAAAR1BVfBRG0CeruWSoGWcr8etkHHvPxz2iC5jnG4_rjSfTLgUE6LbUY-RjSg_aem_pNp3B11AlKULNi4Zxdgfig
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.1 (1080p)
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.2 (1080p)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1024px-TD_M%C3%A1s_Logo.png",TD+HD CR-80
+http://45.179.164.30:8000/play/a07p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3%A1s_2_Logo.svg.png",TD+2 HD CR
+http://45.179.164.30:8000/play/a07q/index.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="DEPORTE",Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",*Motor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Top Gear
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
