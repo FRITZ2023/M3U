@@ -1,16 +1,45 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/sDhPWxOlm9lX46hxzaNfmAUVSzH_GS_wGqOPwsDBZBZz1CXU5LMA58EnBGvmKn4eRrEd=w526-h296-rw",AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
+http://181.78.67.178:1010/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/49ca32c0-6047-4285-a562-a8886edec04f/Logo_Euronews_stacked_whitehorizontal.jpg", EURONEWS SPANISH HD
 http://177.234.230.226:8010/play/a03k/index.m3u8
 #EXTINF:-1 group-title="ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", CGTN (Spanish)
-https://livees.cgtn.com/1000e/prog_index.m3u8
+https://livees.cgtn.com/200e/prog_index.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="VE | Venevisión" tvg-name="VE | Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA",Venevisiðn
+http://190.95.220.212:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://lamegatv.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png" group-title="CR", TeleSUR Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png", Mi TV Televisión Clásica | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="STVELCANALFAMILIAR.CR" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="",STV El Camal Familiar (720p) [Not 24/7]
 https://www.sarapiquitvcr.com/?fbclid=IwZXh0bgNhZW0CMTAAAR1BVfBRG0CeruWSoGWcr8etkHHvPxz2iC5jnG4_rjSfTLgUE6LbUY-RjSg_aem_pNp3B11AlKULNi4Zxdgfig
+#EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="",Tele Uno (720p) [Not 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
+http://190.95.220.212:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 470 | Ecuavisa || ECUADOR
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/11031
+#EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png", UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMAVISION
+http://190.95.220.212:8000/play/a04k/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYfHmy0wR_35Xq1yeHB23lR15rr6akpB-qcxDHyuqnA&s" group-title="Peliculas",Turrialba Digital TV CR
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CR | Canal 21" tvg-name="CR | Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="COSTA RICA", CANAL 21 ESA
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.1 (1080p)
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.2 (1080p)
