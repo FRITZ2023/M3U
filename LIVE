@@ -59,7 +59,7 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="FILMES", PARAMOUNT NETWORK HD
 http://45.179.164.30:8000/play/a03p/index.m3u8
 #EXTINF:-1, tvg-logo="https://c0.klipartz.com/pngpicture/462/535/gratis-png-warner-tv-canal-de-television-wb-canal-warner-bros-wbtv-el-canal-warner-uk.png",WARNER HD
-http://45.179.164.30:8000/play/a04x/index.m3u8
+http://201.159.113.219:49000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", Star Channel
 http://45.179.164.30:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", Star Channel
