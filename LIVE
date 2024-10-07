@@ -36,6 +36,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?Playlis
 https://serenotv.com/video/canal-stv-sarapiquitv/
 #EXTINF:-1 tvg-id="STVELCANALFAMILIAR.CR" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="",STV El Camal Familiar (720p) [Not 24/7]
 https://www.sarapiquitvcr.com/?fbclid=IwZXh0bgNhZW0CMTAAAR1BVfBRG0CeruWSoGWcr8etkHHvPxz2iC5jnG4_rjSfTLgUE6LbUY-RjSg_aem_pNp3B11AlKULNi4Zxdgfig
+#EXTINF:-1 tvg-id="STVELCANALFAMILIAR.CR" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="",STV El Camal Familiar (720p) [Not 24/7]
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/94704
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
