@@ -8,6 +8,8 @@ http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",UNIVSN MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",UNIVSN LA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONLA&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://181.78.67.178:1010/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
@@ -108,3 +110,13 @@ https://serenotv.com/video/canal-jn19/
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1,40
+https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307226.mp4
+#EXTINF:-1,41
+https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307227.mp4
+#EXTINF:-1,42
+https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307228.mp4
+#EXTINF:-1,43
+https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307229.mp4
+#EXTINF:-1,BOX GALLO
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D9:BE&stream=174529&extension=ts&play_token=UVyNKoepgg
