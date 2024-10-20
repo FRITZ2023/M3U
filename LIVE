@@ -110,13 +110,4 @@ https://serenotv.com/video/canal-jn19/
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1,40
-https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307226.mp4
-#EXTINF:-1,41
-https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307227.mp4
-#EXTINF:-1,42
-https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307228.mp4
-#EXTINF:-1,43
-https://fenixplay.info:8443/series/YorlenyMarin15/S9ZpEQgxJd/307229.mp4
-#EXTINF:-1,BOX GALLO
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D9:BE&stream=174529&extension=ts&play_token=UVyNKoepgg
+
