@@ -27,8 +27,11 @@ http://45.179.164.30:8000/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cocina-familiar.com/wp-content/uploads/2022/09/logo_cocina_familiar_crema.png" group-title="ESPANA", COCINA FAMILIAR
-https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8 
-
+http://992106392111909087.ofnm1026.xyz:80/live/Wiki1116B/Aydtymewe123/909087.ts
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
+http://186.148.195.206:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png", GOLPLAY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13121
 #EXTINF:-1 tvg-logo="https://lamegatv.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png" group-title="CR", TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
