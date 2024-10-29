@@ -30,6 +30,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797ba
 http://992106392111909087.ofnm1026.xyz:80/live/Wiki1116B/Aydtymewe123/909087.ts
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
 http://186.148.195.206:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16092786_b_v13_aa.jpg",IRON CHEFF
+http://megaxtv.com:80/anderson123/anderson123/292482
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png", GOLPLAY
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/13121
 #EXTINF:-1 tvg-logo="https://lamegatv.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png" group-title="CR", TeleSUR Costa Rica
