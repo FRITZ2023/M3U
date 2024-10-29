@@ -26,14 +26,7 @@ https://livees.cgtn.com/200e/prog_index.m3u8
 http://45.179.164.30:8000/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://cocina-familiar.com/wp-content/uploads/2022/09/logo_cocina_familiar_crema.png" group-title="ESPANA", COCINA FAMILIAR
-http://992106392111909087.ofnm1026.xyz:80/live/Wiki1116B/Aydtymewe123/909087.ts
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
-http://186.148.195.206:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16092786_b_v13_aa.jpg",IRON CHEFF
-http://megaxtv.com:80/anderson123/anderson123/292482
-#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png", GOLPLAY
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/13121
+
 #EXTINF:-1 tvg-logo="https://lamegatv.com/wp-content/uploads/2022/06/Logotipo-TeleSUR-2017-1000px-Blanco-768x228.png" group-title="CR", TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
@@ -115,17 +108,4 @@ https://serenotv.com/video/canal-jn19/
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1,6707 SPAI GOL
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/13121
-#EXTINF:-1,Carita de Ángel S01 E50
-http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/50786.mp4
-#EXTINF:-1,Carita de Ángel S01 E51
-http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/50787.mp4
-#EXTINF:-1,Carita de Ángel S01 E52
-http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/50788.mp4
-#EXTINF:-1,Carita de Ángel S01 E53
-http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/50789.mp4
-#EXTINF:-1,Carita de Ángel S01 E54
-http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/50790.mp4
-#EXTINF:-1,Carita de Ángel S01 E55
-http://tv.proyectox.vip:8080/series/carsalazar1/4ANqaenRM5/50791.mp4
+
