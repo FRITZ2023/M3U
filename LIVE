@@ -110,3 +110,5 @@ https://servilive.com:3224/live/jn19tv2live.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-logo=".png",CHV HD
+https://marine2.miplay.cl/chvchile/index.m3u8
