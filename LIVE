@@ -1,13 +1,31 @@
 #EXTM3U
-
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6woRf6Bn7UbfS51axp2gFp_dM7XGmppYsOUyn2GJGVYDyKy9ybJdaUwjWYZo6hn2OMI&usqp=CAU" group-title="Deportes",AZTECA A+
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10922
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6woRf6Bn7UbfS51axp2gFp_dM7XGmppYsOUyn2GJGVYDyKy9ybJdaUwjWYZo6hn2OMI&usqp=CAU" group-title="Deportes",AZTECA A+
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10922
+#EXTINF:-1 tvg-id="TeleRed" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed TV HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/78021
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
+http://160.20.165.246:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="MUSICA Y REALITIES", Retro Plus TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Retro Plus 2 TV" tvg-name="CL | Retro Plus 2 TV" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" group-title="MUSICA Y REALITIES", 277 | Retro Plus 2 TV
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="RU | СОЛНЦЕ TV" tvg-name="RU | СОЛНЦЕ TV" tvg-logo="https://alupka.yaltastar.net/wp-content/uploads/sites/2/2023/06/solnce.png" group-title="MUSICA Y REALITIES", СОЛНЦЕ TV
-http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://images2.imgbox.com/5d/f9/MwYlMnzK_o.png" group-title="?MUSICA?",V Classic TV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICA",Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/International_Table_Soccer_Federation_logo.png", ITSF
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS HD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",Telemundo telenovelas clásicas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",UNIVSN MIAMI
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",UNIVSN LA
@@ -47,11 +65,11 @@ https://serenotv.com/video/canal-telesistema/
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", Oromar Televisión || ECUADOR
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/11031
+
 http://190.95.220.212:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuavisa || ECUADOR
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/11031
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",Ecuavisa (1080p) [Not 24/7]
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="45161" tvg-name="UCV" tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png", UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMAVISION
@@ -62,10 +80,13 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CR | Canal 21" tvg-name="CR | Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="COSTA RICA", CANAL 21 ESA
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+#EXTINF:-1, tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="Perú",CANAL 8 TV
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1, tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="PERU",Auténtica Televisión
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/sDhPWxOlm9lX46hxzaNfmAUVSzH_GS_wGqOPwsDBZBZz1CXU5LMA58EnBGvmKn4eRrEd=w526-h296-rw",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1, tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Peliculas", CANAL 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="FILMES", PARAMOUNT NETWORK HD
 http://45.179.164.30:8000/play/a03p/index.m3u8
 #EXTINF:-1, tvg-logo="https://c0.klipartz.com/pngpicture/462/535/gratis-png-warner-tv-canal-de-television-wb-canal-warner-bros-wbtv-el-canal-warner-uk.png",WARNER HD
