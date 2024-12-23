@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="STVElCamalFamiliar.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="",SARAPIQUI TV 
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/94704 sarapiqui
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6woRf6Bn7UbfS51axp2gFp_dM7XGmppYsOUyn2GJGVYDyKy9ybJdaUwjWYZo6hn2OMI&usqp=CAU" group-title="Deportes",AZTECA A+
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10922
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6woRf6Bn7UbfS51axp2gFp_dM7XGmppYsOUyn2GJGVYDyKy9ybJdaUwjWYZo6hn2OMI&usqp=CAU" group-title="Deportes",AZTECA A+
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10922
-#EXTINF:-1 tvg-id="TeleRed" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed TV HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/78021
-#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
-http://160.20.165.246:8000/play/a00t/index.m3u8
+
 #EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="MUSICA Y REALITIES", Retro Plus TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Retro Plus 2 TV" tvg-name="CL | Retro Plus 2 TV" tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg" group-title="MUSICA Y REALITIES", 277 | Retro Plus 2 TV
