@@ -132,3 +132,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo=".png",CHV HD
 https://marine2.miplay.cl/chvchile/index.m3u8
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 466 | Oromar Televisión || ECUADOR
+https://oromartv.com/tv-en-vivo/
+#EXTINF:-1, tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="Perú",CANAL 8 TV
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-300x169.png", CARACOLATV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
