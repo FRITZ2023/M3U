@@ -87,7 +87,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 21" tvg-name="CR | Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="COSTA RICA", CANAL 21 ESA
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 447 | Agro TV || Cuzco
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3686751091/ce242392e46bcf1dc422a1b197ff8758_400x400.png" group-title="PERU",ELPITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-300x169.png", CARACOLATV
